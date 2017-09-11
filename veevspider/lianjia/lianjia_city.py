@@ -6,7 +6,7 @@ __author__ = 'Veev'
 import requests
 from bs4 import BeautifulSoup
 from lxml import etree
-from club.veev.veevspider.base import log, header_helper, proxy_helper
+from veevspider.base import log, header_helper, proxy_helper
 
 site = 'https://m.lianjia.com'
 # site = 'https://www.lianjia.com'
@@ -47,6 +47,4 @@ def save_city_to_csv():
 
 
 if __name__ == '__main__':
-    # get_city()
-    # save_city_to_csv()
     log.i(0)
