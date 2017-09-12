@@ -1,9 +1,14 @@
-import jieba
+import requests
+import re
 
 
 def main():
-    seg_list = jieba.cut("全模式，把句子中所有的可以成词的词语都扫描出来, 速度非常快，但是不能解决歧义；", cut_all=True)
-    print("Full Mode: " + "/ ".join(seg_list))  # 全模式
+    is_archives = 'http://aladd.net/archives/\d+.html'
+    url = 'http://aladd.net/archives/32635.html'
+    if re.match('http://aladd.net/archives/\d+.html', url):
+        print(True)
+    else:
+        print(False)
 
 
 if __name__ == '__main__':

@@ -14,7 +14,7 @@ import time
 
 from base import header_helper as header
 
-test_url = ['https://m.lianjia.com']
+test_url = ['http://aladd.net']
 
 
 def get(site='default'):
@@ -242,5 +242,4 @@ class _Checker(threading.Thread):
 if __name__ == '__main__':
     spider = ProxySpider()
     # spider.start()
-    log.i(49)
     pass
