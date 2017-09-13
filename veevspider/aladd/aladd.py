@@ -136,7 +136,7 @@ def start():
     #     return
     proxy = {'http': 'http://183.66.64.120:3128', 'https': 'https://183.66.64.120:3128'}
     url = get_url()
-    # url = 'http://aladd.net/archives/32344.html'
+    # url = 'http://aladd.net/archives/30327.html'
     while True:
         try:
             print('正在抓取网页', url)
@@ -151,6 +151,8 @@ def start():
                 site_list = list()
                 for a in a_list:
                     _url = a['href']
+                    if _url == BASE_URL:
+                        continue
                     site_list.append(_url)
                 put_sites(site_list)
 

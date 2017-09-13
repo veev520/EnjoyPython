@@ -11,7 +11,7 @@ def main():
     else:
         print(False)
 
-    print(random.randint(5, 15) * 0.1)
+    print('http://aladd.net/archives/32635.html' == url)
 
 
 if __name__ == '__main__':
