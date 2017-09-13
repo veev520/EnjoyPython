@@ -1,5 +1,6 @@
 import requests
 import re
+import random
 
 
 def main():
@@ -10,8 +11,8 @@ def main():
     else:
         print(False)
 
+    print(random.randint(5, 15) * 0.1)
+
 
 if __name__ == '__main__':
     main()
-    a= list()
-    print(a)

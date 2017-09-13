@@ -5,6 +5,7 @@ import requests
 import time
 import threading
 import re
+import random
 from base import header_helper, proxy_helper, log
 
 BASE_URL = 'http://aladd.net'
@@ -59,6 +60,15 @@ def show_all():
 
 
 @db_session
+def show_detail():
+    all_count = Site.select().count()
+    done_count = count(s for s in Site if s.is_crawled == True)
+    print('全部链接数\t', all_count)
+    print('完成链接数\t', done_count)
+    print('等待链接数\t', (all_count - done_count))
+
+
+@db_session
 def get_site(url):
     return Site.get(url=url)
 
@@ -87,6 +97,7 @@ def save_img(url, name, path='pic'):
     :param name: 图片名
     :param path: 保存的位置
     """
+    path = 'E:/Veev/Pictures/爬虫专用/aladd/' + path
     check_folder(path)
 
     #  后缀
@@ -96,7 +107,7 @@ def save_img(url, name, path='pic'):
     elif url.endswith('.gif'):
         suffix = '.gif'
 
-    name = path + '/' + name + '_' + str(len(os.listdir('pic')) + 1) + suffix
+    name = path + '/' + name + '_' + str(len(os.listdir(path)) + 1) + suffix
     r = requests.get(url=url, headers=header_helper.pc())
     if r.status_code == 200:
         open(name, 'wb').write(r.content)
@@ -124,45 +135,46 @@ def start():
     # if not proxy:
     #     return
     proxy = {'http': 'http://183.66.64.120:3128', 'https': 'https://183.66.64.120:3128'}
-    try:
-        url = get_url()
-        url = 'http://aladd.net/archives/31671.html'
-        print('正在抓取网页', url)
-        r = requests.get(url=url, headers=header_helper.pc(), proxies=proxy, timeout=30)
-        if r.status_code == 200:
-            # 这个网页抓取完了, 设置为已抓取
-            crawl_url(url)
+    url = get_url()
+    # url = 'http://aladd.net/archives/32344.html'
+    while True:
+        try:
+            print('正在抓取网页', url)
+            r = requests.get(url=url, headers=header_helper.pc(), proxies=proxy, timeout=30)
+            if r.status_code == 200:
+                # 这个网页抓取完了, 设置为已抓取
+                crawl_url(url)
 
-            soup = BeautifulSoup(r.text, 'lxml')
-            # 拿到全部的内链
-            a_list = soup.find_all('a', {'href': re.compile(BASE_URL)})
-            site_list = list()
-            for a in a_list:
-                _url = a['href']
-                site_list.append(_url)
-                print(a)
-            put_sites(site_list)
+                soup = BeautifulSoup(r.text, 'lxml')
+                # 拿到全部的内链
+                a_list = soup.find_all('a', {'href': re.compile(BASE_URL)})
+                site_list = list()
+                for a in a_list:
+                    _url = a['href']
+                    site_list.append(_url)
+                put_sites(site_list)
 
-            print()
-            print('===========================')
-            print(is_archives(url))
+                if is_archives(url):
+                    archive_id = re.findall('\d+', url)[0]
+                    title = soup.find_all('div', {'class': 'entry_title'})[0].h1.text
+                    print('保存图片', title)
+                    img_list = soup.find_all('a', {'href': url})
+                    for img in img_list:
+                        save_img(img.img['src'], img.img['alt'], path=(archive_id + '_' + title))
 
-            if is_archives(url):
-                title = soup.find_all('div', {'class': 'entry_title'})[0].h1.text
-                print('title', title)
-                img_list = soup.find_all('img', {'alt': title})
-                print('img_list', img_list)
-                for img in img_list:
-                    save_img(img['src'], title, path=title)
-                    print(img)
-    except Exception as e:
-        print(e)
-    finally:
-        pass
+                print('抓取完成, 本页链接数', len(site_list))
+        except Exception as e:
+            print('====================')
+            print('抓取异常', e)
+            print('====================')
+        finally:
+            time.sleep(random.randint(5, 15) * 0.1)
+            url = get_url()
+            pass
     pass
 
 
 if __name__ == '__main__':
     init_db()
+    show_detail()
     start()
-    # show_all()
