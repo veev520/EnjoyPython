@@ -1,3 +1,6 @@
 .idea
 veevspider/__pycache__/
 veevspider/base/__pycache__/
+scrapy/first/first/__pycache__/
+scrapy/first/first/spiders/__pycache__/
+test/__pycache__/
