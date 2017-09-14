@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from pony.orm import *
 import os
 from bs4 import BeautifulSoup
@@ -23,7 +26,6 @@ def init_db():
     db.bind(provider='sqlite', filename='aladd.sqlite', create_db=True)
     sql_debug(False)
     db.generate_mapping(create_tables=True)
-    print(db.entities)
 
 
 @db_session
@@ -216,8 +218,8 @@ def start_crawl(proxy, thread):
 
 if __name__ == '__main__':
     init_db()
-    show_detail()
     # clean_prep()
+    show_detail()
     # show_all()
     thread_list = list()
     p1 = {'http': 'http://183.66.64.120:3128', 'https': 'https://183.66.64.120:3128'}
@@ -227,6 +229,6 @@ if __name__ == '__main__':
     thread_list.append(threading.Thread(target=start_crawl, args=(p2, 'thread-2')))
     thread_list.append(threading.Thread(target=start_crawl, args=(p3, 'thread-3')))
     for t in thread_list:
-        t.start()
+        # t.start()
         pass
     pass

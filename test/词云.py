@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import matplotlib.pyplot as plt
-from wordcloud import WordCloud,ImageColorGenerator,STOPWORDS
+from wordcloud import WordCloud, ImageColorGenerator, STOPWORDS
 import jieba
 import numpy as np
 from PIL import Image
@@ -33,9 +33,9 @@ wl_space_split = " ".join(word_list)
 
 # wc = WordCloud().generate(wl_space_split) 默认构造函数
 wc = WordCloud(
-            background_color='white',                   # 设置背景颜色
+            background_color='black',                   # 设置背景颜色
             mask=mask_img,                             # 设置背景图片
-            max_words=200,                              # 设置最大现实的字数
+            max_words=150,                              # 设置最大现实的字数
             stopwords=STOPWORDS,                        # 设置停用词
             font_path='C:/Windows/Fonts/simsun.ttc',    # 设置字体格式，如不设置显示不了中文
             max_font_size=100,                           # 设置字体最大值
