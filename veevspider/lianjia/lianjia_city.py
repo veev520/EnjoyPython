@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from lxml import etree
 from veevspider.base import log, header_helper, proxy_helper
 
-site = 'https://m.lianjia.com'
+site = 'https://www.lianjia.com'
 # site = 'https://www.lianjia.com'
 url = 'https://m.lianjia.com/city/'
 city_list = list()
@@ -48,3 +48,4 @@ def save_city_to_csv():
 
 if __name__ == '__main__':
     log.i(0)
+    get_city()

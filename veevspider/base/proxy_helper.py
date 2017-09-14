@@ -14,7 +14,7 @@ import time
 
 from base import header_helper as header
 
-test_url = ['http://aladd.net']
+test_url = ['https://www.lianjia.com']
 
 
 def get(site='default'):
@@ -120,6 +120,9 @@ class ProxySpider:
         thread_list.append(threading.Thread(target=self.get_xi_ci()))
         thread_list.append(threading.Thread(target=self.get_data_5u()))
         thread_list.append(threading.Thread(target=self.get_ip_181()))
+        thread_list.append(threading.Thread(target=self.get_mimiip()))
+        thread_list.append(threading.Thread(target=self.get_kxdaili()))
+        thread_list.append(threading.Thread(target=self.get_ip3366()))
 
         for t in thread_list:
             t.start()
@@ -127,10 +130,21 @@ class ProxySpider:
             t.join()
         # 校验
         log.i('==========  准备校验  ==========')
+        print(0, _quene_proxy)
         self.__check()
         pass
 
-    def get_xi_ci(self):
+    @staticmethod
+    def __check():
+        print(1, _quene_proxy)
+        while _quene_proxy:
+            if len(threading.enumerate()) < 128:
+                _Checker(_quene_proxy.pop()).start()
+        log.i('==========  校验完毕  ==========')
+        pass
+
+    @staticmethod
+    def get_xi_ci():
         """
         西刺代理
         """
@@ -154,7 +168,8 @@ class ProxySpider:
         log.i('-- 西刺爬取完成, 共计 %d 条 --' % __count)
         pass
 
-    def get_data_5u(self):
+    @staticmethod
+    def get_data_5u():
         """
         无忧代理
         """
@@ -165,7 +180,6 @@ class ProxySpider:
         for url in url_list:
             try:
                 r = requests.get(url=url, headers=header.pc())
-                log.i('5u', r.status_code)
                 if r.status_code == 200:
                     tree = etree.HTML(r.text)
                     ul_list = tree.xpath('//ul[@class="l2"]')
@@ -177,7 +191,8 @@ class ProxySpider:
                 pass
         log.i('-- 无忧爬取完成, 共计 %d 条 --' % __count)
 
-    def get_ip_181(self):
+    @staticmethod
+    def get_ip_181():
         """
         ip181
         """
@@ -185,7 +200,6 @@ class ProxySpider:
         __count = 0
         try:
             r = requests.get(url=url, headers=header.pc())
-            log.i('181', r.status_code)
             if r.status_code == 200:
                 tree = etree.HTML(r.text)
                 tr_list = tree.xpath('//tr')[1:]
@@ -197,11 +211,73 @@ class ProxySpider:
             pass
         log.i('-- ip181爬取完成, 共计 %d 条 --' % __count)
 
-    def __check(self):
-        while _quene_proxy:
-            while len(threading.enumerate()) < 128:
-                _Checker(_quene_proxy.pop(0)).start()
-        log.i('==========  校验完毕  ==========')
+    @staticmethod
+    def get_mimiip():
+        """
+        http://www.mimiip.com/gngao/ 代理
+        """
+        url_list = ('http://www.mimiip.com/gnpu/',  # 普通
+                    'http://www.mimiip.com/gngao/',  # 高匿
+                    'http://www.mimiip.com/gntou/',  # 透明
+                    )
+        __count = 0
+        for url in url_list:
+            try:
+                r = requests.get(url=url, headers=header.pc())
+                if r.status_code == 200:
+                    tree = etree.HTML(r.text)
+                    tr_list = tree.xpath('//tr')[1:]
+                    for tr in tr_list:
+                        proxy = (tr.xpath('./td/text()')[0], tr.xpath('./td/text()')[1])
+                        _quene_proxy.append(proxy)
+                        __count += 1
+            except Exception as e:
+                pass
+        log.i('-- mimiip 爬取完成, 共计 %d 条 --' % __count)
+        pass
+
+    @staticmethod
+    def get_kxdaili():
+        """
+        开心 代理
+        """
+        url_list = ['http://www.kxdaili.com/ipList/%d.html#ip' % i for i in range(1, 11)]
+        __count = 0
+        for url in url_list:
+            try:
+                r = requests.get(url=url, headers=header.pc())
+                if r.status_code == 200:
+                    tree = etree.HTML(r.text)
+                    tr_list = tree.xpath('//tr')[1:]
+                    for tr in tr_list:
+                        proxy = (tr.xpath('./td/text()')[0], tr.xpath('./td/text()')[1])
+                        _quene_proxy.append(proxy)
+                        __count += 1
+            except Exception as e:
+                pass
+        log.i('-- mimiip 爬取完成, 共计 %d 条 --' % __count)
+        pass
+
+    @staticmethod
+    def get_ip3366():
+        """
+        ip3366 代理
+        """
+        url_list = ['http://www.ip3366.net/free/?stype=1&page=%d' % i for i in range(1, 11)]
+        __count = 0
+        for url in url_list:
+            try:
+                r = requests.get(url=url, headers=header.pc())
+                if r.status_code == 200:
+                    tree = etree.HTML(r.text)
+                    tr_list = tree.xpath('//tr')[1:]
+                    for tr in tr_list:
+                        proxy = (tr.xpath('./td/text()')[0], tr.xpath('./td/text()')[1])
+                        _quene_proxy.append(proxy)
+                        __count += 1
+            except Exception as e:
+                pass
+        log.i('-- mimiip 爬取完成, 共计 %d 条 --' % __count)
         pass
 
     pass
