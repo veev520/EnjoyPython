@@ -28,7 +28,7 @@ HTML_B = '''
 SIZE = (160, 100)
 
 # 要显示的文字
-FONT_LIST = '王伟当然是最帅的啦'
+FONT_LIST = '爱'
 
 
 def get_new_size(xy):

@@ -19,7 +19,7 @@ def get_city():
     proxy = proxy_helper.get(site)
     if not proxy:
         return
-    r = requests.get(url=url, headers=header_helper.mobile(), proxies=proxy, timeout=20)
+    r = requests.get(url=url, headers=header_helper.baidu_mobile(), timeout=20)
     if r.status_code == 200:
         soup = BeautifulSoup(r.text, "lxml")
         log.i(soup)
@@ -47,5 +47,4 @@ def save_city_to_csv():
 
 
 if __name__ == '__main__':
-    log.i(0)
     get_city()
