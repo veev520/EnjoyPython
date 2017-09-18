@@ -4,7 +4,7 @@ HTML_T = '''
 <html>
 <head>
     <meta charset="utf-8">
-    <title>{{ title }}</title>
+    <title>Image</title>
     <style type="text/css">
         body {
             margin: 0px; padding: 0px; line-height:100%; letter-spacing:0px; text-align: center;

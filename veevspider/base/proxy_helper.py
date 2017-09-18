@@ -391,7 +391,7 @@ class _Checker(threading.Thread):
 
 if __name__ == '__main__':
     spider = ProxySpider()
-    spider.start()
+    # spider.start()
     # delete('111.13.2.138:80', 'https://www.lianjia.com')
-    # show()
+    show()
     pass
