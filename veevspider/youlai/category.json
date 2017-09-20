@@ -1,0 +1,9687 @@
+[
+    {
+        "id": "1",
+        "category": "数字常识",
+        "father": "0"
+    },
+    {
+        "id": "2",
+        "category": "人名故事",
+        "father": "0"
+    },
+    {
+        "id": "3",
+        "category": "民间典故",
+        "father": "0"
+    },
+    {
+        "id": "6",
+        "category": "日常词解",
+        "father": "0"
+    },
+    {
+        "id": "7",
+        "category": "中国地名",
+        "father": "0"
+    },
+    {
+        "id": "8",
+        "category": "风俗节庆",
+        "father": "0"
+    },
+    {
+        "id": "9",
+        "category": "海外探寻",
+        "father": "0"
+    },
+    {
+        "id": "10",
+        "category": "黑龙江省",
+        "father": "7"
+    },
+    {
+        "id": "18",
+        "category": "河南省",
+        "father": "7"
+    },
+    {
+        "id": "19",
+        "category": "山西省",
+        "father": "7"
+    },
+    {
+        "id": "20",
+        "category": "山东省",
+        "father": "7"
+    },
+    {
+        "id": "21",
+        "category": "江苏省",
+        "father": "7"
+    },
+    {
+        "id": "22",
+        "category": "上海市",
+        "father": "7"
+    },
+    {
+        "id": "23",
+        "category": "安徽省",
+        "father": "7"
+    },
+    {
+        "id": "24",
+        "category": "浙江省",
+        "father": "7"
+    },
+    {
+        "id": "25",
+        "category": "湖南省",
+        "father": "7"
+    },
+    {
+        "id": "26",
+        "category": "湖北省",
+        "father": "7"
+    },
+    {
+        "id": "27",
+        "category": "江西省",
+        "father": "7"
+    },
+    {
+        "id": "28",
+        "category": "福建省",
+        "father": "7"
+    },
+    {
+        "id": "29",
+        "category": "香港特区",
+        "father": "7"
+    },
+    {
+        "id": "30",
+        "category": "澳门特区",
+        "father": "7"
+    },
+    {
+        "id": "31",
+        "category": "台湾省",
+        "father": "7"
+    },
+    {
+        "id": "32",
+        "category": "广东省",
+        "father": "7"
+    },
+    {
+        "id": "33",
+        "category": "广西壮族自治区",
+        "father": "7"
+    },
+    {
+        "id": "34",
+        "category": "海南省",
+        "father": "7"
+    },
+    {
+        "id": "35",
+        "category": "贵州省",
+        "father": "7"
+    },
+    {
+        "id": "36",
+        "category": "重庆市",
+        "father": "7"
+    },
+    {
+        "id": "37",
+        "category": "云南省",
+        "father": "7"
+    },
+    {
+        "id": "38",
+        "category": "四川省",
+        "father": "7"
+    },
+    {
+        "id": "39",
+        "category": "陕西省",
+        "father": "7"
+    },
+    {
+        "id": "40",
+        "category": "宁夏回族自治区",
+        "father": "7"
+    },
+    {
+        "id": "41",
+        "category": "甘肃省",
+        "father": "7"
+    },
+    {
+        "id": "42",
+        "category": "青海省",
+        "father": "7"
+    },
+    {
+        "id": "43",
+        "category": "西藏自治区",
+        "father": "7"
+    },
+    {
+        "id": "44",
+        "category": "新疆维吾尔族自治区",
+        "father": "7"
+    },
+    {
+        "id": "45",
+        "category": "哈尔滨市",
+        "father": "10"
+    },
+    {
+        "id": "46",
+        "category": "齐齐哈尔市",
+        "father": "10"
+    },
+    {
+        "id": "47",
+        "category": "黑河市",
+        "father": "10"
+    },
+    {
+        "id": "48",
+        "category": "大庆市",
+        "father": "10"
+    },
+    {
+        "id": "49",
+        "category": "伊春市",
+        "father": "10"
+    },
+    {
+        "id": "50",
+        "category": "鹤岗市",
+        "father": "10"
+    },
+    {
+        "id": "51",
+        "category": "佳木斯市",
+        "father": "10"
+    },
+    {
+        "id": "52",
+        "category": "双鸭山市",
+        "father": "10"
+    },
+    {
+        "id": "53",
+        "category": "七台河市",
+        "father": "10"
+    },
+    {
+        "id": "54",
+        "category": "鸡西市",
+        "father": "10"
+    },
+    {
+        "id": "55",
+        "category": "牡丹江市",
+        "father": "10"
+    },
+    {
+        "id": "56",
+        "category": "绥化市",
+        "father": "10"
+    },
+    {
+        "id": "57",
+        "category": "大兴安岭地区",
+        "father": "10"
+    },
+    {
+        "id": "58",
+        "category": "人名故事",
+        "father": "2"
+    },
+    {
+        "id": "59",
+        "category": "俗语方言",
+        "father": "3"
+    },
+    {
+        "id": "60",
+        "category": "山川古迹",
+        "father": "3"
+    },
+    {
+        "id": "61",
+        "category": "诗词文史",
+        "father": "3"
+    },
+    {
+        "id": "62",
+        "category": "词汇之源",
+        "father": "9"
+    },
+    {
+        "id": "63",
+        "category": "外国地名",
+        "father": "9"
+    },
+    {
+        "id": "64",
+        "category": "五常市",
+        "father": "45"
+    },
+    {
+        "id": "65",
+        "category": "尚志市",
+        "father": "45"
+    },
+    {
+        "id": "67",
+        "category": "延寿县",
+        "father": "45"
+    },
+    {
+        "id": "68",
+        "category": "通河县",
+        "father": "45"
+    },
+    {
+        "id": "69",
+        "category": "木兰县",
+        "father": "45"
+    },
+    {
+        "id": "70",
+        "category": "巴彦县",
+        "father": "45"
+    },
+    {
+        "id": "72",
+        "category": "方正县",
+        "father": "45"
+    },
+    {
+        "id": "73",
+        "category": "依兰县",
+        "father": "45"
+    },
+    {
+        "id": "74",
+        "category": "讷河市",
+        "father": "46"
+    },
+    {
+        "id": "75",
+        "category": "拜泉县",
+        "father": "46"
+    },
+    {
+        "id": "76",
+        "category": "克东县",
+        "father": "46"
+    },
+    {
+        "id": "77",
+        "category": "克山县",
+        "father": "46"
+    },
+    {
+        "id": "78",
+        "category": "富裕县",
+        "father": "46"
+    },
+    {
+        "id": "79",
+        "category": "甘南县",
+        "father": "46"
+    },
+    {
+        "id": "80",
+        "category": "泰来县",
+        "father": "46"
+    },
+    {
+        "id": "81",
+        "category": "依安县",
+        "father": "46"
+    },
+    {
+        "id": "82",
+        "category": "龙江县",
+        "father": "46"
+    },
+    {
+        "id": "83",
+        "category": "五大连池市",
+        "father": "47"
+    },
+    {
+        "id": "84",
+        "category": "北安市",
+        "father": "47"
+    },
+    {
+        "id": "85",
+        "category": "孙吴县",
+        "father": "47"
+    },
+    {
+        "id": "86",
+        "category": "逊克县",
+        "father": "47"
+    },
+    {
+        "id": "87",
+        "category": "嫩江县",
+        "father": "47"
+    },
+    {
+        "id": "88",
+        "category": "杜尔伯特蒙古族自治县",
+        "father": "48"
+    },
+    {
+        "id": "89",
+        "category": "林甸县",
+        "father": "48"
+    },
+    {
+        "id": "90",
+        "category": "肇源县",
+        "father": "48"
+    },
+    {
+        "id": "91",
+        "category": "肇州县",
+        "father": "48"
+    },
+    {
+        "id": "92",
+        "category": "铁力市",
+        "father": "49"
+    },
+    {
+        "id": "93",
+        "category": "嘉荫县",
+        "father": "49"
+    },
+    {
+        "id": "94",
+        "category": "绥滨县",
+        "father": "50"
+    },
+    {
+        "id": "95",
+        "category": "萝北县",
+        "father": "50"
+    },
+    {
+        "id": "96",
+        "category": "富锦市",
+        "father": "51"
+    },
+    {
+        "id": "97",
+        "category": "同江市",
+        "father": "51"
+    },
+    {
+        "id": "98",
+        "category": "抚远县",
+        "father": "51"
+    },
+    {
+        "id": "99",
+        "category": "汤原县",
+        "father": "51"
+    },
+    {
+        "id": "100",
+        "category": "桦川县",
+        "father": "51"
+    },
+    {
+        "id": "101",
+        "category": "桦南县",
+        "father": "51"
+    },
+    {
+        "id": "102",
+        "category": "饶河县",
+        "father": "52"
+    },
+    {
+        "id": "103",
+        "category": "宝清县",
+        "father": "52"
+    },
+    {
+        "id": "104",
+        "category": "友谊县",
+        "father": "52"
+    },
+    {
+        "id": "105",
+        "category": "集贤县",
+        "father": "52"
+    },
+    {
+        "id": "106",
+        "category": "勃利县",
+        "father": "53"
+    },
+    {
+        "id": "107",
+        "category": "密山市",
+        "father": "54"
+    },
+    {
+        "id": "108",
+        "category": "虎林市",
+        "father": "54"
+    },
+    {
+        "id": "109",
+        "category": "鸡东县",
+        "father": "54"
+    },
+    {
+        "id": "110",
+        "category": "穆棱市",
+        "father": "55"
+    },
+    {
+        "id": "111",
+        "category": "宁安市",
+        "father": "55"
+    },
+    {
+        "id": "112",
+        "category": "海林市",
+        "father": "55"
+    },
+    {
+        "id": "113",
+        "category": "绥芬河市",
+        "father": "55"
+    },
+    {
+        "id": "114",
+        "category": "林口县",
+        "father": "55"
+    },
+    {
+        "id": "115",
+        "category": "东宁县",
+        "father": "55"
+    },
+    {
+        "id": "116",
+        "category": "海伦市",
+        "father": "56"
+    },
+    {
+        "id": "117",
+        "category": "肇东市",
+        "father": "56"
+    },
+    {
+        "id": "118",
+        "category": "安达市",
+        "father": "56"
+    },
+    {
+        "id": "119",
+        "category": "绥棱县",
+        "father": "56"
+    },
+    {
+        "id": "120",
+        "category": "明水县",
+        "father": "56"
+    },
+    {
+        "id": "121",
+        "category": "庆安县",
+        "father": "56"
+    },
+    {
+        "id": "122",
+        "category": "青冈县",
+        "father": "56"
+    },
+    {
+        "id": "123",
+        "category": "兰西县",
+        "father": "56"
+    },
+    {
+        "id": "124",
+        "category": "望奎县",
+        "father": "56"
+    },
+    {
+        "id": "125",
+        "category": "漠河县",
+        "father": "57"
+    },
+    {
+        "id": "126",
+        "category": "塔河县",
+        "father": "57"
+    },
+    {
+        "id": "127",
+        "category": "呼玛县",
+        "father": "57"
+    },
+    {
+        "id": "128",
+        "category": "乌鲁木齐市",
+        "father": "44"
+    },
+    {
+        "id": "129",
+        "category": "克拉玛依市",
+        "father": "44"
+    },
+    {
+        "id": "130",
+        "category": "吐鲁番地区",
+        "father": "44"
+    },
+    {
+        "id": "131",
+        "category": "哈密地区",
+        "father": "44"
+    },
+    {
+        "id": "132",
+        "category": "昌吉回族自治州",
+        "father": "44"
+    },
+    {
+        "id": "133",
+        "category": "博尔塔拉蒙古自治州",
+        "father": "44"
+    },
+    {
+        "id": "134",
+        "category": "巴音郭楞蒙古自治州",
+        "father": "44"
+    },
+    {
+        "id": "135",
+        "category": "阿克苏地区",
+        "father": "44"
+    },
+    {
+        "id": "136",
+        "category": "克孜勒苏柯尔克孜自治州",
+        "father": "44"
+    },
+    {
+        "id": "137",
+        "category": "喀什地区",
+        "father": "44"
+    },
+    {
+        "id": "138",
+        "category": "和田地区",
+        "father": "44"
+    },
+    {
+        "id": "139",
+        "category": "伊犁哈萨克自治州",
+        "father": "44"
+    },
+    {
+        "id": "140",
+        "category": "塔城地区",
+        "father": "44"
+    },
+    {
+        "id": "141",
+        "category": "阿勒泰地区",
+        "father": "44"
+    },
+    {
+        "id": "142",
+        "category": "新疆生产建设兵团",
+        "father": "44"
+    },
+    {
+        "id": "143",
+        "category": "乌鲁木齐县",
+        "father": "128"
+    },
+    {
+        "id": "144",
+        "category": "托克逊县",
+        "father": "130"
+    },
+    {
+        "id": "145",
+        "category": "鄯善县",
+        "father": "130"
+    },
+    {
+        "id": "146",
+        "category": "吐鲁番市",
+        "father": "130"
+    },
+    {
+        "id": "147",
+        "category": "哈密市",
+        "father": "131"
+    },
+    {
+        "id": "148",
+        "category": "巴里坤哈萨克自治县",
+        "father": "131"
+    },
+    {
+        "id": "149",
+        "category": "伊吾县",
+        "father": "131"
+    },
+    {
+        "id": "150",
+        "category": "昌吉市",
+        "father": "132"
+    },
+    {
+        "id": "151",
+        "category": "阜康市",
+        "father": "132"
+    },
+    {
+        "id": "152",
+        "category": "呼图壁县",
+        "father": "132"
+    },
+    {
+        "id": "153",
+        "category": "玛纳斯县",
+        "father": "132"
+    },
+    {
+        "id": "154",
+        "category": "奇台县",
+        "father": "132"
+    },
+    {
+        "id": "155",
+        "category": "吉木萨尔县",
+        "father": "132"
+    },
+    {
+        "id": "156",
+        "category": "木垒哈萨克自治县",
+        "father": "132"
+    },
+    {
+        "id": "157",
+        "category": "博乐市",
+        "father": "133"
+    },
+    {
+        "id": "158",
+        "category": "阿拉山口市",
+        "father": "133"
+    },
+    {
+        "id": "159",
+        "category": "精河县",
+        "father": "133"
+    },
+    {
+        "id": "160",
+        "category": "温泉县",
+        "father": "133"
+    },
+    {
+        "id": "161",
+        "category": "库尔勒市",
+        "father": "134"
+    },
+    {
+        "id": "162",
+        "category": "轮台县",
+        "father": "134"
+    },
+    {
+        "id": "163",
+        "category": "尉犁县",
+        "father": "134"
+    },
+    {
+        "id": "164",
+        "category": "若羌县",
+        "father": "134"
+    },
+    {
+        "id": "165",
+        "category": "且末县",
+        "father": "134"
+    },
+    {
+        "id": "166",
+        "category": "焉耆回族自治县",
+        "father": "134"
+    },
+    {
+        "id": "167",
+        "category": "和静县",
+        "father": "134"
+    },
+    {
+        "id": "168",
+        "category": "和硕县",
+        "father": "134"
+    },
+    {
+        "id": "169",
+        "category": "博湖县",
+        "father": "134"
+    },
+    {
+        "id": "170",
+        "category": "阿克苏市",
+        "father": "135"
+    },
+    {
+        "id": "171",
+        "category": "温宿县",
+        "father": "135"
+    },
+    {
+        "id": "172",
+        "category": "库车县",
+        "father": "135"
+    },
+    {
+        "id": "173",
+        "category": "沙雅县",
+        "father": "135"
+    },
+    {
+        "id": "174",
+        "category": "新和县",
+        "father": "135"
+    },
+    {
+        "id": "175",
+        "category": "拜城县",
+        "father": "135"
+    },
+    {
+        "id": "176",
+        "category": "乌什县",
+        "father": "135"
+    },
+    {
+        "id": "177",
+        "category": "阿瓦提县",
+        "father": "135"
+    },
+    {
+        "id": "178",
+        "category": "柯坪县",
+        "father": "135"
+    },
+    {
+        "id": "179",
+        "category": "阿图什市",
+        "father": "136"
+    },
+    {
+        "id": "180",
+        "category": "阿克陶县",
+        "father": "136"
+    },
+    {
+        "id": "181",
+        "category": "阿合奇县",
+        "father": "136"
+    },
+    {
+        "id": "182",
+        "category": "乌恰县",
+        "father": "136"
+    },
+    {
+        "id": "183",
+        "category": "喀什市",
+        "father": "137"
+    },
+    {
+        "id": "184",
+        "category": "疏附县",
+        "father": "137"
+    },
+    {
+        "id": "185",
+        "category": "疏勒县",
+        "father": "137"
+    },
+    {
+        "id": "186",
+        "category": "英吉沙县",
+        "father": "137"
+    },
+    {
+        "id": "187",
+        "category": "泽普县",
+        "father": "137"
+    },
+    {
+        "id": "188",
+        "category": "莎车县",
+        "father": "137"
+    },
+    {
+        "id": "189",
+        "category": "叶城县",
+        "father": "137"
+    },
+    {
+        "id": "190",
+        "category": "麦盖提县",
+        "father": "137"
+    },
+    {
+        "id": "191",
+        "category": "岳普湖县",
+        "father": "137"
+    },
+    {
+        "id": "192",
+        "category": "伽师县",
+        "father": "137"
+    },
+    {
+        "id": "193",
+        "category": "巴楚县",
+        "father": "137"
+    },
+    {
+        "id": "194",
+        "category": "塔什库尔干塔吉克自治县",
+        "father": "137"
+    },
+    {
+        "id": "195",
+        "category": "和田市",
+        "father": "138"
+    },
+    {
+        "id": "196",
+        "category": "和田县",
+        "father": "138"
+    },
+    {
+        "id": "197",
+        "category": "墨玉县",
+        "father": "138"
+    },
+    {
+        "id": "198",
+        "category": "皮山县",
+        "father": "138"
+    },
+    {
+        "id": "199",
+        "category": "洛浦县",
+        "father": "138"
+    },
+    {
+        "id": "200",
+        "category": "策勒县",
+        "father": "138"
+    },
+    {
+        "id": "201",
+        "category": "于田县",
+        "father": "138"
+    },
+    {
+        "id": "202",
+        "category": "民丰县",
+        "father": "138"
+    },
+    {
+        "id": "203",
+        "category": "伊宁市",
+        "father": "139"
+    },
+    {
+        "id": "204",
+        "category": "奎屯市",
+        "father": "139"
+    },
+    {
+        "id": "205",
+        "category": "伊宁县",
+        "father": "139"
+    },
+    {
+        "id": "206",
+        "category": "察布查尔锡伯自治县",
+        "father": "139"
+    },
+    {
+        "id": "207",
+        "category": "霍城县",
+        "father": "139"
+    },
+    {
+        "id": "208",
+        "category": "巩留县",
+        "father": "139"
+    },
+    {
+        "id": "209",
+        "category": "新源县",
+        "father": "139"
+    },
+    {
+        "id": "210",
+        "category": "昭苏县",
+        "father": "139"
+    },
+    {
+        "id": "211",
+        "category": "特克斯县",
+        "father": "139"
+    },
+    {
+        "id": "212",
+        "category": "尼勒克县",
+        "father": "139"
+    },
+    {
+        "id": "213",
+        "category": "塔城市",
+        "father": "140"
+    },
+    {
+        "id": "214",
+        "category": "乌苏市",
+        "father": "140"
+    },
+    {
+        "id": "215",
+        "category": "额敏县",
+        "father": "140"
+    },
+    {
+        "id": "216",
+        "category": "沙湾县",
+        "father": "140"
+    },
+    {
+        "id": "217",
+        "category": "托里县",
+        "father": "140"
+    },
+    {
+        "id": "218",
+        "category": "裕民县",
+        "father": "140"
+    },
+    {
+        "id": "219",
+        "category": "和布克赛尔蒙古自治县",
+        "father": "140"
+    },
+    {
+        "id": "220",
+        "category": "阿勒泰市",
+        "father": "141"
+    },
+    {
+        "id": "221",
+        "category": "布尔津县",
+        "father": "141"
+    },
+    {
+        "id": "222",
+        "category": "富蕴县",
+        "father": "141"
+    },
+    {
+        "id": "223",
+        "category": "福海县",
+        "father": "141"
+    },
+    {
+        "id": "224",
+        "category": "哈巴河县",
+        "father": "141"
+    },
+    {
+        "id": "225",
+        "category": "青河县",
+        "father": "141"
+    },
+    {
+        "id": "226",
+        "category": "吉木乃县",
+        "father": "141"
+    },
+    {
+        "id": "227",
+        "category": "铁门关市",
+        "father": "142"
+    },
+    {
+        "id": "228",
+        "category": "北屯市",
+        "father": "142"
+    },
+    {
+        "id": "229",
+        "category": "五家渠市",
+        "father": "142"
+    },
+    {
+        "id": "230",
+        "category": "图木舒克市",
+        "father": "142"
+    },
+    {
+        "id": "231",
+        "category": "阿拉尔市",
+        "father": "142"
+    },
+    {
+        "id": "232",
+        "category": "石河子市",
+        "father": "142"
+    },
+    {
+        "id": "233",
+        "category": "拉萨市",
+        "father": "43"
+    },
+    {
+        "id": "234",
+        "category": "昌都地区",
+        "father": "43"
+    },
+    {
+        "id": "235",
+        "category": "山南地区",
+        "father": "43"
+    },
+    {
+        "id": "236",
+        "category": "日喀则地区",
+        "father": "43"
+    },
+    {
+        "id": "237",
+        "category": "那曲地区",
+        "father": "43"
+    },
+    {
+        "id": "238",
+        "category": "阿里地区",
+        "father": "43"
+    },
+    {
+        "id": "239",
+        "category": "林芝地区",
+        "father": "43"
+    },
+    {
+        "id": "240",
+        "category": "林周县",
+        "father": "233"
+    },
+    {
+        "id": "241",
+        "category": "当雄县",
+        "father": "233"
+    },
+    {
+        "id": "242",
+        "category": "尼木县",
+        "father": "233"
+    },
+    {
+        "id": "243",
+        "category": "曲水县",
+        "father": "233"
+    },
+    {
+        "id": "244",
+        "category": "堆龙德庆县",
+        "father": "233"
+    },
+    {
+        "id": "245",
+        "category": "达孜县",
+        "father": "233"
+    },
+    {
+        "id": "246",
+        "category": "墨竹工卡县",
+        "father": "233"
+    },
+    {
+        "id": "247",
+        "category": "昌都县",
+        "father": "234"
+    },
+    {
+        "id": "248",
+        "category": "江达县",
+        "father": "234"
+    },
+    {
+        "id": "249",
+        "category": "贡觉县",
+        "father": "234"
+    },
+    {
+        "id": "250",
+        "category": "类乌齐县",
+        "father": "234"
+    },
+    {
+        "id": "251",
+        "category": "丁青县",
+        "father": "234"
+    },
+    {
+        "id": "252",
+        "category": "察雅县",
+        "father": "234"
+    },
+    {
+        "id": "253",
+        "category": "八宿县",
+        "father": "234"
+    },
+    {
+        "id": "254",
+        "category": "左贡县",
+        "father": "234"
+    },
+    {
+        "id": "255",
+        "category": "芒康县",
+        "father": "234"
+    },
+    {
+        "id": "256",
+        "category": "洛隆县",
+        "father": "234"
+    },
+    {
+        "id": "257",
+        "category": "边坝县",
+        "father": "234"
+    },
+    {
+        "id": "258",
+        "category": "乃东县",
+        "father": "235"
+    },
+    {
+        "id": "259",
+        "category": "扎囊县",
+        "father": "235"
+    },
+    {
+        "id": "260",
+        "category": "贡嘎县",
+        "father": "235"
+    },
+    {
+        "id": "261",
+        "category": "桑日县",
+        "father": "235"
+    },
+    {
+        "id": "262",
+        "category": "琼结县",
+        "father": "235"
+    },
+    {
+        "id": "263",
+        "category": "曲松县",
+        "father": "235"
+    },
+    {
+        "id": "264",
+        "category": "措美县",
+        "father": "235"
+    },
+    {
+        "id": "265",
+        "category": "洛扎县",
+        "father": "235"
+    },
+    {
+        "id": "266",
+        "category": "加查县",
+        "father": "235"
+    },
+    {
+        "id": "267",
+        "category": "隆子县",
+        "father": "235"
+    },
+    {
+        "id": "268",
+        "category": "错那县",
+        "father": "235"
+    },
+    {
+        "id": "269",
+        "category": "浪卡子县",
+        "father": "235"
+    },
+    {
+        "id": "270",
+        "category": "日喀则市",
+        "father": "236"
+    },
+    {
+        "id": "271",
+        "category": "南木林县",
+        "father": "236"
+    },
+    {
+        "id": "272",
+        "category": "江孜县",
+        "father": "236"
+    },
+    {
+        "id": "273",
+        "category": "定日县",
+        "father": "236"
+    },
+    {
+        "id": "274",
+        "category": "萨迦县",
+        "father": "236"
+    },
+    {
+        "id": "275",
+        "category": "拉孜县",
+        "father": "236"
+    },
+    {
+        "id": "276",
+        "category": "昂仁县",
+        "father": "236"
+    },
+    {
+        "id": "277",
+        "category": "谢通门县",
+        "father": "236"
+    },
+    {
+        "id": "278",
+        "category": "白朗县",
+        "father": "236"
+    },
+    {
+        "id": "279",
+        "category": "仁布县",
+        "father": "236"
+    },
+    {
+        "id": "280",
+        "category": "康马县",
+        "father": "236"
+    },
+    {
+        "id": "281",
+        "category": "定结县",
+        "father": "236"
+    },
+    {
+        "id": "282",
+        "category": "仲巴县",
+        "father": "236"
+    },
+    {
+        "id": "283",
+        "category": "亚东县",
+        "father": "236"
+    },
+    {
+        "id": "284",
+        "category": "吉隆县",
+        "father": "236"
+    },
+    {
+        "id": "285",
+        "category": "聂拉木县",
+        "father": "236"
+    },
+    {
+        "id": "286",
+        "category": "萨嘎县",
+        "father": "236"
+    },
+    {
+        "id": "287",
+        "category": "岗巴县",
+        "father": "236"
+    },
+    {
+        "id": "288",
+        "category": "那曲县",
+        "father": "237"
+    },
+    {
+        "id": "289",
+        "category": "嘉黎县",
+        "father": "237"
+    },
+    {
+        "id": "290",
+        "category": "比如县",
+        "father": "237"
+    },
+    {
+        "id": "291",
+        "category": "聂荣县",
+        "father": "237"
+    },
+    {
+        "id": "292",
+        "category": "安多县",
+        "father": "237"
+    },
+    {
+        "id": "293",
+        "category": "申扎县",
+        "father": "237"
+    },
+    {
+        "id": "294",
+        "category": "索县",
+        "father": "237"
+    },
+    {
+        "id": "295",
+        "category": "班戈县",
+        "father": "237"
+    },
+    {
+        "id": "296",
+        "category": "巴青县",
+        "father": "237"
+    },
+    {
+        "id": "297",
+        "category": "尼玛县",
+        "father": "237"
+    },
+    {
+        "id": "298",
+        "category": "双湖县",
+        "father": "237"
+    },
+    {
+        "id": "299",
+        "category": "普兰县",
+        "father": "238"
+    },
+    {
+        "id": "300",
+        "category": "札达县",
+        "father": "238"
+    },
+    {
+        "id": "301",
+        "category": "噶尔县",
+        "father": "238"
+    },
+    {
+        "id": "302",
+        "category": "日土县",
+        "father": "238"
+    },
+    {
+        "id": "303",
+        "category": "革吉县",
+        "father": "238"
+    },
+    {
+        "id": "304",
+        "category": "改则县",
+        "father": "238"
+    },
+    {
+        "id": "305",
+        "category": "措勤县",
+        "father": "238"
+    },
+    {
+        "id": "306",
+        "category": "林芝县",
+        "father": "239"
+    },
+    {
+        "id": "307",
+        "category": "工布江达县",
+        "father": "239"
+    },
+    {
+        "id": "308",
+        "category": "米林县",
+        "father": "239"
+    },
+    {
+        "id": "309",
+        "category": "墨脱县",
+        "father": "239"
+    },
+    {
+        "id": "310",
+        "category": "波密县",
+        "father": "239"
+    },
+    {
+        "id": "311",
+        "category": "察隅县",
+        "father": "239"
+    },
+    {
+        "id": "312",
+        "category": "朗县",
+        "father": "239"
+    },
+    {
+        "id": "313",
+        "category": "西宁市",
+        "father": "42"
+    },
+    {
+        "id": "314",
+        "category": "海东市",
+        "father": "42"
+    },
+    {
+        "id": "315",
+        "category": "海北藏族自治州",
+        "father": "42"
+    },
+    {
+        "id": "316",
+        "category": "黄南藏族自治州",
+        "father": "42"
+    },
+    {
+        "id": "317",
+        "category": "海南藏族自治州",
+        "father": "42"
+    },
+    {
+        "id": "318",
+        "category": "果洛藏族自治州",
+        "father": "42"
+    },
+    {
+        "id": "319",
+        "category": "玉树藏族自治州",
+        "father": "42"
+    },
+    {
+        "id": "320",
+        "category": "海西蒙古族藏族自治州",
+        "father": "42"
+    },
+    {
+        "id": "321",
+        "category": "大通回族土族自治县",
+        "father": "313"
+    },
+    {
+        "id": "322",
+        "category": "湟源县",
+        "father": "313"
+    },
+    {
+        "id": "323",
+        "category": "湟中县",
+        "father": "313"
+    },
+    {
+        "id": "324",
+        "category": "平安县",
+        "father": "314"
+    },
+    {
+        "id": "325",
+        "category": "民和回族土族自治县",
+        "father": "314"
+    },
+    {
+        "id": "326",
+        "category": "互助土族自治县",
+        "father": "314"
+    },
+    {
+        "id": "327",
+        "category": "化隆回族自治县",
+        "father": "314"
+    },
+    {
+        "id": "328",
+        "category": "循化撒拉族自治县",
+        "father": "314"
+    },
+    {
+        "id": "329",
+        "category": "门源回族自治县",
+        "father": "315"
+    },
+    {
+        "id": "330",
+        "category": "祁连县",
+        "father": "315"
+    },
+    {
+        "id": "331",
+        "category": "海晏县",
+        "father": "315"
+    },
+    {
+        "id": "332",
+        "category": "刚察县",
+        "father": "315"
+    },
+    {
+        "id": "333",
+        "category": "同仁县",
+        "father": "316"
+    },
+    {
+        "id": "334",
+        "category": "尖扎县",
+        "father": "316"
+    },
+    {
+        "id": "335",
+        "category": "泽库县",
+        "father": "316"
+    },
+    {
+        "id": "336",
+        "category": "河南蒙古族自治县",
+        "father": "316"
+    },
+    {
+        "id": "337",
+        "category": "共和县",
+        "father": "317"
+    },
+    {
+        "id": "338",
+        "category": "同德县",
+        "father": "317"
+    },
+    {
+        "id": "339",
+        "category": "贵德县",
+        "father": "317"
+    },
+    {
+        "id": "340",
+        "category": "兴海县",
+        "father": "317"
+    },
+    {
+        "id": "341",
+        "category": "贵南县",
+        "father": "317"
+    },
+    {
+        "id": "342",
+        "category": "玛沁县",
+        "father": "318"
+    },
+    {
+        "id": "343",
+        "category": "班玛县",
+        "father": "318"
+    },
+    {
+        "id": "344",
+        "category": "甘德县",
+        "father": "318"
+    },
+    {
+        "id": "345",
+        "category": "达日县",
+        "father": "318"
+    },
+    {
+        "id": "346",
+        "category": "久治县",
+        "father": "318"
+    },
+    {
+        "id": "347",
+        "category": "玛多县",
+        "father": "318"
+    },
+    {
+        "id": "348",
+        "category": "玉树县",
+        "father": "319"
+    },
+    {
+        "id": "349",
+        "category": "杂多县",
+        "father": "319"
+    },
+    {
+        "id": "350",
+        "category": "称多县",
+        "father": "319"
+    },
+    {
+        "id": "351",
+        "category": "治多县",
+        "father": "319"
+    },
+    {
+        "id": "352",
+        "category": "囊谦县",
+        "father": "319"
+    },
+    {
+        "id": "353",
+        "category": "曲麻莱县",
+        "father": "319"
+    },
+    {
+        "id": "354",
+        "category": "格尔木市",
+        "father": "320"
+    },
+    {
+        "id": "355",
+        "category": "德令哈市",
+        "father": "320"
+    },
+    {
+        "id": "356",
+        "category": "乌兰县",
+        "father": "320"
+    },
+    {
+        "id": "357",
+        "category": "都兰县",
+        "father": "320"
+    },
+    {
+        "id": "358",
+        "category": "天峻县",
+        "father": "320"
+    },
+    {
+        "id": "359",
+        "category": "兰州市",
+        "father": "41"
+    },
+    {
+        "id": "360",
+        "category": "嘉峪关市",
+        "father": "41"
+    },
+    {
+        "id": "361",
+        "category": "金昌市",
+        "father": "41"
+    },
+    {
+        "id": "362",
+        "category": "白银市",
+        "father": "41"
+    },
+    {
+        "id": "363",
+        "category": "天水市",
+        "father": "41"
+    },
+    {
+        "id": "364",
+        "category": "武威市",
+        "father": "41"
+    },
+    {
+        "id": "365",
+        "category": "张掖市",
+        "father": "41"
+    },
+    {
+        "id": "366",
+        "category": "平凉市",
+        "father": "41"
+    },
+    {
+        "id": "367",
+        "category": "酒泉市",
+        "father": "41"
+    },
+    {
+        "id": "368",
+        "category": "庆阳市",
+        "father": "41"
+    },
+    {
+        "id": "369",
+        "category": "定西市",
+        "father": "41"
+    },
+    {
+        "id": "370",
+        "category": "陇南市",
+        "father": "41"
+    },
+    {
+        "id": "371",
+        "category": "临夏回族自治州",
+        "father": "41"
+    },
+    {
+        "id": "372",
+        "category": "甘南藏族自治州",
+        "father": "41"
+    },
+    {
+        "id": "373",
+        "category": "榆中县",
+        "father": "359"
+    },
+    {
+        "id": "374",
+        "category": "皋兰县",
+        "father": "359"
+    },
+    {
+        "id": "375",
+        "category": "永登县",
+        "father": "359"
+    },
+    {
+        "id": "376",
+        "category": "永昌县",
+        "father": "361"
+    },
+    {
+        "id": "377",
+        "category": "景泰县",
+        "father": "362"
+    },
+    {
+        "id": "378",
+        "category": "会宁县",
+        "father": "362"
+    },
+    {
+        "id": "379",
+        "category": "靖远县",
+        "father": "362"
+    },
+    {
+        "id": "380",
+        "category": "张家川回族自治县",
+        "father": "363"
+    },
+    {
+        "id": "381",
+        "category": "武山县",
+        "father": "363"
+    },
+    {
+        "id": "382",
+        "category": "甘谷县",
+        "father": "363"
+    },
+    {
+        "id": "383",
+        "category": "秦安县",
+        "father": "363"
+    },
+    {
+        "id": "384",
+        "category": "清水县",
+        "father": "363"
+    },
+    {
+        "id": "385",
+        "category": "民勤县",
+        "father": "364"
+    },
+    {
+        "id": "386",
+        "category": "古浪县",
+        "father": "364"
+    },
+    {
+        "id": "387",
+        "category": "天祝藏族自治县",
+        "father": "364"
+    },
+    {
+        "id": "388",
+        "category": "山丹县",
+        "father": "365"
+    },
+    {
+        "id": "389",
+        "category": "高台县",
+        "father": "365"
+    },
+    {
+        "id": "390",
+        "category": "临泽县",
+        "father": "365"
+    },
+    {
+        "id": "391",
+        "category": "民乐县",
+        "father": "365"
+    },
+    {
+        "id": "392",
+        "category": "肃南裕固族自治县",
+        "father": "365"
+    },
+    {
+        "id": "393",
+        "category": "静宁县",
+        "father": "366"
+    },
+    {
+        "id": "394",
+        "category": "庄浪县",
+        "father": "366"
+    },
+    {
+        "id": "395",
+        "category": "华亭县",
+        "father": "366"
+    },
+    {
+        "id": "396",
+        "category": "崇信县",
+        "father": "366"
+    },
+    {
+        "id": "397",
+        "category": "灵台县",
+        "father": "366"
+    },
+    {
+        "id": "398",
+        "category": "泾川县",
+        "father": "366"
+    },
+    {
+        "id": "399",
+        "category": "敦煌市",
+        "father": "367"
+    },
+    {
+        "id": "400",
+        "category": "玉门市",
+        "father": "367"
+    },
+    {
+        "id": "401",
+        "category": "阿克塞哈萨克族自治县",
+        "father": "367"
+    },
+    {
+        "id": "402",
+        "category": "肃北蒙古族自治县",
+        "father": "367"
+    },
+    {
+        "id": "403",
+        "category": "瓜州县",
+        "father": "367"
+    },
+    {
+        "id": "404",
+        "category": "金塔县",
+        "father": "367"
+    },
+    {
+        "id": "405",
+        "category": "镇原县",
+        "father": "368"
+    },
+    {
+        "id": "406",
+        "category": "宁县",
+        "father": "368"
+    },
+    {
+        "id": "407",
+        "category": "正宁县",
+        "father": "368"
+    },
+    {
+        "id": "408",
+        "category": "合水县",
+        "father": "368"
+    },
+    {
+        "id": "409",
+        "category": "华池县",
+        "father": "368"
+    },
+    {
+        "id": "410",
+        "category": "环县",
+        "father": "368"
+    },
+    {
+        "id": "411",
+        "category": "庆城县",
+        "father": "368"
+    },
+    {
+        "id": "412",
+        "category": "通渭县",
+        "father": "369"
+    },
+    {
+        "id": "413",
+        "category": "陇西县",
+        "father": "369"
+    },
+    {
+        "id": "414",
+        "category": "渭源县",
+        "father": "369"
+    },
+    {
+        "id": "415",
+        "category": "临洮县",
+        "father": "369"
+    },
+    {
+        "id": "416",
+        "category": "漳县",
+        "father": "369"
+    },
+    {
+        "id": "417",
+        "category": "岷县",
+        "father": "369"
+    },
+    {
+        "id": "418",
+        "category": "成县",
+        "father": "370"
+    },
+    {
+        "id": "419",
+        "category": "文县",
+        "father": "370"
+    },
+    {
+        "id": "420",
+        "category": "宕昌县",
+        "father": "370"
+    },
+    {
+        "id": "421",
+        "category": "康县",
+        "father": "370"
+    },
+    {
+        "id": "422",
+        "category": "西和县",
+        "father": "370"
+    },
+    {
+        "id": "423",
+        "category": "礼县",
+        "father": "370"
+    },
+    {
+        "id": "424",
+        "category": "徽县",
+        "father": "370"
+    },
+    {
+        "id": "425",
+        "category": "两当县",
+        "father": "370"
+    },
+    {
+        "id": "426",
+        "category": "临夏市",
+        "father": "371"
+    },
+    {
+        "id": "427",
+        "category": "临夏县",
+        "father": "371"
+    },
+    {
+        "id": "428",
+        "category": "康乐县",
+        "father": "371"
+    },
+    {
+        "id": "429",
+        "category": "永靖县",
+        "father": "371"
+    },
+    {
+        "id": "430",
+        "category": "广河县",
+        "father": "371"
+    },
+    {
+        "id": "431",
+        "category": "和政县",
+        "father": "371"
+    },
+    {
+        "id": "432",
+        "category": "东乡族自治县",
+        "father": "371"
+    },
+    {
+        "id": "433",
+        "category": "积石山保安族东乡族撒拉族自治县",
+        "father": "371"
+    },
+    {
+        "id": "434",
+        "category": "合作市",
+        "father": "372"
+    },
+    {
+        "id": "435",
+        "category": "临潭县",
+        "father": "372"
+    },
+    {
+        "id": "436",
+        "category": "卓尼县",
+        "father": "372"
+    },
+    {
+        "id": "437",
+        "category": "舟曲县",
+        "father": "372"
+    },
+    {
+        "id": "438",
+        "category": "迭部县",
+        "father": "372"
+    },
+    {
+        "id": "439",
+        "category": "玛曲县",
+        "father": "372"
+    },
+    {
+        "id": "440",
+        "category": "碌曲县",
+        "father": "372"
+    },
+    {
+        "id": "441",
+        "category": "夏河县",
+        "father": "372"
+    },
+    {
+        "id": "443",
+        "category": "节气节日",
+        "father": "8"
+    },
+    {
+        "id": "444",
+        "category": "习俗礼仪",
+        "father": "8"
+    },
+    {
+        "id": "445",
+        "category": "民族部落",
+        "father": "8"
+    },
+    {
+        "id": "446",
+        "category": "银川市",
+        "father": "40"
+    },
+    {
+        "id": "447",
+        "category": "石嘴山市",
+        "father": "40"
+    },
+    {
+        "id": "448",
+        "category": "吴忠市",
+        "father": "40"
+    },
+    {
+        "id": "449",
+        "category": "固原市",
+        "father": "40"
+    },
+    {
+        "id": "450",
+        "category": "中卫市",
+        "father": "40"
+    },
+    {
+        "id": "451",
+        "category": "灵武市",
+        "father": "446"
+    },
+    {
+        "id": "452",
+        "category": "贺兰县",
+        "father": "446"
+    },
+    {
+        "id": "453",
+        "category": "永宁县",
+        "father": "446"
+    },
+    {
+        "id": "454",
+        "category": "平罗县",
+        "father": "447"
+    },
+    {
+        "id": "455",
+        "category": "青铜峡市",
+        "father": "448"
+    },
+    {
+        "id": "456",
+        "category": "同心县",
+        "father": "448"
+    },
+    {
+        "id": "457",
+        "category": "盐池县",
+        "father": "448"
+    },
+    {
+        "id": "458",
+        "category": "彭阳县",
+        "father": "449"
+    },
+    {
+        "id": "459",
+        "category": "泾源县",
+        "father": "449"
+    },
+    {
+        "id": "460",
+        "category": "隆德县",
+        "father": "449"
+    },
+    {
+        "id": "461",
+        "category": "西吉县",
+        "father": "449"
+    },
+    {
+        "id": "462",
+        "category": "海原县",
+        "father": "450"
+    },
+    {
+        "id": "463",
+        "category": "中宁县",
+        "father": "450"
+    },
+    {
+        "id": "464",
+        "category": "轶事传闻",
+        "father": "3"
+    },
+    {
+        "id": "465",
+        "category": "西安市",
+        "father": "39"
+    },
+    {
+        "id": "466",
+        "category": "铜川市",
+        "father": "39"
+    },
+    {
+        "id": "467",
+        "category": "宝鸡市",
+        "father": "39"
+    },
+    {
+        "id": "468",
+        "category": "咸阳市",
+        "father": "39"
+    },
+    {
+        "id": "469",
+        "category": "渭南市",
+        "father": "39"
+    },
+    {
+        "id": "470",
+        "category": "延安市",
+        "father": "39"
+    },
+    {
+        "id": "471",
+        "category": "汉中市",
+        "father": "39"
+    },
+    {
+        "id": "472",
+        "category": "榆林市",
+        "father": "39"
+    },
+    {
+        "id": "473",
+        "category": "安康市",
+        "father": "39"
+    },
+    {
+        "id": "474",
+        "category": "商洛市",
+        "father": "39"
+    },
+    {
+        "id": "475",
+        "category": "高陵县",
+        "father": "465"
+    },
+    {
+        "id": "476",
+        "category": "户县",
+        "father": "465"
+    },
+    {
+        "id": "477",
+        "category": "周至县",
+        "father": "465"
+    },
+    {
+        "id": "478",
+        "category": "蓝田县",
+        "father": "465"
+    },
+    {
+        "id": "479",
+        "category": "宜君县",
+        "father": "466"
+    },
+    {
+        "id": "480",
+        "category": "太白县",
+        "father": "467"
+    },
+    {
+        "id": "481",
+        "category": "凤县",
+        "father": "467"
+    },
+    {
+        "id": "482",
+        "category": "麟游县",
+        "father": "467"
+    },
+    {
+        "id": "483",
+        "category": "千阳县",
+        "father": "467"
+    },
+    {
+        "id": "484",
+        "category": "陇县",
+        "father": "467"
+    },
+    {
+        "id": "485",
+        "category": "眉县",
+        "father": "467"
+    },
+    {
+        "id": "486",
+        "category": "扶风县",
+        "father": "467"
+    },
+    {
+        "id": "487",
+        "category": "岐山县",
+        "father": "467"
+    },
+    {
+        "id": "488",
+        "category": "凤翔县",
+        "father": "467"
+    },
+    {
+        "id": "489",
+        "category": "兴平市",
+        "father": "468"
+    },
+    {
+        "id": "490",
+        "category": "武功县",
+        "father": "468"
+    },
+    {
+        "id": "491",
+        "category": "淳化县",
+        "father": "468"
+    },
+    {
+        "id": "492",
+        "category": "旬邑县",
+        "father": "468"
+    },
+    {
+        "id": "493",
+        "category": "长武县",
+        "father": "468"
+    },
+    {
+        "id": "494",
+        "category": "彬县",
+        "father": "468"
+    },
+    {
+        "id": "495",
+        "category": "永寿县",
+        "father": "468"
+    },
+    {
+        "id": "496",
+        "category": "礼泉县",
+        "father": "468"
+    },
+    {
+        "id": "497",
+        "category": "乾县",
+        "father": "468"
+    },
+    {
+        "id": "498",
+        "category": "泾阳县",
+        "father": "468"
+    },
+    {
+        "id": "499",
+        "category": "三原县",
+        "father": "468"
+    },
+    {
+        "id": "500",
+        "category": "华阴市",
+        "father": "469"
+    },
+    {
+        "id": "501",
+        "category": "韩城市",
+        "father": "469"
+    },
+    {
+        "id": "502",
+        "category": "富平县",
+        "father": "469"
+    },
+    {
+        "id": "503",
+        "category": "白水县",
+        "father": "469"
+    },
+    {
+        "id": "504",
+        "category": "蒲城县",
+        "father": "469"
+    },
+    {
+        "id": "505",
+        "category": "澄城县",
+        "father": "469"
+    },
+    {
+        "id": "506",
+        "category": "合阳县",
+        "father": "469"
+    },
+    {
+        "id": "507",
+        "category": "大荔县",
+        "father": "469"
+    },
+    {
+        "id": "508",
+        "category": "潼关县",
+        "father": "469"
+    },
+    {
+        "id": "509",
+        "category": "华县",
+        "father": "469"
+    },
+    {
+        "id": "510",
+        "category": "黄陵县",
+        "father": "470"
+    },
+    {
+        "id": "511",
+        "category": "黄龙县",
+        "father": "470"
+    },
+    {
+        "id": "512",
+        "category": "宜川县",
+        "father": "470"
+    },
+    {
+        "id": "513",
+        "category": "洛川县",
+        "father": "470"
+    },
+    {
+        "id": "514",
+        "category": "富县",
+        "father": "470"
+    },
+    {
+        "id": "515",
+        "category": "甘泉县",
+        "father": "470"
+    },
+    {
+        "id": "516",
+        "category": "吴起县",
+        "father": "470"
+    },
+    {
+        "id": "517",
+        "category": "志丹县",
+        "father": "470"
+    },
+    {
+        "id": "518",
+        "category": "安塞县",
+        "father": "470"
+    },
+    {
+        "id": "519",
+        "category": "子长县",
+        "father": "470"
+    },
+    {
+        "id": "520",
+        "category": "延川县",
+        "father": "470"
+    },
+    {
+        "id": "521",
+        "category": "延长县",
+        "father": "470"
+    },
+    {
+        "id": "522",
+        "category": "佛坪县",
+        "father": "471"
+    },
+    {
+        "id": "523",
+        "category": "留坝县",
+        "father": "471"
+    },
+    {
+        "id": "524",
+        "category": "镇巴县",
+        "father": "471"
+    },
+    {
+        "id": "525",
+        "category": "略阳县",
+        "father": "471"
+    },
+    {
+        "id": "526",
+        "category": "宁强县",
+        "father": "471"
+    },
+    {
+        "id": "527",
+        "category": "勉县",
+        "father": "471"
+    },
+    {
+        "id": "528",
+        "category": "西乡县",
+        "father": "471"
+    },
+    {
+        "id": "529",
+        "category": "洋县",
+        "father": "471"
+    },
+    {
+        "id": "530",
+        "category": "城固县",
+        "father": "471"
+    },
+    {
+        "id": "531",
+        "category": "南郑县",
+        "father": "471"
+    },
+    {
+        "id": "532",
+        "category": "子洲县",
+        "father": "472"
+    },
+    {
+        "id": "533",
+        "category": "清涧县",
+        "father": "472"
+    },
+    {
+        "id": "534",
+        "category": "吴堡县",
+        "father": "472"
+    },
+    {
+        "id": "535",
+        "category": "佳县",
+        "father": "472"
+    },
+    {
+        "id": "536",
+        "category": "米脂县",
+        "father": "472"
+    },
+    {
+        "id": "537",
+        "category": "绥德县",
+        "father": "472"
+    },
+    {
+        "id": "538",
+        "category": "定边县",
+        "father": "472"
+    },
+    {
+        "id": "539",
+        "category": "靖边县",
+        "father": "472"
+    },
+    {
+        "id": "540",
+        "category": "横山县",
+        "father": "472"
+    },
+    {
+        "id": "542",
+        "category": "神木县",
+        "father": "472"
+    },
+    {
+        "id": "543",
+        "category": "白河县",
+        "father": "473"
+    },
+    {
+        "id": "544",
+        "category": "旬阳县",
+        "father": "473"
+    },
+    {
+        "id": "545",
+        "category": "镇坪县",
+        "father": "473"
+    },
+    {
+        "id": "546",
+        "category": "平利县",
+        "father": "473"
+    },
+    {
+        "id": "547",
+        "category": "岚皋县",
+        "father": "473"
+    },
+    {
+        "id": "548",
+        "category": "紫阳县",
+        "father": "473"
+    },
+    {
+        "id": "549",
+        "category": "宁陕县",
+        "father": "473"
+    },
+    {
+        "id": "550",
+        "category": "石泉县",
+        "father": "473"
+    },
+    {
+        "id": "551",
+        "category": "汉阴县",
+        "father": "473"
+    },
+    {
+        "id": "552",
+        "category": "柞水县",
+        "father": "474"
+    },
+    {
+        "id": "553",
+        "category": "镇安县",
+        "father": "474"
+    },
+    {
+        "id": "554",
+        "category": "山阳县",
+        "father": "474"
+    },
+    {
+        "id": "555",
+        "category": "商南县",
+        "father": "474"
+    },
+    {
+        "id": "556",
+        "category": "丹凤县",
+        "father": "474"
+    },
+    {
+        "id": "557",
+        "category": "洛南县",
+        "father": "474"
+    },
+    {
+        "id": "558",
+        "category": "成都市",
+        "father": "38"
+    },
+    {
+        "id": "559",
+        "category": "自贡市",
+        "father": "38"
+    },
+    {
+        "id": "560",
+        "category": "攀枝花市",
+        "father": "38"
+    },
+    {
+        "id": "561",
+        "category": "泸州市",
+        "father": "38"
+    },
+    {
+        "id": "562",
+        "category": "德阳市",
+        "father": "38"
+    },
+    {
+        "id": "563",
+        "category": "绵阳市",
+        "father": "38"
+    },
+    {
+        "id": "564",
+        "category": "广元市",
+        "father": "38"
+    },
+    {
+        "id": "565",
+        "category": "遂宁市",
+        "father": "38"
+    },
+    {
+        "id": "566",
+        "category": "内江市",
+        "father": "38"
+    },
+    {
+        "id": "567",
+        "category": "乐山市",
+        "father": "38"
+    },
+    {
+        "id": "568",
+        "category": "南充市",
+        "father": "38"
+    },
+    {
+        "id": "569",
+        "category": "眉山市",
+        "father": "38"
+    },
+    {
+        "id": "570",
+        "category": "宜宾市",
+        "father": "38"
+    },
+    {
+        "id": "571",
+        "category": "广安市",
+        "father": "38"
+    },
+    {
+        "id": "572",
+        "category": "达州市",
+        "father": "38"
+    },
+    {
+        "id": "573",
+        "category": "雅安市",
+        "father": "38"
+    },
+    {
+        "id": "574",
+        "category": "巴中市",
+        "father": "38"
+    },
+    {
+        "id": "575",
+        "category": "资阳市",
+        "father": "38"
+    },
+    {
+        "id": "576",
+        "category": "阿坝藏族羌族自治州",
+        "father": "38"
+    },
+    {
+        "id": "577",
+        "category": "甘孜藏族自治州",
+        "father": "38"
+    },
+    {
+        "id": "578",
+        "category": "凉山彝族自治州",
+        "father": "38"
+    },
+    {
+        "id": "579",
+        "category": "崇州市",
+        "father": "558"
+    },
+    {
+        "id": "580",
+        "category": "邛崃市",
+        "father": "558"
+    },
+    {
+        "id": "581",
+        "category": "彭州市",
+        "father": "558"
+    },
+    {
+        "id": "582",
+        "category": "都江堰市",
+        "father": "558"
+    },
+    {
+        "id": "583",
+        "category": "新津县",
+        "father": "558"
+    },
+    {
+        "id": "584",
+        "category": "蒲江县",
+        "father": "558"
+    },
+    {
+        "id": "585",
+        "category": "大邑县",
+        "father": "558"
+    },
+    {
+        "id": "586",
+        "category": "郫县",
+        "father": "558"
+    },
+    {
+        "id": "587",
+        "category": "双流县",
+        "father": "558"
+    },
+    {
+        "id": "588",
+        "category": "金堂县",
+        "father": "558"
+    },
+    {
+        "id": "589",
+        "category": "富顺县",
+        "father": "559"
+    },
+    {
+        "id": "590",
+        "category": "荣县",
+        "father": "559"
+    },
+    {
+        "id": "591",
+        "category": "盐边县",
+        "father": "560"
+    },
+    {
+        "id": "592",
+        "category": "米易县",
+        "father": "560"
+    },
+    {
+        "id": "593",
+        "category": "古蔺县",
+        "father": "561"
+    },
+    {
+        "id": "594",
+        "category": "叙永县",
+        "father": "561"
+    },
+    {
+        "id": "595",
+        "category": "合江县",
+        "father": "561"
+    },
+    {
+        "id": "596",
+        "category": "泸县",
+        "father": "561"
+    },
+    {
+        "id": "597",
+        "category": "绵竹市",
+        "father": "562"
+    },
+    {
+        "id": "598",
+        "category": "什邡市",
+        "father": "562"
+    },
+    {
+        "id": "599",
+        "category": "广汉市",
+        "father": "562"
+    },
+    {
+        "id": "600",
+        "category": "罗江县",
+        "father": "562"
+    },
+    {
+        "id": "601",
+        "category": "中江县",
+        "father": "562"
+    },
+    {
+        "id": "602",
+        "category": "江油市",
+        "father": "563"
+    },
+    {
+        "id": "603",
+        "category": "平武县",
+        "father": "563"
+    },
+    {
+        "id": "604",
+        "category": "北川羌族自治县",
+        "father": "563"
+    },
+    {
+        "id": "605",
+        "category": "梓潼县",
+        "father": "563"
+    },
+    {
+        "id": "606",
+        "category": "安县",
+        "father": "563"
+    },
+    {
+        "id": "607",
+        "category": "盐亭县",
+        "father": "563"
+    },
+    {
+        "id": "608",
+        "category": "三台县",
+        "father": "563"
+    },
+    {
+        "id": "609",
+        "category": "苍溪县",
+        "father": "564"
+    },
+    {
+        "id": "610",
+        "category": "剑阁县",
+        "father": "564"
+    },
+    {
+        "id": "611",
+        "category": "青川县",
+        "father": "564"
+    },
+    {
+        "id": "612",
+        "category": "旺苍县",
+        "father": "564"
+    },
+    {
+        "id": "613",
+        "category": "大英县",
+        "father": "565"
+    },
+    {
+        "id": "614",
+        "category": "射洪县",
+        "father": "565"
+    },
+    {
+        "id": "615",
+        "category": "蓬溪县",
+        "father": "565"
+    },
+    {
+        "id": "616",
+        "category": "隆昌县",
+        "father": "566"
+    },
+    {
+        "id": "617",
+        "category": "资中县",
+        "father": "566"
+    },
+    {
+        "id": "618",
+        "category": "威远县",
+        "father": "566"
+    },
+    {
+        "id": "619",
+        "category": "峨眉山市",
+        "father": "567"
+    },
+    {
+        "id": "620",
+        "category": "马边彝族自治县",
+        "father": "567"
+    },
+    {
+        "id": "621",
+        "category": "峨边彝族自治县",
+        "father": "567"
+    },
+    {
+        "id": "622",
+        "category": "沐川县",
+        "father": "567"
+    },
+    {
+        "id": "623",
+        "category": "夹江县",
+        "father": "567"
+    },
+    {
+        "id": "624",
+        "category": "井研县",
+        "father": "567"
+    },
+    {
+        "id": "625",
+        "category": "犍为县",
+        "father": "567"
+    },
+    {
+        "id": "626",
+        "category": "阆中市",
+        "father": "568"
+    },
+    {
+        "id": "627",
+        "category": "西充县",
+        "father": "568"
+    },
+    {
+        "id": "628",
+        "category": "仪陇县",
+        "father": "568"
+    },
+    {
+        "id": "629",
+        "category": "蓬安县",
+        "father": "568"
+    },
+    {
+        "id": "630",
+        "category": "营山县",
+        "father": "568"
+    },
+    {
+        "id": "631",
+        "category": "南部县",
+        "father": "568"
+    },
+    {
+        "id": "632",
+        "category": "青神县",
+        "father": "569"
+    },
+    {
+        "id": "633",
+        "category": "丹棱县",
+        "father": "569"
+    },
+    {
+        "id": "634",
+        "category": "洪雅县",
+        "father": "569"
+    },
+    {
+        "id": "635",
+        "category": "彭山县",
+        "father": "569"
+    },
+    {
+        "id": "636",
+        "category": "仁寿县",
+        "father": "569"
+    },
+    {
+        "id": "637",
+        "category": "屏山县",
+        "father": "570"
+    },
+    {
+        "id": "638",
+        "category": "兴文县",
+        "father": "570"
+    },
+    {
+        "id": "639",
+        "category": "筠连县",
+        "father": "570"
+    },
+    {
+        "id": "640",
+        "category": "珙县",
+        "father": "570"
+    },
+    {
+        "id": "641",
+        "category": "高县",
+        "father": "570"
+    },
+    {
+        "id": "642",
+        "category": "长宁县",
+        "father": "570"
+    },
+    {
+        "id": "643",
+        "category": "江安县",
+        "father": "570"
+    },
+    {
+        "id": "645",
+        "category": "宜宾县",
+        "father": "570"
+    },
+    {
+        "id": "646",
+        "category": "华蓥市",
+        "father": "571"
+    },
+    {
+        "id": "647",
+        "category": "邻水县",
+        "father": "571"
+    },
+    {
+        "id": "648",
+        "category": "武胜县",
+        "father": "571"
+    },
+    {
+        "id": "649",
+        "category": "岳池县",
+        "father": "571"
+    },
+    {
+        "id": "650",
+        "category": "万源市",
+        "father": "572"
+    },
+    {
+        "id": "651",
+        "category": "渠县",
+        "father": "572"
+    },
+    {
+        "id": "652",
+        "category": "大竹县",
+        "father": "572"
+    },
+    {
+        "id": "653",
+        "category": "开江县",
+        "father": "572"
+    },
+    {
+        "id": "654",
+        "category": "宣汉县",
+        "father": "572"
+    },
+    {
+        "id": "655",
+        "category": "达县",
+        "father": "572"
+    },
+    {
+        "id": "656",
+        "category": "宝兴县",
+        "father": "573"
+    },
+    {
+        "id": "657",
+        "category": "芦山县",
+        "father": "573"
+    },
+    {
+        "id": "658",
+        "category": "天全县",
+        "father": "573"
+    },
+    {
+        "id": "659",
+        "category": "石棉县",
+        "father": "573"
+    },
+    {
+        "id": "660",
+        "category": "汉源县",
+        "father": "573"
+    },
+    {
+        "id": "661",
+        "category": "荥经县",
+        "father": "573"
+    },
+    {
+        "id": "662",
+        "category": "平昌县",
+        "father": "574"
+    },
+    {
+        "id": "663",
+        "category": "南江县",
+        "father": "574"
+    },
+    {
+        "id": "664",
+        "category": "通江县",
+        "father": "574"
+    },
+    {
+        "id": "665",
+        "category": "简阳市",
+        "father": "575"
+    },
+    {
+        "id": "666",
+        "category": "乐至县",
+        "father": "575"
+    },
+    {
+        "id": "667",
+        "category": "安岳县",
+        "father": "575"
+    },
+    {
+        "id": "668",
+        "category": "红原县",
+        "father": "576"
+    },
+    {
+        "id": "669",
+        "category": "若尔盖县",
+        "father": "576"
+    },
+    {
+        "id": "670",
+        "category": "阿坝县",
+        "father": "576"
+    },
+    {
+        "id": "671",
+        "category": "壤塘县",
+        "father": "576"
+    },
+    {
+        "id": "672",
+        "category": "马尔康县",
+        "father": "576"
+    },
+    {
+        "id": "673",
+        "category": "黑水县",
+        "father": "576"
+    },
+    {
+        "id": "674",
+        "category": "小金县",
+        "father": "576"
+    },
+    {
+        "id": "675",
+        "category": "金川县",
+        "father": "576"
+    },
+    {
+        "id": "676",
+        "category": "九寨沟县",
+        "father": "576"
+    },
+    {
+        "id": "677",
+        "category": "松潘县",
+        "father": "576"
+    },
+    {
+        "id": "678",
+        "category": "茂县",
+        "father": "576"
+    },
+    {
+        "id": "679",
+        "category": "理县",
+        "father": "576"
+    },
+    {
+        "id": "680",
+        "category": "汶川县",
+        "father": "576"
+    },
+    {
+        "id": "681",
+        "category": "得荣县",
+        "father": "577"
+    },
+    {
+        "id": "682",
+        "category": "稻城县",
+        "father": "577"
+    },
+    {
+        "id": "683",
+        "category": "乡城县",
+        "father": "577"
+    },
+    {
+        "id": "684",
+        "category": "巴塘县",
+        "father": "577"
+    },
+    {
+        "id": "685",
+        "category": "理塘县",
+        "father": "577"
+    },
+    {
+        "id": "686",
+        "category": "色达县",
+        "father": "577"
+    },
+    {
+        "id": "687",
+        "category": "石渠县",
+        "father": "577"
+    },
+    {
+        "id": "688",
+        "category": "白玉县",
+        "father": "577"
+    },
+    {
+        "id": "689",
+        "category": "德格县",
+        "father": "577"
+    },
+    {
+        "id": "690",
+        "category": "新龙县",
+        "father": "577"
+    },
+    {
+        "id": "691",
+        "category": "甘孜县",
+        "father": "577"
+    },
+    {
+        "id": "692",
+        "category": "炉霍县",
+        "father": "577"
+    },
+    {
+        "id": "693",
+        "category": "道孚县",
+        "father": "577"
+    },
+    {
+        "id": "694",
+        "category": "雅江县",
+        "father": "577"
+    },
+    {
+        "id": "695",
+        "category": "九龙县",
+        "father": "577"
+    },
+    {
+        "id": "696",
+        "category": "丹巴县",
+        "father": "577"
+    },
+    {
+        "id": "697",
+        "category": "泸定县",
+        "father": "577"
+    },
+    {
+        "id": "698",
+        "category": "康定县",
+        "father": "577"
+    },
+    {
+        "id": "699",
+        "category": "西昌市",
+        "father": "578"
+    },
+    {
+        "id": "700",
+        "category": "盐源县",
+        "father": "578"
+    },
+    {
+        "id": "701",
+        "category": "木里藏族自治县",
+        "father": "578"
+    },
+    {
+        "id": "702",
+        "category": "德昌县",
+        "father": "578"
+    },
+    {
+        "id": "703",
+        "category": "会理县",
+        "father": "578"
+    },
+    {
+        "id": "704",
+        "category": "会东县",
+        "father": "578"
+    },
+    {
+        "id": "705",
+        "category": "宁南县",
+        "father": "578"
+    },
+    {
+        "id": "706",
+        "category": "普格县",
+        "father": "578"
+    },
+    {
+        "id": "707",
+        "category": "布拖县",
+        "father": "578"
+    },
+    {
+        "id": "708",
+        "category": "金阳县",
+        "father": "578"
+    },
+    {
+        "id": "709",
+        "category": "昭觉县",
+        "father": "578"
+    },
+    {
+        "id": "710",
+        "category": "喜德县",
+        "father": "578"
+    },
+    {
+        "id": "711",
+        "category": "冕宁县",
+        "father": "578"
+    },
+    {
+        "id": "712",
+        "category": "越西县",
+        "father": "578"
+    },
+    {
+        "id": "713",
+        "category": "甘洛县",
+        "father": "578"
+    },
+    {
+        "id": "714",
+        "category": "美姑县",
+        "father": "578"
+    },
+    {
+        "id": "715",
+        "category": "雷波县",
+        "father": "578"
+    },
+    {
+        "id": "716",
+        "category": "昆明市",
+        "father": "37"
+    },
+    {
+        "id": "717",
+        "category": "曲靖市",
+        "father": "37"
+    },
+    {
+        "id": "718",
+        "category": "玉溪市",
+        "father": "37"
+    },
+    {
+        "id": "719",
+        "category": "保山市",
+        "father": "37"
+    },
+    {
+        "id": "720",
+        "category": "昭通市",
+        "father": "37"
+    },
+    {
+        "id": "721",
+        "category": "丽江市",
+        "father": "37"
+    },
+    {
+        "id": "722",
+        "category": "普洱市",
+        "father": "37"
+    },
+    {
+        "id": "723",
+        "category": "临沧市",
+        "father": "37"
+    },
+    {
+        "id": "724",
+        "category": "楚雄彝族自治州",
+        "father": "37"
+    },
+    {
+        "id": "725",
+        "category": "红河哈尼族彝族自治州",
+        "father": "37"
+    },
+    {
+        "id": "726",
+        "category": "西双版纳傣族自治州",
+        "father": "37"
+    },
+    {
+        "id": "727",
+        "category": "大理白族自治州",
+        "father": "37"
+    },
+    {
+        "id": "728",
+        "category": "德宏傣族景颇族自治州",
+        "father": "37"
+    },
+    {
+        "id": "729",
+        "category": "怒江傈僳族自治州",
+        "father": "37"
+    },
+    {
+        "id": "730",
+        "category": "迪庆藏族自治州",
+        "father": "37"
+    },
+    {
+        "id": "731",
+        "category": "文山壮族苗族自治州",
+        "father": "37"
+    },
+    {
+        "id": "732",
+        "category": "安宁市",
+        "father": "716"
+    },
+    {
+        "id": "733",
+        "category": "寻甸回族彝族自治县",
+        "father": "716"
+    },
+    {
+        "id": "734",
+        "category": "禄劝彝族苗族自治县",
+        "father": "716"
+    },
+    {
+        "id": "735",
+        "category": "嵩明县",
+        "father": "716"
+    },
+    {
+        "id": "736",
+        "category": "石林彝族自治县",
+        "father": "716"
+    },
+    {
+        "id": "737",
+        "category": "宜良县",
+        "father": "716"
+    },
+    {
+        "id": "738",
+        "category": "富民县",
+        "father": "716"
+    },
+    {
+        "id": "739",
+        "category": "晋宁县",
+        "father": "716"
+    },
+    {
+        "id": "740",
+        "category": "宣威市",
+        "father": "717"
+    },
+    {
+        "id": "741",
+        "category": "沾益县",
+        "father": "717"
+    },
+    {
+        "id": "742",
+        "category": "会泽县",
+        "father": "717"
+    },
+    {
+        "id": "743",
+        "category": "富源县",
+        "father": "717"
+    },
+    {
+        "id": "744",
+        "category": "罗平县",
+        "father": "717"
+    },
+    {
+        "id": "745",
+        "category": "师宗县",
+        "father": "717"
+    },
+    {
+        "id": "746",
+        "category": "陆良县",
+        "father": "717"
+    },
+    {
+        "id": "747",
+        "category": "马龙县",
+        "father": "717"
+    },
+    {
+        "id": "748",
+        "category": "元江哈尼族彝族傣族自治县",
+        "father": "718"
+    },
+    {
+        "id": "749",
+        "category": "新平彝族傣族自治县",
+        "father": "718"
+    },
+    {
+        "id": "750",
+        "category": "峨山彝族自治县",
+        "father": "718"
+    },
+    {
+        "id": "751",
+        "category": "易门县",
+        "father": "718"
+    },
+    {
+        "id": "752",
+        "category": "华宁县",
+        "father": "718"
+    },
+    {
+        "id": "753",
+        "category": "通海县",
+        "father": "718"
+    },
+    {
+        "id": "754",
+        "category": "澄江县",
+        "father": "718"
+    },
+    {
+        "id": "755",
+        "category": "江川县",
+        "father": "718"
+    },
+    {
+        "id": "756",
+        "category": "昌宁县",
+        "father": "719"
+    },
+    {
+        "id": "757",
+        "category": "龙陵县",
+        "father": "719"
+    },
+    {
+        "id": "758",
+        "category": "腾冲县",
+        "father": "719"
+    },
+    {
+        "id": "759",
+        "category": "施甸县",
+        "father": "719"
+    },
+    {
+        "id": "760",
+        "category": "水富县",
+        "father": "720"
+    },
+    {
+        "id": "761",
+        "category": "威信县",
+        "father": "720"
+    },
+    {
+        "id": "762",
+        "category": "彝良县",
+        "father": "720"
+    },
+    {
+        "id": "763",
+        "category": "镇雄县",
+        "father": "720"
+    },
+    {
+        "id": "764",
+        "category": "绥江县",
+        "father": "720"
+    },
+    {
+        "id": "765",
+        "category": "永善县",
+        "father": "720"
+    },
+    {
+        "id": "766",
+        "category": "大关县",
+        "father": "720"
+    },
+    {
+        "id": "767",
+        "category": "盐津县",
+        "father": "720"
+    },
+    {
+        "id": "768",
+        "category": "巧家县",
+        "father": "720"
+    },
+    {
+        "id": "769",
+        "category": "鲁甸县",
+        "father": "720"
+    },
+    {
+        "id": "770",
+        "category": "宁蒗彝族自治县",
+        "father": "721"
+    },
+    {
+        "id": "771",
+        "category": "华坪县",
+        "father": "721"
+    },
+    {
+        "id": "772",
+        "category": "永胜县",
+        "father": "721"
+    },
+    {
+        "id": "773",
+        "category": "玉龙纳西族自治县",
+        "father": "721"
+    },
+    {
+        "id": "774",
+        "category": "西盟佤族自治县",
+        "father": "722"
+    },
+    {
+        "id": "775",
+        "category": "澜沧拉祜族自治县",
+        "father": "722"
+    },
+    {
+        "id": "776",
+        "category": "孟连傣族拉祜族佤族自治县",
+        "father": "722"
+    },
+    {
+        "id": "777",
+        "category": "江城哈尼族彝族自治县",
+        "father": "722"
+    },
+    {
+        "id": "778",
+        "category": "镇沅彝族哈尼族拉祜族自治县",
+        "father": "722"
+    },
+    {
+        "id": "779",
+        "category": "景谷傣族彝族自治县",
+        "father": "722"
+    },
+    {
+        "id": "780",
+        "category": "景东彝族自治县",
+        "father": "722"
+    },
+    {
+        "id": "781",
+        "category": "墨江哈尼族自治县",
+        "father": "722"
+    },
+    {
+        "id": "782",
+        "category": "宁洱哈尼族彝族自治县",
+        "father": "722"
+    },
+    {
+        "id": "783",
+        "category": "沧源佤族自治县",
+        "father": "723"
+    },
+    {
+        "id": "784",
+        "category": "耿马傣族佤族自治县",
+        "father": "723"
+    },
+    {
+        "id": "785",
+        "category": "双江拉祜族佤族布朗族傣族自治县",
+        "father": "723"
+    },
+    {
+        "id": "786",
+        "category": "镇康县",
+        "father": "723"
+    },
+    {
+        "id": "787",
+        "category": "永德县",
+        "father": "723"
+    },
+    {
+        "id": "788",
+        "category": "云县",
+        "father": "723"
+    },
+    {
+        "id": "789",
+        "category": "凤庆县",
+        "father": "723"
+    },
+    {
+        "id": "790",
+        "category": "楚雄市",
+        "father": "724"
+    },
+    {
+        "id": "791",
+        "category": "双柏县",
+        "father": "724"
+    },
+    {
+        "id": "792",
+        "category": "牟定县",
+        "father": "724"
+    },
+    {
+        "id": "793",
+        "category": "南华县",
+        "father": "724"
+    },
+    {
+        "id": "794",
+        "category": "姚安县",
+        "father": "724"
+    },
+    {
+        "id": "795",
+        "category": "大姚县",
+        "father": "724"
+    },
+    {
+        "id": "796",
+        "category": "永仁县",
+        "father": "724"
+    },
+    {
+        "id": "797",
+        "category": "元谋县",
+        "father": "724"
+    },
+    {
+        "id": "798",
+        "category": "武定县",
+        "father": "724"
+    },
+    {
+        "id": "799",
+        "category": "禄丰县",
+        "father": "724"
+    },
+    {
+        "id": "800",
+        "category": "个旧市",
+        "father": "725"
+    },
+    {
+        "id": "801",
+        "category": "开远市",
+        "father": "725"
+    },
+    {
+        "id": "802",
+        "category": "蒙自市",
+        "father": "725"
+    },
+    {
+        "id": "803",
+        "category": "屏边苗族自治县",
+        "father": "725"
+    },
+    {
+        "id": "804",
+        "category": "建水县",
+        "father": "725"
+    },
+    {
+        "id": "805",
+        "category": "石屏县",
+        "father": "725"
+    },
+    {
+        "id": "806",
+        "category": "弥勒县",
+        "father": "725"
+    },
+    {
+        "id": "807",
+        "category": "泸西县",
+        "father": "725"
+    },
+    {
+        "id": "808",
+        "category": "元阳县",
+        "father": "725"
+    },
+    {
+        "id": "809",
+        "category": "红河县",
+        "father": "725"
+    },
+    {
+        "id": "810",
+        "category": "金平苗族瑶族傣族自治县",
+        "father": "725"
+    },
+    {
+        "id": "811",
+        "category": "绿春县",
+        "father": "725"
+    },
+    {
+        "id": "812",
+        "category": "河口瑶族自治县",
+        "father": "725"
+    },
+    {
+        "id": "813",
+        "category": "景洪市",
+        "father": "726"
+    },
+    {
+        "id": "814",
+        "category": "勐海县",
+        "father": "726"
+    },
+    {
+        "id": "815",
+        "category": "勐腊县",
+        "father": "726"
+    },
+    {
+        "id": "816",
+        "category": "大理市",
+        "father": "727"
+    },
+    {
+        "id": "817",
+        "category": "漾濞彝族自治县",
+        "father": "727"
+    },
+    {
+        "id": "818",
+        "category": "祥云县",
+        "father": "727"
+    },
+    {
+        "id": "819",
+        "category": "宾川县",
+        "father": "727"
+    },
+    {
+        "id": "820",
+        "category": "弥渡县",
+        "father": "727"
+    },
+    {
+        "id": "821",
+        "category": "南涧彝族自治县",
+        "father": "727"
+    },
+    {
+        "id": "822",
+        "category": "巍山彝族回族自治县",
+        "father": "727"
+    },
+    {
+        "id": "823",
+        "category": "永平县",
+        "father": "727"
+    },
+    {
+        "id": "824",
+        "category": "云龙县",
+        "father": "727"
+    },
+    {
+        "id": "825",
+        "category": "洱源县",
+        "father": "727"
+    },
+    {
+        "id": "826",
+        "category": "剑川县",
+        "father": "727"
+    },
+    {
+        "id": "827",
+        "category": "鹤庆县",
+        "father": "727"
+    },
+    {
+        "id": "828",
+        "category": "瑞丽市",
+        "father": "728"
+    },
+    {
+        "id": "829",
+        "category": "芒市",
+        "father": "728"
+    },
+    {
+        "id": "830",
+        "category": "梁河县",
+        "father": "728"
+    },
+    {
+        "id": "831",
+        "category": "盈江县",
+        "father": "728"
+    },
+    {
+        "id": "832",
+        "category": "陇川县",
+        "father": "728"
+    },
+    {
+        "id": "833",
+        "category": "兰坪白族普米族自治县",
+        "father": "729"
+    },
+    {
+        "id": "834",
+        "category": "贡山独龙族怒族自治县",
+        "father": "729"
+    },
+    {
+        "id": "835",
+        "category": "福贡县",
+        "father": "729"
+    },
+    {
+        "id": "836",
+        "category": "泸水县",
+        "father": "729"
+    },
+    {
+        "id": "837",
+        "category": "维西傈僳族自治县",
+        "father": "730"
+    },
+    {
+        "id": "838",
+        "category": "德钦县",
+        "father": "730"
+    },
+    {
+        "id": "839",
+        "category": "香格里拉县",
+        "father": "730"
+    },
+    {
+        "id": "840",
+        "category": "文山市",
+        "father": "731"
+    },
+    {
+        "id": "841",
+        "category": "砚山县",
+        "father": "731"
+    },
+    {
+        "id": "842",
+        "category": "西畴县",
+        "father": "731"
+    },
+    {
+        "id": "843",
+        "category": "麻栗坡县",
+        "father": "731"
+    },
+    {
+        "id": "844",
+        "category": "马关县",
+        "father": "731"
+    },
+    {
+        "id": "845",
+        "category": "丘北县",
+        "father": "731"
+    },
+    {
+        "id": "846",
+        "category": "广南县",
+        "father": "731"
+    },
+    {
+        "id": "847",
+        "category": "富宁县",
+        "father": "731"
+    },
+    {
+        "id": "848",
+        "category": "贵阳市",
+        "father": "35"
+    },
+    {
+        "id": "849",
+        "category": "六盘水市",
+        "father": "35"
+    },
+    {
+        "id": "850",
+        "category": "遵义市",
+        "father": "35"
+    },
+    {
+        "id": "851",
+        "category": "安顺市",
+        "father": "35"
+    },
+    {
+        "id": "852",
+        "category": "铜仁市",
+        "father": "35"
+    },
+    {
+        "id": "853",
+        "category": "黔西南布依族苗族自治州",
+        "father": "35"
+    },
+    {
+        "id": "854",
+        "category": "毕节市",
+        "father": "35"
+    },
+    {
+        "id": "855",
+        "category": "黔东南苗族侗族自治州",
+        "father": "35"
+    },
+    {
+        "id": "856",
+        "category": "黔南布依族苗族自治州",
+        "father": "35"
+    },
+    {
+        "id": "857",
+        "category": "清镇市",
+        "father": "848"
+    },
+    {
+        "id": "858",
+        "category": "修文县",
+        "father": "848"
+    },
+    {
+        "id": "859",
+        "category": "息烽县",
+        "father": "848"
+    },
+    {
+        "id": "860",
+        "category": "开阳县",
+        "father": "848"
+    },
+    {
+        "id": "861",
+        "category": "福泉市",
+        "father": "856"
+    },
+    {
+        "id": "862",
+        "category": "都匀市",
+        "father": "856"
+    },
+    {
+        "id": "863",
+        "category": "龙里县",
+        "father": "856"
+    },
+    {
+        "id": "864",
+        "category": "长顺县",
+        "father": "856"
+    },
+    {
+        "id": "865",
+        "category": "罗甸县",
+        "father": "856"
+    },
+    {
+        "id": "866",
+        "category": "平塘县",
+        "father": "856"
+    },
+    {
+        "id": "867",
+        "category": "独山县",
+        "father": "856"
+    },
+    {
+        "id": "868",
+        "category": "瓮安县",
+        "father": "856"
+    },
+    {
+        "id": "869",
+        "category": "贵定县",
+        "father": "856"
+    },
+    {
+        "id": "870",
+        "category": "荔波县",
+        "father": "856"
+    },
+    {
+        "id": "871",
+        "category": "惠水县",
+        "father": "856"
+    },
+    {
+        "id": "872",
+        "category": "三都水族自治县",
+        "father": "856"
+    },
+    {
+        "id": "873",
+        "category": "凯里市",
+        "father": "855"
+    },
+    {
+        "id": "874",
+        "category": "黄平县",
+        "father": "855"
+    },
+    {
+        "id": "875",
+        "category": "施秉县",
+        "father": "855"
+    },
+    {
+        "id": "876",
+        "category": "三穗县",
+        "father": "855"
+    },
+    {
+        "id": "877",
+        "category": "镇远县",
+        "father": "855"
+    },
+    {
+        "id": "878",
+        "category": "岑巩县",
+        "father": "855"
+    },
+    {
+        "id": "879",
+        "category": "天柱县",
+        "father": "855"
+    },
+    {
+        "id": "880",
+        "category": "锦屏县",
+        "father": "855"
+    },
+    {
+        "id": "881",
+        "category": "剑河县",
+        "father": "855"
+    },
+    {
+        "id": "882",
+        "category": "台江县",
+        "father": "855"
+    },
+    {
+        "id": "883",
+        "category": "黎平县",
+        "father": "855"
+    },
+    {
+        "id": "884",
+        "category": "榕江县",
+        "father": "855"
+    },
+    {
+        "id": "885",
+        "category": "从江县",
+        "father": "855"
+    },
+    {
+        "id": "886",
+        "category": "雷山县",
+        "father": "855"
+    },
+    {
+        "id": "887",
+        "category": "麻江县",
+        "father": "855"
+    },
+    {
+        "id": "888",
+        "category": "丹寨县",
+        "father": "855"
+    },
+    {
+        "id": "890",
+        "category": "大方县",
+        "father": "854"
+    },
+    {
+        "id": "891",
+        "category": "黔西县",
+        "father": "854"
+    },
+    {
+        "id": "892",
+        "category": "金沙县",
+        "father": "854"
+    },
+    {
+        "id": "893",
+        "category": "织金县",
+        "father": "854"
+    },
+    {
+        "id": "894",
+        "category": "纳雍县",
+        "father": "854"
+    },
+    {
+        "id": "895",
+        "category": "威宁彝族回族苗族自治县",
+        "father": "854"
+    },
+    {
+        "id": "896",
+        "category": "赫章县",
+        "father": "854"
+    },
+    {
+        "id": "897",
+        "category": "兴义市",
+        "father": "853"
+    },
+    {
+        "id": "898",
+        "category": "兴仁县",
+        "father": "853"
+    },
+    {
+        "id": "899",
+        "category": "普安县",
+        "father": "853"
+    },
+    {
+        "id": "900",
+        "category": "晴隆县",
+        "father": "853"
+    },
+    {
+        "id": "901",
+        "category": "贞丰县",
+        "father": "853"
+    },
+    {
+        "id": "902",
+        "category": "望谟县",
+        "father": "853"
+    },
+    {
+        "id": "903",
+        "category": "册亨县",
+        "father": "853"
+    },
+    {
+        "id": "904",
+        "category": "安龙县",
+        "father": "853"
+    },
+    {
+        "id": "905",
+        "category": "江口县",
+        "father": "852"
+    },
+    {
+        "id": "906",
+        "category": "玉屏侗族自治县",
+        "father": "852"
+    },
+    {
+        "id": "907",
+        "category": "石阡县",
+        "father": "852"
+    },
+    {
+        "id": "908",
+        "category": "思南县",
+        "father": "852"
+    },
+    {
+        "id": "909",
+        "category": "德江县",
+        "father": "852"
+    },
+    {
+        "id": "910",
+        "category": "印江土家族苗族自治县",
+        "father": "852"
+    },
+    {
+        "id": "911",
+        "category": "沿河土家族自治县",
+        "father": "852"
+    },
+    {
+        "id": "912",
+        "category": "松桃苗族自治县",
+        "father": "852"
+    },
+    {
+        "id": "913",
+        "category": "平坝县",
+        "father": "851"
+    },
+    {
+        "id": "914",
+        "category": "普定县",
+        "father": "851"
+    },
+    {
+        "id": "915",
+        "category": "镇宁布依族苗族自治县",
+        "father": "851"
+    },
+    {
+        "id": "916",
+        "category": "关岭布依族苗族自治县",
+        "father": "851"
+    },
+    {
+        "id": "917",
+        "category": "紫云苗族布依族自治县",
+        "father": "851"
+    },
+    {
+        "id": "918",
+        "category": "仁怀市",
+        "father": "850"
+    },
+    {
+        "id": "919",
+        "category": "赤水市",
+        "father": "850"
+    },
+    {
+        "id": "920",
+        "category": "习水县",
+        "father": "850"
+    },
+    {
+        "id": "921",
+        "category": "余庆县",
+        "father": "850"
+    },
+    {
+        "id": "922",
+        "category": "湄潭县",
+        "father": "850"
+    },
+    {
+        "id": "923",
+        "category": "凤冈县",
+        "father": "850"
+    },
+    {
+        "id": "924",
+        "category": "务川仡佬族苗族自治县",
+        "father": "850"
+    },
+    {
+        "id": "925",
+        "category": "道真仡佬族苗族自治县",
+        "father": "850"
+    },
+    {
+        "id": "926",
+        "category": "正安县",
+        "father": "850"
+    },
+    {
+        "id": "927",
+        "category": "绥阳县",
+        "father": "850"
+    },
+    {
+        "id": "928",
+        "category": "桐梓县",
+        "father": "850"
+    },
+    {
+        "id": "929",
+        "category": "遵义县",
+        "father": "850"
+    },
+    {
+        "id": "930",
+        "category": "水城县",
+        "father": "849"
+    },
+    {
+        "id": "931",
+        "category": "盘县",
+        "father": "849"
+    },
+    {
+        "id": "932",
+        "category": "六枝特区",
+        "father": "849"
+    },
+    {
+        "id": "933",
+        "category": "海口市",
+        "father": "34"
+    },
+    {
+        "id": "934",
+        "category": "三亚市",
+        "father": "34"
+    },
+    {
+        "id": "935",
+        "category": "三沙市",
+        "father": "34"
+    },
+    {
+        "id": "936",
+        "category": "南宁市",
+        "father": "33"
+    },
+    {
+        "id": "937",
+        "category": "柳州市",
+        "father": "33"
+    },
+    {
+        "id": "938",
+        "category": "桂林市",
+        "father": "33"
+    },
+    {
+        "id": "939",
+        "category": "梧州市",
+        "father": "33"
+    },
+    {
+        "id": "940",
+        "category": "北海市",
+        "father": "33"
+    },
+    {
+        "id": "941",
+        "category": "防城港市",
+        "father": "33"
+    },
+    {
+        "id": "942",
+        "category": "钦州市",
+        "father": "33"
+    },
+    {
+        "id": "943",
+        "category": "贵港市",
+        "father": "33"
+    },
+    {
+        "id": "944",
+        "category": "玉林市",
+        "father": "33"
+    },
+    {
+        "id": "945",
+        "category": "百色市",
+        "father": "33"
+    },
+    {
+        "id": "946",
+        "category": "贺州市",
+        "father": "33"
+    },
+    {
+        "id": "947",
+        "category": "河池市",
+        "father": "33"
+    },
+    {
+        "id": "948",
+        "category": "来宾市",
+        "father": "33"
+    },
+    {
+        "id": "949",
+        "category": "崇左市",
+        "father": "33"
+    },
+    {
+        "id": "950",
+        "category": "凭祥市",
+        "father": "949"
+    },
+    {
+        "id": "951",
+        "category": "天等县",
+        "father": "949"
+    },
+    {
+        "id": "952",
+        "category": "大新县",
+        "father": "949"
+    },
+    {
+        "id": "953",
+        "category": "龙州县",
+        "father": "949"
+    },
+    {
+        "id": "954",
+        "category": "宁明县",
+        "father": "949"
+    },
+    {
+        "id": "955",
+        "category": "扶绥县",
+        "father": "949"
+    },
+    {
+        "id": "956",
+        "category": "合山市",
+        "father": "948"
+    },
+    {
+        "id": "957",
+        "category": "武宣县",
+        "father": "948"
+    },
+    {
+        "id": "958",
+        "category": "象州县",
+        "father": "948"
+    },
+    {
+        "id": "959",
+        "category": "忻城县",
+        "father": "948"
+    },
+    {
+        "id": "960",
+        "category": "金秀瑶族自治县",
+        "father": "948"
+    },
+    {
+        "id": "961",
+        "category": "宜州市",
+        "father": "947"
+    },
+    {
+        "id": "962",
+        "category": "天峨县",
+        "father": "947"
+    },
+    {
+        "id": "963",
+        "category": "凤山县",
+        "father": "947"
+    },
+    {
+        "id": "964",
+        "category": "东兰县",
+        "father": "947"
+    },
+    {
+        "id": "965",
+        "category": "南丹县",
+        "father": "947"
+    },
+    {
+        "id": "966",
+        "category": "大化瑶族自治县",
+        "father": "947"
+    },
+    {
+        "id": "967",
+        "category": "都安瑶族自治县",
+        "father": "947"
+    },
+    {
+        "id": "968",
+        "category": "巴马瑶族自治县",
+        "father": "947"
+    },
+    {
+        "id": "969",
+        "category": "罗城仫佬族自治县",
+        "father": "947"
+    },
+    {
+        "id": "970",
+        "category": "环江毛南族自治县",
+        "father": "947"
+    },
+    {
+        "id": "971",
+        "category": "富川瑶族自治县",
+        "father": "946"
+    },
+    {
+        "id": "972",
+        "category": "钟山县",
+        "father": "946"
+    },
+    {
+        "id": "973",
+        "category": "昭平县",
+        "father": "946"
+    },
+    {
+        "id": "974",
+        "category": "隆林各族自治县",
+        "father": "945"
+    },
+    {
+        "id": "975",
+        "category": "西林县",
+        "father": "945"
+    },
+    {
+        "id": "976",
+        "category": "田林县",
+        "father": "945"
+    },
+    {
+        "id": "977",
+        "category": "乐业县",
+        "father": "945"
+    },
+    {
+        "id": "978",
+        "category": "凌云县",
+        "father": "945"
+    },
+    {
+        "id": "979",
+        "category": "那坡县",
+        "father": "945"
+    },
+    {
+        "id": "980",
+        "category": "靖西县",
+        "father": "945"
+    },
+    {
+        "id": "981",
+        "category": "德保县",
+        "father": "945"
+    },
+    {
+        "id": "982",
+        "category": "平果县",
+        "father": "945"
+    },
+    {
+        "id": "983",
+        "category": "田东县",
+        "father": "945"
+    },
+    {
+        "id": "984",
+        "category": "田阳县",
+        "father": "945"
+    },
+    {
+        "id": "985",
+        "category": "北流市",
+        "father": "944"
+    },
+    {
+        "id": "986",
+        "category": "兴业县",
+        "father": "944"
+    },
+    {
+        "id": "987",
+        "category": "博白县",
+        "father": "944"
+    },
+    {
+        "id": "988",
+        "category": "陆川县",
+        "father": "944"
+    },
+    {
+        "id": "989",
+        "category": "容县",
+        "father": "944"
+    },
+    {
+        "id": "990",
+        "category": "桂平市",
+        "father": "943"
+    },
+    {
+        "id": "991",
+        "category": "平南县",
+        "father": "943"
+    },
+    {
+        "id": "992",
+        "category": "浦北县",
+        "father": "942"
+    },
+    {
+        "id": "993",
+        "category": "灵山县",
+        "father": "942"
+    },
+    {
+        "id": "994",
+        "category": "东兴市",
+        "father": "941"
+    },
+    {
+        "id": "995",
+        "category": "上思县",
+        "father": "941"
+    },
+    {
+        "id": "996",
+        "category": "合浦县",
+        "father": "940"
+    },
+    {
+        "id": "997",
+        "category": "岑溪市",
+        "father": "939"
+    },
+    {
+        "id": "998",
+        "category": "蒙山县",
+        "father": "939"
+    },
+    {
+        "id": "999",
+        "category": "藤县",
+        "father": "939"
+    },
+    {
+        "id": "1000",
+        "category": "苍梧县",
+        "father": "939"
+    },
+    {
+        "id": "1001",
+        "category": "荔浦县",
+        "father": "938"
+    },
+    {
+        "id": "1002",
+        "category": "平乐县",
+        "father": "938"
+    },
+    {
+        "id": "1003",
+        "category": "资源县",
+        "father": "938"
+    },
+    {
+        "id": "1004",
+        "category": "灌阳县",
+        "father": "938"
+    },
+    {
+        "id": "1005",
+        "category": "永福县",
+        "father": "938"
+    },
+    {
+        "id": "1006",
+        "category": "兴安县",
+        "father": "938"
+    },
+    {
+        "id": "1007",
+        "category": "全州县",
+        "father": "938"
+    },
+    {
+        "id": "1008",
+        "category": "灵川县",
+        "father": "938"
+    },
+    {
+        "id": "1009",
+        "category": "阳朔县",
+        "father": "938"
+    },
+    {
+        "id": "1010",
+        "category": "龙胜各族自治县",
+        "father": "938"
+    },
+    {
+        "id": "1011",
+        "category": "恭城瑶族自治县",
+        "father": "938"
+    },
+    {
+        "id": "1012",
+        "category": "三江侗族自治县",
+        "father": "937"
+    },
+    {
+        "id": "1013",
+        "category": "融水苗族自治县",
+        "father": "937"
+    },
+    {
+        "id": "1014",
+        "category": "融安县",
+        "father": "937"
+    },
+    {
+        "id": "1015",
+        "category": "鹿寨县",
+        "father": "937"
+    },
+    {
+        "id": "1016",
+        "category": "柳城县",
+        "father": "937"
+    },
+    {
+        "id": "1017",
+        "category": "柳江县",
+        "father": "937"
+    },
+    {
+        "id": "1018",
+        "category": "横县",
+        "father": "936"
+    },
+    {
+        "id": "1019",
+        "category": "宾阳县",
+        "father": "936"
+    },
+    {
+        "id": "1020",
+        "category": "上林县",
+        "father": "936"
+    },
+    {
+        "id": "1021",
+        "category": "马山县",
+        "father": "936"
+    },
+    {
+        "id": "1022",
+        "category": "隆安县",
+        "father": "936"
+    },
+    {
+        "id": "1023",
+        "category": "武鸣县",
+        "father": "936"
+    },
+    {
+        "id": "1024",
+        "category": "广州市",
+        "father": "32"
+    },
+    {
+        "id": "1025",
+        "category": "韶关市",
+        "father": "32"
+    },
+    {
+        "id": "1026",
+        "category": "深圳市",
+        "father": "32"
+    },
+    {
+        "id": "1027",
+        "category": "珠海市",
+        "father": "32"
+    },
+    {
+        "id": "1028",
+        "category": "汕头市",
+        "father": "32"
+    },
+    {
+        "id": "1029",
+        "category": "佛山市",
+        "father": "32"
+    },
+    {
+        "id": "1030",
+        "category": "江门市",
+        "father": "32"
+    },
+    {
+        "id": "1031",
+        "category": "湛江市",
+        "father": "32"
+    },
+    {
+        "id": "1032",
+        "category": "茂名市",
+        "father": "32"
+    },
+    {
+        "id": "1033",
+        "category": "肇庆市",
+        "father": "32"
+    },
+    {
+        "id": "1034",
+        "category": "惠州市",
+        "father": "32"
+    },
+    {
+        "id": "1035",
+        "category": "梅州市",
+        "father": "32"
+    },
+    {
+        "id": "1036",
+        "category": "汕尾市",
+        "father": "32"
+    },
+    {
+        "id": "1037",
+        "category": "河源市",
+        "father": "32"
+    },
+    {
+        "id": "1038",
+        "category": "阳江市",
+        "father": "32"
+    },
+    {
+        "id": "1039",
+        "category": "清远市",
+        "father": "32"
+    },
+    {
+        "id": "1040",
+        "category": "东莞市",
+        "father": "32"
+    },
+    {
+        "id": "1041",
+        "category": "中山市",
+        "father": "32"
+    },
+    {
+        "id": "1042",
+        "category": "潮州市",
+        "father": "32"
+    },
+    {
+        "id": "1043",
+        "category": "揭阳市",
+        "father": "32"
+    },
+    {
+        "id": "1044",
+        "category": "云浮市",
+        "father": "32"
+    },
+    {
+        "id": "1045",
+        "category": "罗定市",
+        "father": "1044"
+    },
+    {
+        "id": "1046",
+        "category": "云安县",
+        "father": "1044"
+    },
+    {
+        "id": "1047",
+        "category": "郁南县",
+        "father": "1044"
+    },
+    {
+        "id": "1048",
+        "category": "新兴县",
+        "father": "1044"
+    },
+    {
+        "id": "1049",
+        "category": "普宁市",
+        "father": "1043"
+    },
+    {
+        "id": "1050",
+        "category": "惠来县",
+        "father": "1043"
+    },
+    {
+        "id": "1051",
+        "category": "揭西县",
+        "father": "1043"
+    },
+    {
+        "id": "1053",
+        "category": "饶平县",
+        "father": "1042"
+    },
+    {
+        "id": "1054",
+        "category": "连州市",
+        "father": "1039"
+    },
+    {
+        "id": "1055",
+        "category": "英德市",
+        "father": "1039"
+    },
+    {
+        "id": "1057",
+        "category": "阳山县",
+        "father": "1039"
+    },
+    {
+        "id": "1058",
+        "category": "佛冈县",
+        "father": "1039"
+    },
+    {
+        "id": "1059",
+        "category": "连南瑶族自治县",
+        "father": "1039"
+    },
+    {
+        "id": "1060",
+        "category": "连山壮族瑶族自治县",
+        "father": "1039"
+    },
+    {
+        "id": "1061",
+        "category": "阳春市",
+        "father": "1038"
+    },
+    {
+        "id": "1062",
+        "category": "阳东县",
+        "father": "1038"
+    },
+    {
+        "id": "1064",
+        "category": "东源县",
+        "father": "1037"
+    },
+    {
+        "id": "1065",
+        "category": "和平县",
+        "father": "1037"
+    },
+    {
+        "id": "1066",
+        "category": "连平县",
+        "father": "1037"
+    },
+    {
+        "id": "1067",
+        "category": "龙川县",
+        "father": "1037"
+    },
+    {
+        "id": "1068",
+        "category": "紫金县",
+        "father": "1037"
+    },
+    {
+        "id": "1069",
+        "category": "陆丰市",
+        "father": "1036"
+    },
+    {
+        "id": "1070",
+        "category": "海丰县",
+        "father": "1036"
+    },
+    {
+        "id": "1071",
+        "category": "陆河县",
+        "father": "1036"
+    },
+    {
+        "id": "1072",
+        "category": "兴宁市",
+        "father": "1035"
+    },
+    {
+        "id": "1073",
+        "category": "蕉岭县",
+        "father": "1035"
+    },
+    {
+        "id": "1074",
+        "category": "平远县",
+        "father": "1035"
+    },
+    {
+        "id": "1075",
+        "category": "五华县",
+        "father": "1035"
+    },
+    {
+        "id": "1076",
+        "category": "丰顺县",
+        "father": "1035"
+    },
+    {
+        "id": "1077",
+        "category": "大埔县",
+        "father": "1035"
+    },
+    {
+        "id": "1079",
+        "category": "龙门县",
+        "father": "1034"
+    },
+    {
+        "id": "1080",
+        "category": "惠东县",
+        "father": "1034"
+    },
+    {
+        "id": "1081",
+        "category": "博罗县",
+        "father": "1034"
+    },
+    {
+        "id": "1082",
+        "category": "四会市",
+        "father": "1033"
+    },
+    {
+        "id": "1083",
+        "category": "高要市",
+        "father": "1033"
+    },
+    {
+        "id": "1084",
+        "category": "德庆县",
+        "father": "1033"
+    },
+    {
+        "id": "1085",
+        "category": "封开县",
+        "father": "1033"
+    },
+    {
+        "id": "1086",
+        "category": "怀集县",
+        "father": "1033"
+    },
+    {
+        "id": "1087",
+        "category": "广宁县",
+        "father": "1033"
+    },
+    {
+        "id": "1088",
+        "category": "信宜市",
+        "father": "1032"
+    },
+    {
+        "id": "1089",
+        "category": "化州市",
+        "father": "1032"
+    },
+    {
+        "id": "1090",
+        "category": "高州市",
+        "father": "1032"
+    },
+    {
+        "id": "1091",
+        "category": "吴川市",
+        "father": "1031"
+    },
+    {
+        "id": "1092",
+        "category": "雷州市",
+        "father": "1031"
+    },
+    {
+        "id": "1093",
+        "category": "廉江市",
+        "father": "1031"
+    },
+    {
+        "id": "1094",
+        "category": "徐闻县",
+        "father": "1031"
+    },
+    {
+        "id": "1095",
+        "category": "遂溪县",
+        "father": "1031"
+    },
+    {
+        "id": "1096",
+        "category": "恩平市",
+        "father": "1030"
+    },
+    {
+        "id": "1097",
+        "category": "鹤山市",
+        "father": "1030"
+    },
+    {
+        "id": "1098",
+        "category": "开平市",
+        "father": "1030"
+    },
+    {
+        "id": "1099",
+        "category": "台山市",
+        "father": "1030"
+    },
+    {
+        "id": "1100",
+        "category": "南澳县",
+        "father": "1028"
+    },
+    {
+        "id": "1101",
+        "category": "南雄市",
+        "father": "1025"
+    },
+    {
+        "id": "1102",
+        "category": "乐昌市",
+        "father": "1025"
+    },
+    {
+        "id": "1103",
+        "category": "新丰县",
+        "father": "1025"
+    },
+    {
+        "id": "1104",
+        "category": "翁源县",
+        "father": "1025"
+    },
+    {
+        "id": "1105",
+        "category": "仁化县",
+        "father": "1025"
+    },
+    {
+        "id": "1106",
+        "category": "始兴县",
+        "father": "1025"
+    },
+    {
+        "id": "1107",
+        "category": "乳源瑶族自治县",
+        "father": "1025"
+    },
+    {
+        "id": "1108",
+        "category": "台北市",
+        "father": "31"
+    },
+    {
+        "id": "1109",
+        "category": "髙雄市",
+        "father": "31"
+    },
+    {
+        "id": "1110",
+        "category": "基隆市",
+        "father": "31"
+    },
+    {
+        "id": "1111",
+        "category": "台中市",
+        "father": "31"
+    },
+    {
+        "id": "1112",
+        "category": "台南市",
+        "father": "31"
+    },
+    {
+        "id": "1113",
+        "category": "新竹市",
+        "father": "31"
+    },
+    {
+        "id": "1114",
+        "category": "嘉义市",
+        "father": "31"
+    },
+    {
+        "id": "1115",
+        "category": "新北市",
+        "father": "31"
+    },
+    {
+        "id": "1117",
+        "category": "宜兰县",
+        "father": "31"
+    },
+    {
+        "id": "1118",
+        "category": "新竹县",
+        "father": "31"
+    },
+    {
+        "id": "1119",
+        "category": "桃园县",
+        "father": "31"
+    },
+    {
+        "id": "1120",
+        "category": "苗栗县",
+        "father": "31"
+    },
+    {
+        "id": "1121",
+        "category": "台中县",
+        "father": "31"
+    },
+    {
+        "id": "1122",
+        "category": "彰化县",
+        "father": "31"
+    },
+    {
+        "id": "1123",
+        "category": "南投县",
+        "father": "31"
+    },
+    {
+        "id": "1124",
+        "category": "嘉义县",
+        "father": "31"
+    },
+    {
+        "id": "1125",
+        "category": "云林县",
+        "father": "31"
+    },
+    {
+        "id": "1126",
+        "category": "台南县",
+        "father": "31"
+    },
+    {
+        "id": "1127",
+        "category": "高雄县",
+        "father": "31"
+    },
+    {
+        "id": "1128",
+        "category": "屏东县",
+        "father": "31"
+    },
+    {
+        "id": "1129",
+        "category": "台东县",
+        "father": "31"
+    },
+    {
+        "id": "1130",
+        "category": "花莲县",
+        "father": "31"
+    },
+    {
+        "id": "1131",
+        "category": "澎湖县",
+        "father": "31"
+    },
+    {
+        "id": "1132",
+        "category": "福州市",
+        "father": "28"
+    },
+    {
+        "id": "1133",
+        "category": "厦门市",
+        "father": "28"
+    },
+    {
+        "id": "1134",
+        "category": "莆田市",
+        "father": "28"
+    },
+    {
+        "id": "1135",
+        "category": "三明市",
+        "father": "28"
+    },
+    {
+        "id": "1136",
+        "category": "泉州市",
+        "father": "28"
+    },
+    {
+        "id": "1137",
+        "category": "漳州市",
+        "father": "28"
+    },
+    {
+        "id": "1138",
+        "category": "南平市",
+        "father": "28"
+    },
+    {
+        "id": "1139",
+        "category": "龙岩市",
+        "father": "28"
+    },
+    {
+        "id": "1140",
+        "category": "宁德市",
+        "father": "28"
+    },
+    {
+        "id": "1141",
+        "category": "福鼎市",
+        "father": "1140"
+    },
+    {
+        "id": "1142",
+        "category": "福安市",
+        "father": "1140"
+    },
+    {
+        "id": "1143",
+        "category": "柘荣县",
+        "father": "1140"
+    },
+    {
+        "id": "1144",
+        "category": "周宁县",
+        "father": "1140"
+    },
+    {
+        "id": "1145",
+        "category": "寿宁县",
+        "father": "1140"
+    },
+    {
+        "id": "1146",
+        "category": "屏南县",
+        "father": "1140"
+    },
+    {
+        "id": "1147",
+        "category": "古田县",
+        "father": "1140"
+    },
+    {
+        "id": "1148",
+        "category": "霞浦县",
+        "father": "1140"
+    },
+    {
+        "id": "1149",
+        "category": "漳平市",
+        "father": "1139"
+    },
+    {
+        "id": "1150",
+        "category": "连城县",
+        "father": "1139"
+    },
+    {
+        "id": "1151",
+        "category": "武平县",
+        "father": "1139"
+    },
+    {
+        "id": "1152",
+        "category": "上杭县",
+        "father": "1139"
+    },
+    {
+        "id": "1153",
+        "category": "永定县",
+        "father": "1139"
+    },
+    {
+        "id": "1154",
+        "category": "长汀县",
+        "father": "1139"
+    },
+    {
+        "id": "1155",
+        "category": "建阳市",
+        "father": "1138"
+    },
+    {
+        "id": "1156",
+        "category": "建瓯市",
+        "father": "1138"
+    },
+    {
+        "id": "1157",
+        "category": "武夷山市",
+        "father": "1138"
+    },
+    {
+        "id": "1158",
+        "category": "邵武市",
+        "father": "1138"
+    },
+    {
+        "id": "1159",
+        "category": "政和县",
+        "father": "1138"
+    },
+    {
+        "id": "1160",
+        "category": "松溪县",
+        "father": "1138"
+    },
+    {
+        "id": "1161",
+        "category": "光泽县",
+        "father": "1138"
+    },
+    {
+        "id": "1162",
+        "category": "浦城县",
+        "father": "1138"
+    },
+    {
+        "id": "1163",
+        "category": "顺昌县",
+        "father": "1138"
+    },
+    {
+        "id": "1164",
+        "category": "龙海市",
+        "father": "1137"
+    },
+    {
+        "id": "1165",
+        "category": "华安县",
+        "father": "1137"
+    },
+    {
+        "id": "1166",
+        "category": "平和县",
+        "father": "1137"
+    },
+    {
+        "id": "1167",
+        "category": "南靖县",
+        "father": "1137"
+    },
+    {
+        "id": "1168",
+        "category": "东山县",
+        "father": "1137"
+    },
+    {
+        "id": "1169",
+        "category": "长泰县",
+        "father": "1137"
+    },
+    {
+        "id": "1170",
+        "category": "诏安县",
+        "father": "1137"
+    },
+    {
+        "id": "1171",
+        "category": "漳浦县",
+        "father": "1137"
+    },
+    {
+        "id": "1172",
+        "category": "云霄县",
+        "father": "1137"
+    },
+    {
+        "id": "1173",
+        "category": "南安市",
+        "father": "1136"
+    },
+    {
+        "id": "1174",
+        "category": "晋江市",
+        "father": "1136"
+    },
+    {
+        "id": "1175",
+        "category": "石狮市",
+        "father": "1136"
+    },
+    {
+        "id": "1176",
+        "category": "金门县",
+        "father": "1136"
+    },
+    {
+        "id": "1177",
+        "category": "德化县",
+        "father": "1136"
+    },
+    {
+        "id": "1178",
+        "category": "安溪县",
+        "father": "1136"
+    },
+    {
+        "id": "1179",
+        "category": "惠安县",
+        "father": "1136"
+    },
+    {
+        "id": "1180",
+        "category": "永春县",
+        "father": "1136"
+    },
+    {
+        "id": "1181",
+        "category": "永安市",
+        "father": "1135"
+    },
+    {
+        "id": "1182",
+        "category": "建宁县",
+        "father": "1135"
+    },
+    {
+        "id": "1183",
+        "category": "泰宁县",
+        "father": "1135"
+    },
+    {
+        "id": "1184",
+        "category": "将乐县",
+        "father": "1135"
+    },
+    {
+        "id": "1185",
+        "category": "沙县",
+        "father": "1135"
+    },
+    {
+        "id": "1186",
+        "category": "尤溪县",
+        "father": "1135"
+    },
+    {
+        "id": "1187",
+        "category": "大田县",
+        "father": "1135"
+    },
+    {
+        "id": "1188",
+        "category": "宁化县",
+        "father": "1135"
+    },
+    {
+        "id": "1189",
+        "category": "清流县",
+        "father": "1135"
+    },
+    {
+        "id": "1190",
+        "category": "明溪县",
+        "father": "1135"
+    },
+    {
+        "id": "1191",
+        "category": "仙游县",
+        "father": "1134"
+    },
+    {
+        "id": "1192",
+        "category": "长乐市",
+        "father": "1132"
+    },
+    {
+        "id": "1193",
+        "category": "福清市",
+        "father": "1132"
+    },
+    {
+        "id": "1194",
+        "category": "平潭县",
+        "father": "1132"
+    },
+    {
+        "id": "1195",
+        "category": "永泰县",
+        "father": "1132"
+    },
+    {
+        "id": "1196",
+        "category": "闽清县",
+        "father": "1132"
+    },
+    {
+        "id": "1197",
+        "category": "罗源县",
+        "father": "1132"
+    },
+    {
+        "id": "1198",
+        "category": "连江县",
+        "father": "1132"
+    },
+    {
+        "id": "1199",
+        "category": "闽侯县",
+        "father": "1132"
+    },
+    {
+        "id": "1200",
+        "category": "南昌市",
+        "father": "27"
+    },
+    {
+        "id": "1201",
+        "category": "萍乡市",
+        "father": "27"
+    },
+    {
+        "id": "1202",
+        "category": "九江市 ",
+        "father": "27"
+    },
+    {
+        "id": "1203",
+        "category": "新余市",
+        "father": "27"
+    },
+    {
+        "id": "1204",
+        "category": "鹰潭市",
+        "father": "27"
+    },
+    {
+        "id": "1205",
+        "category": "赣州市",
+        "father": "27"
+    },
+    {
+        "id": "1206",
+        "category": "吉安市",
+        "father": "27"
+    },
+    {
+        "id": "1207",
+        "category": "宜春市",
+        "father": "27"
+    },
+    {
+        "id": "1208",
+        "category": "抚州市",
+        "father": "27"
+    },
+    {
+        "id": "1209",
+        "category": "上饶市",
+        "father": "27"
+    },
+    {
+        "id": "1210",
+        "category": "景德镇市",
+        "father": "27"
+    },
+    {
+        "id": "1211",
+        "category": "乐平市",
+        "father": "1210"
+    },
+    {
+        "id": "1212",
+        "category": "浮梁县",
+        "father": "1210"
+    },
+    {
+        "id": "1213",
+        "category": "德兴市",
+        "father": "1209"
+    },
+    {
+        "id": "1214",
+        "category": "婺源县",
+        "father": "1209"
+    },
+    {
+        "id": "1215",
+        "category": "万年县",
+        "father": "1209"
+    },
+    {
+        "id": "1216",
+        "category": "鄱阳县",
+        "father": "1209"
+    },
+    {
+        "id": "1217",
+        "category": "余干县",
+        "father": "1209"
+    },
+    {
+        "id": "1218",
+        "category": "弋阳县",
+        "father": "1209"
+    },
+    {
+        "id": "1219",
+        "category": "横峰县",
+        "father": "1209"
+    },
+    {
+        "id": "1220",
+        "category": "铅山县",
+        "father": "1209"
+    },
+    {
+        "id": "1221",
+        "category": "玉山县",
+        "father": "1209"
+    },
+    {
+        "id": "1222",
+        "category": "广丰县",
+        "father": "1209"
+    },
+    {
+        "id": "1223",
+        "category": "上饶县",
+        "father": "1209"
+    },
+    {
+        "id": "1224",
+        "category": "广昌县",
+        "father": "1208"
+    },
+    {
+        "id": "1225",
+        "category": "东乡县",
+        "father": "1208"
+    },
+    {
+        "id": "1226",
+        "category": "资溪县",
+        "father": "1208"
+    },
+    {
+        "id": "1228",
+        "category": "金溪县",
+        "father": "1208"
+    },
+    {
+        "id": "1229",
+        "category": "宜黄县",
+        "father": "1208"
+    },
+    {
+        "id": "1230",
+        "category": "乐安县",
+        "father": "1208"
+    },
+    {
+        "id": "1231",
+        "category": "崇仁县",
+        "father": "1208"
+    },
+    {
+        "id": "1232",
+        "category": "南丰县",
+        "father": "1208"
+    },
+    {
+        "id": "1233",
+        "category": "黎川县",
+        "father": "1208"
+    },
+    {
+        "id": "1234",
+        "category": "南城县",
+        "father": "1208"
+    },
+    {
+        "id": "1235",
+        "category": "高安市",
+        "father": "1207"
+    },
+    {
+        "id": "1236",
+        "category": "樟树市",
+        "father": "1207"
+    },
+    {
+        "id": "1237",
+        "category": "丰城市",
+        "father": "1207"
+    },
+    {
+        "id": "1238",
+        "category": "铜鼓县",
+        "father": "1207"
+    },
+    {
+        "id": "1239",
+        "category": "靖安县",
+        "father": "1207"
+    },
+    {
+        "id": "1240",
+        "category": "宜丰县",
+        "father": "1207"
+    },
+    {
+        "id": "1241",
+        "category": "上高县",
+        "father": "1207"
+    },
+    {
+        "id": "1242",
+        "category": "万载县",
+        "father": "1207"
+    },
+    {
+        "id": "1243",
+        "category": "奉新县",
+        "father": "1207"
+    },
+    {
+        "id": "1244",
+        "category": "井冈山市",
+        "father": "1206"
+    },
+    {
+        "id": "1245",
+        "category": "永新县",
+        "father": "1206"
+    },
+    {
+        "id": "1246",
+        "category": "安福县",
+        "father": "1206"
+    },
+    {
+        "id": "1247",
+        "category": "万安县",
+        "father": "1206"
+    },
+    {
+        "id": "1248",
+        "category": "遂川县",
+        "father": "1206"
+    },
+    {
+        "id": "1249",
+        "category": "泰和县",
+        "father": "1206"
+    },
+    {
+        "id": "1250",
+        "category": "永丰县",
+        "father": "1206"
+    },
+    {
+        "id": "1251",
+        "category": "新干县",
+        "father": "1206"
+    },
+    {
+        "id": "1252",
+        "category": "峡江县",
+        "father": "1206"
+    },
+    {
+        "id": "1253",
+        "category": "吉水县",
+        "father": "1206"
+    },
+    {
+        "id": "1254",
+        "category": "吉安县",
+        "father": "1206"
+    },
+    {
+        "id": "1255",
+        "category": "石城县",
+        "father": "1205"
+    },
+    {
+        "id": "1256",
+        "category": "瑞金市",
+        "father": "1205"
+    },
+    {
+        "id": "1257",
+        "category": "寻乌县",
+        "father": "1205"
+    },
+    {
+        "id": "1258",
+        "category": "会昌县",
+        "father": "1205"
+    },
+    {
+        "id": "1259",
+        "category": "兴国县",
+        "father": "1205"
+    },
+    {
+        "id": "1260",
+        "category": "于都县",
+        "father": "1205"
+    },
+    {
+        "id": "1261",
+        "category": "宁都县",
+        "father": "1205"
+    },
+    {
+        "id": "1262",
+        "category": "全南县",
+        "father": "1205"
+    },
+    {
+        "id": "1263",
+        "category": "定南县",
+        "father": "1205"
+    },
+    {
+        "id": "1264",
+        "category": "龙南县",
+        "father": "1205"
+    },
+    {
+        "id": "1265",
+        "category": "安远县",
+        "father": "1205"
+    },
+    {
+        "id": "1266",
+        "category": "崇义县",
+        "father": "1205"
+    },
+    {
+        "id": "1267",
+        "category": "上犹县",
+        "father": "1205"
+    },
+    {
+        "id": "1268",
+        "category": "大余县",
+        "father": "1205"
+    },
+    {
+        "id": "1269",
+        "category": "信丰县",
+        "father": "1205"
+    },
+    {
+        "id": "1270",
+        "category": "赣县",
+        "father": "1205"
+    },
+    {
+        "id": "1271",
+        "category": "贵溪市",
+        "father": "1204"
+    },
+    {
+        "id": "1272",
+        "category": "余江县",
+        "father": "1204"
+    },
+    {
+        "id": "1273",
+        "category": "分宜县",
+        "father": "1203"
+    },
+    {
+        "id": "1274",
+        "category": "共青城市",
+        "father": "1202"
+    },
+    {
+        "id": "1275",
+        "category": "瑞昌市",
+        "father": "1202"
+    },
+    {
+        "id": "1276",
+        "category": "彭泽县",
+        "father": "1202"
+    },
+    {
+        "id": "1277",
+        "category": "湖口县",
+        "father": "1202"
+    },
+    {
+        "id": "1278",
+        "category": "都昌县",
+        "father": "1202"
+    },
+    {
+        "id": "1279",
+        "category": "星子县",
+        "father": "1202"
+    },
+    {
+        "id": "1280",
+        "category": "德安县",
+        "father": "1202"
+    },
+    {
+        "id": "1281",
+        "category": "永修县",
+        "father": "1202"
+    },
+    {
+        "id": "1282",
+        "category": "修水县",
+        "father": "1202"
+    },
+    {
+        "id": "1283",
+        "category": "武宁县",
+        "father": "1202"
+    },
+    {
+        "id": "1284",
+        "category": "芦溪县",
+        "father": "1201"
+    },
+    {
+        "id": "1285",
+        "category": "上栗县",
+        "father": "1201"
+    },
+    {
+        "id": "1286",
+        "category": "莲花县",
+        "father": "1201"
+    },
+    {
+        "id": "1287",
+        "category": "进贤县",
+        "father": "1200"
+    },
+    {
+        "id": "1288",
+        "category": "安义县",
+        "father": "1200"
+    },
+    {
+        "id": "1289",
+        "category": "新建县",
+        "father": "1200"
+    },
+    {
+        "id": "1290",
+        "category": "南昌县",
+        "father": "1200"
+    },
+    {
+        "id": "1291",
+        "category": "武汉市",
+        "father": "26"
+    },
+    {
+        "id": "1292",
+        "category": "黄石市",
+        "father": "26"
+    },
+    {
+        "id": "1293",
+        "category": "十堰市",
+        "father": "26"
+    },
+    {
+        "id": "1294",
+        "category": "宜昌市",
+        "father": "26"
+    },
+    {
+        "id": "1295",
+        "category": "襄阳市",
+        "father": "26"
+    },
+    {
+        "id": "1296",
+        "category": "荆州市",
+        "father": "26"
+    },
+    {
+        "id": "1297",
+        "category": "荆门市",
+        "father": "26"
+    },
+    {
+        "id": "1298",
+        "category": "鄂州市",
+        "father": "26"
+    },
+    {
+        "id": "1299",
+        "category": "孝感市",
+        "father": "26"
+    },
+    {
+        "id": "1300",
+        "category": "黄冈市",
+        "father": "26"
+    },
+    {
+        "id": "1301",
+        "category": "咸宁市",
+        "father": "26"
+    },
+    {
+        "id": "1302",
+        "category": "随州市",
+        "father": "26"
+    },
+    {
+        "id": "1303",
+        "category": "恩施土家族苗族自治州",
+        "father": "26"
+    },
+    {
+        "id": "1304",
+        "category": "仙桃市",
+        "father": "26"
+    },
+    {
+        "id": "1305",
+        "category": "潜江市",
+        "father": "26"
+    },
+    {
+        "id": "1306",
+        "category": "天门市",
+        "father": "26"
+    },
+    {
+        "id": "1307",
+        "category": "神农架林区",
+        "father": "26"
+    },
+    {
+        "id": "1308",
+        "category": "恩施市",
+        "father": "1303"
+    },
+    {
+        "id": "1309",
+        "category": "利川市",
+        "father": "1303"
+    },
+    {
+        "id": "1310",
+        "category": "建始县",
+        "father": "1303"
+    },
+    {
+        "id": "1311",
+        "category": "巴东县",
+        "father": "1303"
+    },
+    {
+        "id": "1312",
+        "category": "宣恩县",
+        "father": "1303"
+    },
+    {
+        "id": "1313",
+        "category": "咸丰县",
+        "father": "1303"
+    },
+    {
+        "id": "1314",
+        "category": "来凤县",
+        "father": "1303"
+    },
+    {
+        "id": "1315",
+        "category": "鹤峰县",
+        "father": "1303"
+    },
+    {
+        "id": "1316",
+        "category": "广水市",
+        "father": "1302"
+    },
+    {
+        "id": "1317",
+        "category": "随县",
+        "father": "1302"
+    },
+    {
+        "id": "1318",
+        "category": "赤壁市",
+        "father": "1301"
+    },
+    {
+        "id": "1319",
+        "category": "通山县",
+        "father": "1301"
+    },
+    {
+        "id": "1320",
+        "category": "崇阳县",
+        "father": "1301"
+    },
+    {
+        "id": "1321",
+        "category": "通城县",
+        "father": "1301"
+    },
+    {
+        "id": "1322",
+        "category": "嘉鱼县",
+        "father": "1301"
+    },
+    {
+        "id": "1323",
+        "category": "武穴市",
+        "father": "1300"
+    },
+    {
+        "id": "1324",
+        "category": "麻城市",
+        "father": "1300"
+    },
+    {
+        "id": "1325",
+        "category": "黄梅县",
+        "father": "1300"
+    },
+    {
+        "id": "1326",
+        "category": "蕲春县",
+        "father": "1300"
+    },
+    {
+        "id": "1327",
+        "category": "浠水县",
+        "father": "1300"
+    },
+    {
+        "id": "1328",
+        "category": "英山县",
+        "father": "1300"
+    },
+    {
+        "id": "1329",
+        "category": "罗田县",
+        "father": "1300"
+    },
+    {
+        "id": "1330",
+        "category": "红安县",
+        "father": "1300"
+    },
+    {
+        "id": "1331",
+        "category": "团风县",
+        "father": "1300"
+    },
+    {
+        "id": "1332",
+        "category": "汉川市",
+        "father": "1299"
+    },
+    {
+        "id": "1333",
+        "category": "安陆市",
+        "father": "1299"
+    },
+    {
+        "id": "1334",
+        "category": "应城市",
+        "father": "1299"
+    },
+    {
+        "id": "1335",
+        "category": "大悟县",
+        "father": "1299"
+    },
+    {
+        "id": "1336",
+        "category": "孝昌县",
+        "father": "1299"
+    },
+    {
+        "id": "1337",
+        "category": "云梦县",
+        "father": "1299"
+    },
+    {
+        "id": "1338",
+        "category": "钟祥市",
+        "father": "1297"
+    },
+    {
+        "id": "1339",
+        "category": "沙洋县",
+        "father": "1297"
+    },
+    {
+        "id": "1340",
+        "category": "京山县",
+        "father": "1297"
+    },
+    {
+        "id": "1341",
+        "category": "松滋市",
+        "father": "1296"
+    },
+    {
+        "id": "1342",
+        "category": "洪湖市",
+        "father": "1296"
+    },
+    {
+        "id": "1343",
+        "category": "石首市",
+        "father": "1296"
+    },
+    {
+        "id": "1344",
+        "category": "江陵县",
+        "father": "1296"
+    },
+    {
+        "id": "1345",
+        "category": "监利县",
+        "father": "1296"
+    },
+    {
+        "id": "1346",
+        "category": "公安县",
+        "father": "1296"
+    },
+    {
+        "id": "1347",
+        "category": "老河口市",
+        "father": "1295"
+    },
+    {
+        "id": "1348",
+        "category": "枣阳市",
+        "father": "1295"
+    },
+    {
+        "id": "1349",
+        "category": "宜城市",
+        "father": "1295"
+    },
+    {
+        "id": "1350",
+        "category": "保康县",
+        "father": "1295"
+    },
+    {
+        "id": "1351",
+        "category": "谷城县",
+        "father": "1295"
+    },
+    {
+        "id": "1352",
+        "category": "南漳县",
+        "father": "1295"
+    },
+    {
+        "id": "1353",
+        "category": "枝江市",
+        "father": "1294"
+    },
+    {
+        "id": "1354",
+        "category": "当阳市",
+        "father": "1294"
+    },
+    {
+        "id": "1355",
+        "category": "宜都市",
+        "father": "1294"
+    },
+    {
+        "id": "1356",
+        "category": "秭归县",
+        "father": "1294"
+    },
+    {
+        "id": "1357",
+        "category": "兴山县",
+        "father": "1294"
+    },
+    {
+        "id": "1358",
+        "category": "远安县",
+        "father": "1294"
+    },
+    {
+        "id": "1359",
+        "category": "五峰土家族自治县",
+        "father": "1294"
+    },
+    {
+        "id": "1360",
+        "category": "长阳土家族自治县",
+        "father": "1294"
+    },
+    {
+        "id": "1361",
+        "category": "丹江口市",
+        "father": "1293"
+    },
+    {
+        "id": "1362",
+        "category": "竹溪县",
+        "father": "1293"
+    },
+    {
+        "id": "1363",
+        "category": "竹山县",
+        "father": "1293"
+    },
+    {
+        "id": "1364",
+        "category": "郧西县",
+        "father": "1293"
+    },
+    {
+        "id": "1365",
+        "category": "郧县",
+        "father": "1293"
+    },
+    {
+        "id": "1366",
+        "category": "房县",
+        "father": "1293"
+    },
+    {
+        "id": "1367",
+        "category": "大冶市",
+        "father": "1292"
+    },
+    {
+        "id": "1368",
+        "category": "阳新县",
+        "father": "1292"
+    },
+    {
+        "id": "1369",
+        "category": "长沙市",
+        "father": "25"
+    },
+    {
+        "id": "1370",
+        "category": "株洲市",
+        "father": "25"
+    },
+    {
+        "id": "1371",
+        "category": "湘潭市",
+        "father": "25"
+    },
+    {
+        "id": "1372",
+        "category": "衡阳市",
+        "father": "25"
+    },
+    {
+        "id": "1373",
+        "category": "邵阳市",
+        "father": "25"
+    },
+    {
+        "id": "1374",
+        "category": "岳阳市",
+        "father": "25"
+    },
+    {
+        "id": "1375",
+        "category": "常德市",
+        "father": "25"
+    },
+    {
+        "id": "1376",
+        "category": "益阳市",
+        "father": "25"
+    },
+    {
+        "id": "1377",
+        "category": "郴州市",
+        "father": "25"
+    },
+    {
+        "id": "1378",
+        "category": "永州市",
+        "father": "25"
+    },
+    {
+        "id": "1379",
+        "category": "怀化市",
+        "father": "25"
+    },
+    {
+        "id": "1380",
+        "category": "娄底市",
+        "father": "25"
+    },
+    {
+        "id": "1381",
+        "category": "张家界市",
+        "father": "25"
+    },
+    {
+        "id": "1382",
+        "category": "湘西土家族苗族自治州",
+        "father": "25"
+    },
+    {
+        "id": "1383",
+        "category": "吉首市",
+        "father": "1382"
+    },
+    {
+        "id": "1384",
+        "category": "泸溪县",
+        "father": "1382"
+    },
+    {
+        "id": "1385",
+        "category": "凤凰县",
+        "father": "1382"
+    },
+    {
+        "id": "1386",
+        "category": "花垣县",
+        "father": "1382"
+    },
+    {
+        "id": "1387",
+        "category": "保靖县",
+        "father": "1382"
+    },
+    {
+        "id": "1388",
+        "category": "古丈县",
+        "father": "1382"
+    },
+    {
+        "id": "1389",
+        "category": "永顺县",
+        "father": "1382"
+    },
+    {
+        "id": "1390",
+        "category": "龙山县",
+        "father": "1382"
+    },
+    {
+        "id": "1391",
+        "category": "冷水江市",
+        "father": "1380"
+    },
+    {
+        "id": "1392",
+        "category": "涟源市",
+        "father": "1380"
+    },
+    {
+        "id": "1393",
+        "category": "新化县",
+        "father": "1380"
+    },
+    {
+        "id": "1394",
+        "category": "双峰县",
+        "father": "1380"
+    },
+    {
+        "id": "1395",
+        "category": "洪江市",
+        "father": "1379"
+    },
+    {
+        "id": "1396",
+        "category": "会同县",
+        "father": "1379"
+    },
+    {
+        "id": "1397",
+        "category": "溆浦县",
+        "father": "1379"
+    },
+    {
+        "id": "1398",
+        "category": "辰溪县",
+        "father": "1379"
+    },
+    {
+        "id": "1399",
+        "category": "沅陵县",
+        "father": "1379"
+    },
+    {
+        "id": "1400",
+        "category": "中方县",
+        "father": "1379"
+    },
+    {
+        "id": "1401",
+        "category": "麻阳苗族自治县",
+        "father": "1379"
+    },
+    {
+        "id": "1402",
+        "category": "新晃侗族自治县",
+        "father": "1379"
+    },
+    {
+        "id": "1403",
+        "category": "芷江侗族自治县",
+        "father": "1379"
+    },
+    {
+        "id": "1404",
+        "category": "通道侗族自治县",
+        "father": "1379"
+    },
+    {
+        "id": "1405",
+        "category": "靖州苗族侗族自治县",
+        "father": "1379"
+    },
+    {
+        "id": "1406",
+        "category": "道县",
+        "father": "1378"
+    },
+    {
+        "id": "1407",
+        "category": "东安县",
+        "father": "1378"
+    },
+    {
+        "id": "1408",
+        "category": "双牌县",
+        "father": "1378"
+    },
+    {
+        "id": "1409",
+        "category": "祁阳县",
+        "father": "1378"
+    },
+    {
+        "id": "1410",
+        "category": "江永县",
+        "father": "1378"
+    },
+    {
+        "id": "1411",
+        "category": "宁远县",
+        "father": "1378"
+    },
+    {
+        "id": "1412",
+        "category": "蓝山县",
+        "father": "1378"
+    },
+    {
+        "id": "1413",
+        "category": "新田县",
+        "father": "1378"
+    },
+    {
+        "id": "1414",
+        "category": "江华瑶族自治县",
+        "father": "1378"
+    },
+    {
+        "id": "1415",
+        "category": "资兴市",
+        "father": "1377"
+    },
+    {
+        "id": "1416",
+        "category": "安仁县",
+        "father": "1377"
+    },
+    {
+        "id": "1417",
+        "category": "桂东县",
+        "father": "1377"
+    },
+    {
+        "id": "1418",
+        "category": "汝城县",
+        "father": "1377"
+    },
+    {
+        "id": "1419",
+        "category": "临武县",
+        "father": "1377"
+    },
+    {
+        "id": "1420",
+        "category": "嘉禾县",
+        "father": "1377"
+    },
+    {
+        "id": "1421",
+        "category": "永兴县",
+        "father": "1377"
+    },
+    {
+        "id": "1422",
+        "category": "宜章县",
+        "father": "1377"
+    },
+    {
+        "id": "1423",
+        "category": "桂阳县",
+        "father": "1377"
+    },
+    {
+        "id": "1424",
+        "category": "沅江市",
+        "father": "1376"
+    },
+    {
+        "id": "1425",
+        "category": "安化县",
+        "father": "1376"
+    },
+    {
+        "id": "1426",
+        "category": "桃江县",
+        "father": "1376"
+    },
+    {
+        "id": "1427",
+        "category": "南县",
+        "father": "1376"
+    },
+    {
+        "id": "1428",
+        "category": "桑植县",
+        "father": "1381"
+    },
+    {
+        "id": "1429",
+        "category": "慈利县",
+        "father": "1381"
+    },
+    {
+        "id": "1430",
+        "category": "津市市",
+        "father": "1375"
+    },
+    {
+        "id": "1431",
+        "category": "石门县",
+        "father": "1375"
+    },
+    {
+        "id": "1432",
+        "category": "桃源县",
+        "father": "1375"
+    },
+    {
+        "id": "1433",
+        "category": "临澧县",
+        "father": "1375"
+    },
+    {
+        "id": "1434",
+        "category": "汉寿县",
+        "father": "1375"
+    },
+    {
+        "id": "1435",
+        "category": "安乡县",
+        "father": "1375"
+    },
+    {
+        "id": "1436",
+        "category": "澧县",
+        "father": "1375"
+    },
+    {
+        "id": "1437",
+        "category": "临湘市",
+        "father": "1374"
+    },
+    {
+        "id": "1438",
+        "category": "汨罗市",
+        "father": "1374"
+    },
+    {
+        "id": "1439",
+        "category": "平江县",
+        "father": "1374"
+    },
+    {
+        "id": "1440",
+        "category": "湘阴县",
+        "father": "1374"
+    },
+    {
+        "id": "1441",
+        "category": "华容县",
+        "father": "1374"
+    },
+    {
+        "id": "1442",
+        "category": "岳阳县",
+        "father": "1374"
+    },
+    {
+        "id": "1443",
+        "category": "武冈市",
+        "father": "1373"
+    },
+    {
+        "id": "1444",
+        "category": "新宁县",
+        "father": "1373"
+    },
+    {
+        "id": "1445",
+        "category": "绥宁县",
+        "father": "1373"
+    },
+    {
+        "id": "1446",
+        "category": "洞口县",
+        "father": "1373"
+    },
+    {
+        "id": "1447",
+        "category": "隆回县",
+        "father": "1373"
+    },
+    {
+        "id": "1448",
+        "category": "邵阳县",
+        "father": "1373"
+    },
+    {
+        "id": "1449",
+        "category": "新邵县",
+        "father": "1373"
+    },
+    {
+        "id": "1450",
+        "category": "邵东县",
+        "father": "1373"
+    },
+    {
+        "id": "1451",
+        "category": "城步苗族自治县",
+        "father": "1373"
+    },
+    {
+        "id": "1452",
+        "category": "常宁市",
+        "father": "1372"
+    },
+    {
+        "id": "1453",
+        "category": "耒阳市",
+        "father": "1372"
+    },
+    {
+        "id": "1454",
+        "category": "祁东县",
+        "father": "1372"
+    },
+    {
+        "id": "1455",
+        "category": "衡东县",
+        "father": "1372"
+    },
+    {
+        "id": "1456",
+        "category": "衡山县",
+        "father": "1372"
+    },
+    {
+        "id": "1457",
+        "category": "衡南县",
+        "father": "1372"
+    },
+    {
+        "id": "1458",
+        "category": "衡阳县",
+        "father": "1372"
+    },
+    {
+        "id": "1459",
+        "category": "韶山市",
+        "father": "1371"
+    },
+    {
+        "id": "1460",
+        "category": "湘乡市",
+        "father": "1371"
+    },
+    {
+        "id": "1461",
+        "category": "湘潭县",
+        "father": "1371"
+    },
+    {
+        "id": "1462",
+        "category": "醴陵市",
+        "father": "1370"
+    },
+    {
+        "id": "1463",
+        "category": "炎陵县",
+        "father": "1370"
+    },
+    {
+        "id": "1464",
+        "category": "茶陵县",
+        "father": "1370"
+    },
+    {
+        "id": "1465",
+        "category": "株洲县",
+        "father": "1370"
+    },
+    {
+        "id": "1466",
+        "category": "攸县",
+        "father": "1370"
+    },
+    {
+        "id": "1467",
+        "category": "浏阳市",
+        "father": "1369"
+    },
+    {
+        "id": "1468",
+        "category": "宁乡县",
+        "father": "1369"
+    },
+    {
+        "id": "1469",
+        "category": "长沙县",
+        "father": "1369"
+    },
+    {
+        "id": "1470",
+        "category": "杭州市",
+        "father": "24"
+    },
+    {
+        "id": "1471",
+        "category": "宁波市",
+        "father": "24"
+    },
+    {
+        "id": "1472",
+        "category": "温州市",
+        "father": "24"
+    },
+    {
+        "id": "1473",
+        "category": "嘉兴市",
+        "father": "24"
+    },
+    {
+        "id": "1474",
+        "category": "湖州市",
+        "father": "24"
+    },
+    {
+        "id": "1475",
+        "category": "绍兴市",
+        "father": "24"
+    },
+    {
+        "id": "1476",
+        "category": "金华市",
+        "father": "24"
+    },
+    {
+        "id": "1477",
+        "category": "衢州市",
+        "father": "24"
+    },
+    {
+        "id": "1478",
+        "category": "舟山市",
+        "father": "24"
+    },
+    {
+        "id": "1479",
+        "category": "台州市",
+        "father": "24"
+    },
+    {
+        "id": "1480",
+        "category": "丽水市",
+        "father": "24"
+    },
+    {
+        "id": "1481",
+        "category": "龙泉市",
+        "father": "1480"
+    },
+    {
+        "id": "1482",
+        "category": "庆元县",
+        "father": "1480"
+    },
+    {
+        "id": "1483",
+        "category": "云和县",
+        "father": "1480"
+    },
+    {
+        "id": "1484",
+        "category": "松阳县",
+        "father": "1480"
+    },
+    {
+        "id": "1485",
+        "category": "遂昌县",
+        "father": "1480"
+    },
+    {
+        "id": "1486",
+        "category": "缙云县",
+        "father": "1480"
+    },
+    {
+        "id": "1487",
+        "category": "青田县",
+        "father": "1480"
+    },
+    {
+        "id": "1488",
+        "category": "景宁畲族自治县",
+        "father": "1480"
+    },
+    {
+        "id": "1489",
+        "category": "临海市",
+        "father": "1479"
+    },
+    {
+        "id": "1490",
+        "category": "温岭市",
+        "father": "1479"
+    },
+    {
+        "id": "1491",
+        "category": "仙居县",
+        "father": "1479"
+    },
+    {
+        "id": "1492",
+        "category": "天台县",
+        "father": "1479"
+    },
+    {
+        "id": "1493",
+        "category": "三门县",
+        "father": "1479"
+    },
+    {
+        "id": "1494",
+        "category": "玉环县",
+        "father": "1479"
+    },
+    {
+        "id": "1495",
+        "category": "嵊泗县",
+        "father": "1478"
+    },
+    {
+        "id": "1496",
+        "category": "岱山县",
+        "father": "1478"
+    },
+    {
+        "id": "1497",
+        "category": "江山市",
+        "father": "1477"
+    },
+    {
+        "id": "1498",
+        "category": "龙游县",
+        "father": "1477"
+    },
+    {
+        "id": "1499",
+        "category": "开化县",
+        "father": "1477"
+    },
+    {
+        "id": "1500",
+        "category": "常山县",
+        "father": "1477"
+    },
+    {
+        "id": "1501",
+        "category": "永康市",
+        "father": "1476"
+    },
+    {
+        "id": "1502",
+        "category": "东阳市",
+        "father": "1476"
+    },
+    {
+        "id": "1503",
+        "category": "义乌市",
+        "father": "1476"
+    },
+    {
+        "id": "1504",
+        "category": "兰溪市",
+        "father": "1476"
+    },
+    {
+        "id": "1505",
+        "category": "磐安县",
+        "father": "1476"
+    },
+    {
+        "id": "1506",
+        "category": "浦江县",
+        "father": "1476"
+    },
+    {
+        "id": "1507",
+        "category": "武义县",
+        "father": "1476"
+    },
+    {
+        "id": "1508",
+        "category": "诸暨市",
+        "father": "1475"
+    },
+    {
+        "id": "1509",
+        "category": "嵊州市",
+        "father": "1475"
+    },
+    {
+        "id": "1510",
+        "category": "新昌县",
+        "father": "1475"
+    },
+    {
+        "id": "1511",
+        "category": "德清县",
+        "father": "1474"
+    },
+    {
+        "id": "1512",
+        "category": "长兴县",
+        "father": "1474"
+    },
+    {
+        "id": "1513",
+        "category": "安吉县",
+        "father": "1474"
+    },
+    {
+        "id": "1514",
+        "category": "桐乡市",
+        "father": "1473"
+    },
+    {
+        "id": "1515",
+        "category": "平湖市",
+        "father": "1473"
+    },
+    {
+        "id": "1516",
+        "category": "海宁市",
+        "father": "1473"
+    },
+    {
+        "id": "1517",
+        "category": "海盐县",
+        "father": "1473"
+    },
+    {
+        "id": "1518",
+        "category": "嘉善县",
+        "father": "1473"
+    },
+    {
+        "id": "1519",
+        "category": "乐清市",
+        "father": "1472"
+    },
+    {
+        "id": "1520",
+        "category": "瑞安市",
+        "father": "1472"
+    },
+    {
+        "id": "1521",
+        "category": "泰顺县",
+        "father": "1472"
+    },
+    {
+        "id": "1522",
+        "category": "文成县",
+        "father": "1472"
+    },
+    {
+        "id": "1523",
+        "category": "苍南县",
+        "father": "1472"
+    },
+    {
+        "id": "1524",
+        "category": "平阳县",
+        "father": "1472"
+    },
+    {
+        "id": "1525",
+        "category": "永嘉县",
+        "father": "1472"
+    },
+    {
+        "id": "1526",
+        "category": "洞头县",
+        "father": "1472"
+    },
+    {
+        "id": "1527",
+        "category": "奉化市",
+        "father": "1471"
+    },
+    {
+        "id": "1528",
+        "category": "慈溪市",
+        "father": "1471"
+    },
+    {
+        "id": "1529",
+        "category": "余姚市",
+        "father": "1471"
+    },
+    {
+        "id": "1530",
+        "category": "宁海县",
+        "father": "1471"
+    },
+    {
+        "id": "1531",
+        "category": "象山县",
+        "father": "1471"
+    },
+    {
+        "id": "1532",
+        "category": "临安市",
+        "father": "1470"
+    },
+    {
+        "id": "1533",
+        "category": "富阳市",
+        "father": "1470"
+    },
+    {
+        "id": "1534",
+        "category": "建德市",
+        "father": "1470"
+    },
+    {
+        "id": "1535",
+        "category": "淳安县",
+        "father": "1470"
+    },
+    {
+        "id": "1536",
+        "category": "桐庐县",
+        "father": "1470"
+    },
+    {
+        "id": "1537",
+        "category": "合肥市",
+        "father": "23"
+    },
+    {
+        "id": "1538",
+        "category": "芜湖市",
+        "father": "23"
+    },
+    {
+        "id": "1539",
+        "category": "蚌埠市",
+        "father": "23"
+    },
+    {
+        "id": "1540",
+        "category": "淮南市",
+        "father": "23"
+    },
+    {
+        "id": "1541",
+        "category": "淮北市",
+        "father": "23"
+    },
+    {
+        "id": "1542",
+        "category": "铜陵市",
+        "father": "23"
+    },
+    {
+        "id": "1543",
+        "category": "安庆市",
+        "father": "23"
+    },
+    {
+        "id": "1544",
+        "category": "黄山市",
+        "father": "23"
+    },
+    {
+        "id": "1545",
+        "category": "滁州市",
+        "father": "23"
+    },
+    {
+        "id": "1546",
+        "category": "阜阳市",
+        "father": "23"
+    },
+    {
+        "id": "1547",
+        "category": "宿州市",
+        "father": "23"
+    },
+    {
+        "id": "1549",
+        "category": "六安市",
+        "father": "23"
+    },
+    {
+        "id": "1550",
+        "category": "亳州市",
+        "father": "23"
+    },
+    {
+        "id": "1551",
+        "category": "池州市",
+        "father": "23"
+    },
+    {
+        "id": "1552",
+        "category": "宣城市",
+        "father": "23"
+    },
+    {
+        "id": "1553",
+        "category": "马鞍山市",
+        "father": "23"
+    },
+    {
+        "id": "1554",
+        "category": "和县",
+        "father": "1553"
+    },
+    {
+        "id": "1555",
+        "category": "含山县",
+        "father": "1553"
+    },
+    {
+        "id": "1556",
+        "category": "当涂县",
+        "father": "1553"
+    },
+    {
+        "id": "1557",
+        "category": "宁国市",
+        "father": "1552"
+    },
+    {
+        "id": "1558",
+        "category": "旌德县",
+        "father": "1552"
+    },
+    {
+        "id": "1559",
+        "category": "绩溪县",
+        "father": "1552"
+    },
+    {
+        "id": "1560",
+        "category": "广德县",
+        "father": "1552"
+    },
+    {
+        "id": "1561",
+        "category": "郎溪县",
+        "father": "1552"
+    },
+    {
+        "id": "1562",
+        "category": "泾县",
+        "father": "1552"
+    },
+    {
+        "id": "1563",
+        "category": "东至县",
+        "father": "1551"
+    },
+    {
+        "id": "1564",
+        "category": "石台县",
+        "father": "1551"
+    },
+    {
+        "id": "1565",
+        "category": "青阳县",
+        "father": "1551"
+    },
+    {
+        "id": "1566",
+        "category": "涡阳县",
+        "father": "1550"
+    },
+    {
+        "id": "1567",
+        "category": "蒙城县",
+        "father": "1550"
+    },
+    {
+        "id": "1568",
+        "category": "利辛县",
+        "father": "1550"
+    },
+    {
+        "id": "1569",
+        "category": "寿县",
+        "father": "1549"
+    },
+    {
+        "id": "1570",
+        "category": "霍邱县",
+        "father": "1549"
+    },
+    {
+        "id": "1571",
+        "category": "舒城县",
+        "father": "1549"
+    },
+    {
+        "id": "1572",
+        "category": "金寨县",
+        "father": "1549"
+    },
+    {
+        "id": "1573",
+        "category": "霍山县",
+        "father": "1549"
+    },
+    {
+        "id": "1574",
+        "category": "泗县",
+        "father": "1547"
+    },
+    {
+        "id": "1575",
+        "category": "萧县",
+        "father": "1547"
+    },
+    {
+        "id": "1576",
+        "category": "灵璧县",
+        "father": "1547"
+    },
+    {
+        "id": "1577",
+        "category": "砀山县",
+        "father": "1547"
+    },
+    {
+        "id": "1578",
+        "category": "界首市",
+        "father": "1546"
+    },
+    {
+        "id": "1579",
+        "category": "临泉县",
+        "father": "1546"
+    },
+    {
+        "id": "1580",
+        "category": "太和县",
+        "father": "1546"
+    },
+    {
+        "id": "1581",
+        "category": "阜南县",
+        "father": "1546"
+    },
+    {
+        "id": "1582",
+        "category": "颍上县",
+        "father": "1546"
+    },
+    {
+        "id": "1583",
+        "category": "天长市",
+        "father": "1545"
+    },
+    {
+        "id": "1584",
+        "category": "明光市",
+        "father": "1545"
+    },
+    {
+        "id": "1585",
+        "category": "来安县",
+        "father": "1545"
+    },
+    {
+        "id": "1586",
+        "category": "全椒县",
+        "father": "1545"
+    },
+    {
+        "id": "1587",
+        "category": "定远县",
+        "father": "1545"
+    },
+    {
+        "id": "1588",
+        "category": "凤阳县",
+        "father": "1545"
+    },
+    {
+        "id": "1589",
+        "category": "歙县",
+        "father": "1544"
+    },
+    {
+        "id": "1590",
+        "category": "黟县",
+        "father": "1544"
+    },
+    {
+        "id": "1591",
+        "category": "休宁县",
+        "father": "1544"
+    },
+    {
+        "id": "1592",
+        "category": "祁门县",
+        "father": "1544"
+    },
+    {
+        "id": "1593",
+        "category": "桐城市",
+        "father": "1543"
+    },
+    {
+        "id": "1594",
+        "category": "怀宁县",
+        "father": "1543"
+    },
+    {
+        "id": "1595",
+        "category": "枞阳县",
+        "father": "1543"
+    },
+    {
+        "id": "1596",
+        "category": "潜山县",
+        "father": "1543"
+    },
+    {
+        "id": "1597",
+        "category": "太湖县",
+        "father": "1543"
+    },
+    {
+        "id": "1598",
+        "category": "宿松县",
+        "father": "1543"
+    },
+    {
+        "id": "1599",
+        "category": "望江县",
+        "father": "1543"
+    },
+    {
+        "id": "1600",
+        "category": "岳西县",
+        "father": "1543"
+    },
+    {
+        "id": "1601",
+        "category": "铜陵县",
+        "father": "1542"
+    },
+    {
+        "id": "1602",
+        "category": "濉溪县",
+        "father": "1541"
+    },
+    {
+        "id": "1603",
+        "category": "凤台县",
+        "father": "1540"
+    },
+    {
+        "id": "1604",
+        "category": "怀远县",
+        "father": "1539"
+    },
+    {
+        "id": "1605",
+        "category": "五河县",
+        "father": "1539"
+    },
+    {
+        "id": "1606",
+        "category": "固镇县",
+        "father": "1539"
+    },
+    {
+        "id": "1607",
+        "category": "芜湖县",
+        "father": "1538"
+    },
+    {
+        "id": "1608",
+        "category": "繁昌县",
+        "father": "1538"
+    },
+    {
+        "id": "1609",
+        "category": "南陵县",
+        "father": "1538"
+    },
+    {
+        "id": "1610",
+        "category": "无为县",
+        "father": "1538"
+    },
+    {
+        "id": "1611",
+        "category": "巢湖市",
+        "father": "1537"
+    },
+    {
+        "id": "1612",
+        "category": "庐江县",
+        "father": "1537"
+    },
+    {
+        "id": "1613",
+        "category": "肥西县",
+        "father": "1537"
+    },
+    {
+        "id": "1614",
+        "category": "肥东县",
+        "father": "1537"
+    },
+    {
+        "id": "1615",
+        "category": "长丰县",
+        "father": "1537"
+    },
+    {
+        "id": "1616",
+        "category": "崇明县",
+        "father": "22"
+    },
+    {
+        "id": "1617",
+        "category": "南京市",
+        "father": "21"
+    },
+    {
+        "id": "1618",
+        "category": "无锡市",
+        "father": "21"
+    },
+    {
+        "id": "1619",
+        "category": "徐州市",
+        "father": "21"
+    },
+    {
+        "id": "1620",
+        "category": "常州市",
+        "father": "21"
+    },
+    {
+        "id": "1621",
+        "category": "苏州市",
+        "father": "21"
+    },
+    {
+        "id": "1622",
+        "category": "南通市",
+        "father": "21"
+    },
+    {
+        "id": "1623",
+        "category": "淮安市",
+        "father": "21"
+    },
+    {
+        "id": "1624",
+        "category": "盐城市",
+        "father": "21"
+    },
+    {
+        "id": "1625",
+        "category": "扬州市",
+        "father": "21"
+    },
+    {
+        "id": "1626",
+        "category": "镇江市",
+        "father": "21"
+    },
+    {
+        "id": "1627",
+        "category": "泰州市",
+        "father": "21"
+    },
+    {
+        "id": "1628",
+        "category": "宿迁市",
+        "father": "21"
+    },
+    {
+        "id": "1629",
+        "category": "连云港市",
+        "father": "21"
+    },
+    {
+        "id": "1630",
+        "category": "东海县",
+        "father": "1629"
+    },
+    {
+        "id": "1631",
+        "category": "灌云县",
+        "father": "1629"
+    },
+    {
+        "id": "1632",
+        "category": "灌南县",
+        "father": "1629"
+    },
+    {
+        "id": "1633",
+        "category": "沭阳县",
+        "father": "1628"
+    },
+    {
+        "id": "1634",
+        "category": "泗阳县",
+        "father": "1628"
+    },
+    {
+        "id": "1635",
+        "category": "泗洪县",
+        "father": "1628"
+    },
+    {
+        "id": "1636",
+        "category": "兴化市",
+        "father": "1627"
+    },
+    {
+        "id": "1637",
+        "category": "靖江市",
+        "father": "1627"
+    },
+    {
+        "id": "1638",
+        "category": "泰兴市",
+        "father": "1627"
+    },
+    {
+        "id": "1639",
+        "category": "丹阳市",
+        "father": "1626"
+    },
+    {
+        "id": "1640",
+        "category": "扬中市",
+        "father": "1626"
+    },
+    {
+        "id": "1641",
+        "category": "句容市",
+        "father": "1626"
+    },
+    {
+        "id": "1642",
+        "category": "仪征市",
+        "father": "1625"
+    },
+    {
+        "id": "1643",
+        "category": "高邮市",
+        "father": "1625"
+    },
+    {
+        "id": "1644",
+        "category": "宝应县",
+        "father": "1625"
+    },
+    {
+        "id": "1645",
+        "category": "大丰市",
+        "father": "1624"
+    },
+    {
+        "id": "1646",
+        "category": "东台市",
+        "father": "1624"
+    },
+    {
+        "id": "1647",
+        "category": "建湖县",
+        "father": "1624"
+    },
+    {
+        "id": "1648",
+        "category": "射阳县",
+        "father": "1624"
+    },
+    {
+        "id": "1649",
+        "category": "阜宁县",
+        "father": "1624"
+    },
+    {
+        "id": "1650",
+        "category": "滨海县",
+        "father": "1624"
+    },
+    {
+        "id": "1651",
+        "category": "响水县",
+        "father": "1624"
+    },
+    {
+        "id": "1652",
+        "category": "涟水县",
+        "father": "1623"
+    },
+    {
+        "id": "1653",
+        "category": "洪泽县",
+        "father": "1623"
+    },
+    {
+        "id": "1654",
+        "category": "盱眙县",
+        "father": "1623"
+    },
+    {
+        "id": "1655",
+        "category": "金湖县",
+        "father": "1623"
+    },
+    {
+        "id": "1656",
+        "category": "海门市",
+        "father": "1622"
+    },
+    {
+        "id": "1657",
+        "category": "如皋市",
+        "father": "1622"
+    },
+    {
+        "id": "1658",
+        "category": "启东市",
+        "father": "1622"
+    },
+    {
+        "id": "1659",
+        "category": "如东县",
+        "father": "1622"
+    },
+    {
+        "id": "1660",
+        "category": "海安县",
+        "father": "1622"
+    },
+    {
+        "id": "1661",
+        "category": "常熟市",
+        "father": "1621"
+    },
+    {
+        "id": "1662",
+        "category": "昆山市",
+        "father": "1621"
+    },
+    {
+        "id": "1663",
+        "category": "太仓市",
+        "father": "1621"
+    },
+    {
+        "id": "1664",
+        "category": "张家港市",
+        "father": "1621"
+    },
+    {
+        "id": "1665",
+        "category": "溧阳市",
+        "father": "1620"
+    },
+    {
+        "id": "1666",
+        "category": "金坛市",
+        "father": "1620"
+    },
+    {
+        "id": "1667",
+        "category": "邳州市",
+        "father": "1619"
+    },
+    {
+        "id": "1668",
+        "category": "新沂市",
+        "father": "1619"
+    },
+    {
+        "id": "1669",
+        "category": "睢宁县",
+        "father": "1619"
+    },
+    {
+        "id": "1670",
+        "category": "沛县",
+        "father": "1619"
+    },
+    {
+        "id": "1671",
+        "category": "丰县",
+        "father": "1619"
+    },
+    {
+        "id": "1672",
+        "category": "江阴市",
+        "father": "1618"
+    },
+    {
+        "id": "1673",
+        "category": "宜兴市",
+        "father": "1618"
+    },
+    {
+        "id": "1674",
+        "category": "济南市",
+        "father": "20"
+    },
+    {
+        "id": "1675",
+        "category": "青岛市",
+        "father": "20"
+    },
+    {
+        "id": "1676",
+        "category": "淄博市",
+        "father": "20"
+    },
+    {
+        "id": "1677",
+        "category": "枣庄市",
+        "father": "20"
+    },
+    {
+        "id": "1678",
+        "category": "东营市",
+        "father": "20"
+    },
+    {
+        "id": "1679",
+        "category": "烟台市",
+        "father": "20"
+    },
+    {
+        "id": "1680",
+        "category": "潍坊市",
+        "father": "20"
+    },
+    {
+        "id": "1681",
+        "category": "济宁市",
+        "father": "20"
+    },
+    {
+        "id": "1682",
+        "category": "泰安市",
+        "father": "20"
+    },
+    {
+        "id": "1683",
+        "category": "威海市",
+        "father": "20"
+    },
+    {
+        "id": "1684",
+        "category": "日照市",
+        "father": "20"
+    },
+    {
+        "id": "1685",
+        "category": "莱芜市",
+        "father": "20"
+    },
+    {
+        "id": "1686",
+        "category": "临沂市",
+        "father": "20"
+    },
+    {
+        "id": "1687",
+        "category": "德州市",
+        "father": "20"
+    },
+    {
+        "id": "1688",
+        "category": "聊城市",
+        "father": "20"
+    },
+    {
+        "id": "1689",
+        "category": "滨州市",
+        "father": "20"
+    },
+    {
+        "id": "1690",
+        "category": "菏泽市",
+        "father": "20"
+    },
+    {
+        "id": "1691",
+        "category": "东明县",
+        "father": "1690"
+    },
+    {
+        "id": "1692",
+        "category": "定陶县",
+        "father": "1690"
+    },
+    {
+        "id": "1693",
+        "category": "鄄城县",
+        "father": "1690"
+    },
+    {
+        "id": "1694",
+        "category": "郓城县",
+        "father": "1690"
+    },
+    {
+        "id": "1695",
+        "category": "巨野县",
+        "father": "1690"
+    },
+    {
+        "id": "1696",
+        "category": "成武县",
+        "father": "1690"
+    },
+    {
+        "id": "1697",
+        "category": "单县",
+        "father": "1690"
+    },
+    {
+        "id": "1698",
+        "category": "曹县",
+        "father": "1690"
+    },
+    {
+        "id": "1699",
+        "category": "邹平县",
+        "father": "1689"
+    },
+    {
+        "id": "1700",
+        "category": "博兴县",
+        "father": "1689"
+    },
+    {
+        "id": "1701",
+        "category": "阳信县",
+        "father": "1689"
+    },
+    {
+        "id": "1702",
+        "category": "无棣县",
+        "father": "1689"
+    },
+    {
+        "id": "1703",
+        "category": "惠民县",
+        "father": "1689"
+    },
+    {
+        "id": "1704",
+        "category": "临清市",
+        "father": "1688"
+    },
+    {
+        "id": "1705",
+        "category": "高唐县",
+        "father": "1688"
+    },
+    {
+        "id": "1706",
+        "category": "东阿县",
+        "father": "1688"
+    },
+    {
+        "id": "1707",
+        "category": "茌平县",
+        "father": "1688"
+    },
+    {
+        "id": "1708",
+        "category": "阳谷县",
+        "father": "1688"
+    },
+    {
+        "id": "1709",
+        "category": "冠县",
+        "father": "1688"
+    },
+    {
+        "id": "1710",
+        "category": "莘县",
+        "father": "1688"
+    },
+    {
+        "id": "1711",
+        "category": "禹城市",
+        "father": "1687"
+    },
+    {
+        "id": "1712",
+        "category": "乐陵市",
+        "father": "1687"
+    },
+    {
+        "id": "1713",
+        "category": "武城县",
+        "father": "1687"
+    },
+    {
+        "id": "1714",
+        "category": "夏津县",
+        "father": "1687"
+    },
+    {
+        "id": "1715",
+        "category": "平原县",
+        "father": "1687"
+    },
+    {
+        "id": "1716",
+        "category": "齐河县",
+        "father": "1687"
+    },
+    {
+        "id": "1717",
+        "category": "临邑县",
+        "father": "1687"
+    },
+    {
+        "id": "1718",
+        "category": "庆云县",
+        "father": "1687"
+    },
+    {
+        "id": "1719",
+        "category": "宁津县",
+        "father": "1687"
+    },
+    {
+        "id": "1720",
+        "category": "临沭县",
+        "father": "1686"
+    },
+    {
+        "id": "1721",
+        "category": "蒙阴县",
+        "father": "1686"
+    },
+    {
+        "id": "1722",
+        "category": "莒南县",
+        "father": "1686"
+    },
+    {
+        "id": "1723",
+        "category": "平邑县",
+        "father": "1686"
+    },
+    {
+        "id": "1724",
+        "category": "费县",
+        "father": "1686"
+    },
+    {
+        "id": "1725",
+        "category": "兰陵县",
+        "father": "1686"
+    },
+    {
+        "id": "1726",
+        "category": "沂水县",
+        "father": "1686"
+    },
+    {
+        "id": "1727",
+        "category": "郯城县",
+        "father": "1686"
+    },
+    {
+        "id": "1728",
+        "category": "沂南县",
+        "father": "1686"
+    },
+    {
+        "id": "1729",
+        "category": "莒县",
+        "father": "1684"
+    },
+    {
+        "id": "1730",
+        "category": "五莲县",
+        "father": "1684"
+    },
+    {
+        "id": "1731",
+        "category": "乳山市",
+        "father": "1683"
+    },
+    {
+        "id": "1732",
+        "category": "荣成市",
+        "father": "1683"
+    },
+    {
+        "id": "1733",
+        "category": "肥城市",
+        "father": "1682"
+    },
+    {
+        "id": "1734",
+        "category": "新泰市",
+        "father": "1682"
+    },
+    {
+        "id": "1735",
+        "category": "东平县",
+        "father": "1682"
+    },
+    {
+        "id": "1736",
+        "category": "宁阳县",
+        "father": "1682"
+    },
+    {
+        "id": "1737",
+        "category": "邹城市",
+        "father": "1681"
+    },
+    {
+        "id": "1738",
+        "category": "曲阜市",
+        "father": "1681"
+    },
+    {
+        "id": "1739",
+        "category": "梁山县",
+        "father": "1681"
+    },
+    {
+        "id": "1740",
+        "category": "泗水县",
+        "father": "1681"
+    },
+    {
+        "id": "1741",
+        "category": "汶上县",
+        "father": "1681"
+    },
+    {
+        "id": "1742",
+        "category": "嘉祥县",
+        "father": "1681"
+    },
+    {
+        "id": "1743",
+        "category": "金乡县",
+        "father": "1681"
+    },
+    {
+        "id": "1744",
+        "category": "鱼台县",
+        "father": "1681"
+    },
+    {
+        "id": "1745",
+        "category": "微山县",
+        "father": "1681"
+    },
+    {
+        "id": "1746",
+        "category": "昌邑市",
+        "father": "1680"
+    },
+    {
+        "id": "1747",
+        "category": "高密市",
+        "father": "1680"
+    },
+    {
+        "id": "1748",
+        "category": "安丘市",
+        "father": "1680"
+    },
+    {
+        "id": "1749",
+        "category": "寿光市",
+        "father": "1680"
+    },
+    {
+        "id": "1750",
+        "category": "诸城市",
+        "father": "1680"
+    },
+    {
+        "id": "1751",
+        "category": "青州市",
+        "father": "1680"
+    },
+    {
+        "id": "1752",
+        "category": "昌乐县",
+        "father": "1680"
+    },
+    {
+        "id": "1753",
+        "category": "临朐县",
+        "father": "1680"
+    },
+    {
+        "id": "1754",
+        "category": "海阳市",
+        "father": "1679"
+    },
+    {
+        "id": "1755",
+        "category": "栖霞市",
+        "father": "1679"
+    },
+    {
+        "id": "1756",
+        "category": "招远市",
+        "father": "1679"
+    },
+    {
+        "id": "1757",
+        "category": "蓬莱市",
+        "father": "1679"
+    },
+    {
+        "id": "1758",
+        "category": "莱州市",
+        "father": "1679"
+    },
+    {
+        "id": "1759",
+        "category": "莱阳市",
+        "father": "1679"
+    },
+    {
+        "id": "1760",
+        "category": "龙口市",
+        "father": "1679"
+    },
+    {
+        "id": "1761",
+        "category": "长岛县",
+        "father": "1679"
+    },
+    {
+        "id": "1762",
+        "category": "广饶县",
+        "father": "1678"
+    },
+    {
+        "id": "1763",
+        "category": "利津县",
+        "father": "1678"
+    },
+    {
+        "id": "1764",
+        "category": "垦利县",
+        "father": "1678"
+    },
+    {
+        "id": "1765",
+        "category": "滕州市",
+        "father": "1677"
+    },
+    {
+        "id": "1766",
+        "category": "沂源县",
+        "father": "1676"
+    },
+    {
+        "id": "1767",
+        "category": "高青县",
+        "father": "1676"
+    },
+    {
+        "id": "1768",
+        "category": "桓台县",
+        "father": "1676"
+    },
+    {
+        "id": "1769",
+        "category": "莱西市",
+        "father": "1675"
+    },
+    {
+        "id": "1770",
+        "category": "平度市",
+        "father": "1675"
+    },
+    {
+        "id": "1771",
+        "category": "即墨市",
+        "father": "1675"
+    },
+    {
+        "id": "1772",
+        "category": "胶州市",
+        "father": "1675"
+    },
+    {
+        "id": "1773",
+        "category": "章丘市",
+        "father": "1674"
+    },
+    {
+        "id": "1774",
+        "category": "商河县",
+        "father": "1674"
+    },
+    {
+        "id": "1775",
+        "category": "济阳县",
+        "father": "1674"
+    },
+    {
+        "id": "1776",
+        "category": "平阴县",
+        "father": "1674"
+    },
+    {
+        "id": "1777",
+        "category": "太原市",
+        "father": "19"
+    },
+    {
+        "id": "1778",
+        "category": "大同市",
+        "father": "19"
+    },
+    {
+        "id": "1779",
+        "category": "阳泉市",
+        "father": "19"
+    },
+    {
+        "id": "1780",
+        "category": "长治市",
+        "father": "19"
+    },
+    {
+        "id": "1781",
+        "category": "晋城市",
+        "father": "19"
+    },
+    {
+        "id": "1782",
+        "category": "朔州市",
+        "father": "19"
+    },
+    {
+        "id": "1783",
+        "category": "晋中市",
+        "father": "19"
+    },
+    {
+        "id": "1784",
+        "category": "运城市",
+        "father": "19"
+    },
+    {
+        "id": "1785",
+        "category": "忻州市",
+        "father": "19"
+    },
+    {
+        "id": "1786",
+        "category": "临汾市",
+        "father": "19"
+    },
+    {
+        "id": "1787",
+        "category": "吕梁市",
+        "father": "19"
+    },
+    {
+        "id": "1788",
+        "category": "汾阳市",
+        "father": "1787"
+    },
+    {
+        "id": "1789",
+        "category": "孝义市",
+        "father": "1787"
+    },
+    {
+        "id": "1790",
+        "category": "交口县",
+        "father": "1787"
+    },
+    {
+        "id": "1791",
+        "category": "中阳县",
+        "father": "1787"
+    },
+    {
+        "id": "1792",
+        "category": "方山县",
+        "father": "1787"
+    },
+    {
+        "id": "1793",
+        "category": "石楼县",
+        "father": "1787"
+    },
+    {
+        "id": "1794",
+        "category": "柳林县",
+        "father": "1787"
+    },
+    {
+        "id": "1795",
+        "category": "交城县",
+        "father": "1787"
+    },
+    {
+        "id": "1796",
+        "category": "文水县",
+        "father": "1787"
+    },
+    {
+        "id": "1797",
+        "category": "岚县",
+        "father": "1787"
+    },
+    {
+        "id": "1798",
+        "category": "临县",
+        "father": "1787"
+    },
+    {
+        "id": "1799",
+        "category": "兴县",
+        "father": "1787"
+    },
+    {
+        "id": "1800",
+        "category": "霍州市",
+        "father": "1786"
+    },
+    {
+        "id": "1801",
+        "category": "侯马市",
+        "father": "1786"
+    },
+    {
+        "id": "1802",
+        "category": "汾西县",
+        "father": "1786"
+    },
+    {
+        "id": "1803",
+        "category": "永和县",
+        "father": "1786"
+    },
+    {
+        "id": "1804",
+        "category": "大宁县",
+        "father": "1786"
+    },
+    {
+        "id": "1805",
+        "category": "乡宁县",
+        "father": "1786"
+    },
+    {
+        "id": "1806",
+        "category": "浮山县",
+        "father": "1786"
+    },
+    {
+        "id": "1807",
+        "category": "安泽县",
+        "father": "1786"
+    },
+    {
+        "id": "1808",
+        "category": "洪洞县",
+        "father": "1786"
+    },
+    {
+        "id": "1809",
+        "category": "襄汾县",
+        "father": "1786"
+    },
+    {
+        "id": "1810",
+        "category": "翼城县",
+        "father": "1786"
+    },
+    {
+        "id": "1811",
+        "category": "曲沃县",
+        "father": "1786"
+    },
+    {
+        "id": "1812",
+        "category": "蒲县",
+        "father": "1786"
+    },
+    {
+        "id": "1813",
+        "category": "隰县",
+        "father": "1786"
+    },
+    {
+        "id": "1814",
+        "category": "吉县",
+        "father": "1786"
+    },
+    {
+        "id": "1815",
+        "category": "古县",
+        "father": "1786"
+    },
+    {
+        "id": "1816",
+        "category": "原平市",
+        "father": "1785"
+    },
+    {
+        "id": "1817",
+        "category": "偏关县",
+        "father": "1785"
+    },
+    {
+        "id": "1818",
+        "category": "保德县",
+        "father": "1785"
+    },
+    {
+        "id": "1819",
+        "category": "河曲县",
+        "father": "1785"
+    },
+    {
+        "id": "1820",
+        "category": "岢岚县",
+        "father": "1785"
+    },
+    {
+        "id": "1821",
+        "category": "五寨县",
+        "father": "1785"
+    },
+    {
+        "id": "1822",
+        "category": "神池县",
+        "father": "1785"
+    },
+    {
+        "id": "1823",
+        "category": "静乐县",
+        "father": "1785"
+    },
+    {
+        "id": "1824",
+        "category": "宁武县",
+        "father": "1785"
+    },
+    {
+        "id": "1825",
+        "category": "繁峙县",
+        "father": "1785"
+    },
+    {
+        "id": "1826",
+        "category": "五台县",
+        "father": "1785"
+    },
+    {
+        "id": "1827",
+        "category": "定襄县",
+        "father": "1785"
+    },
+    {
+        "id": "1828",
+        "category": "代县",
+        "father": "1785"
+    },
+    {
+        "id": "1829",
+        "category": "河津市",
+        "father": "1784"
+    },
+    {
+        "id": "1830",
+        "category": "永济市",
+        "father": "1784"
+    },
+    {
+        "id": "1831",
+        "category": "芮城县",
+        "father": "1784"
+    },
+    {
+        "id": "1832",
+        "category": "平陆县",
+        "father": "1784"
+    },
+    {
+        "id": "1833",
+        "category": "垣曲县",
+        "father": "1784"
+    },
+    {
+        "id": "1834",
+        "category": "新绛县",
+        "father": "1784"
+    },
+    {
+        "id": "1835",
+        "category": "稷山县",
+        "father": "1784"
+    },
+    {
+        "id": "1836",
+        "category": "闻喜县",
+        "father": "1784"
+    },
+    {
+        "id": "1837",
+        "category": "万荣县",
+        "father": "1784"
+    },
+    {
+        "id": "1838",
+        "category": "临猗县",
+        "father": "1784"
+    },
+    {
+        "id": "1839",
+        "category": "夏县",
+        "father": "1784"
+    },
+    {
+        "id": "1840",
+        "category": "绛县",
+        "father": "1784"
+    },
+    {
+        "id": "1841",
+        "category": "灵石县",
+        "father": "1783"
+    },
+    {
+        "id": "1842",
+        "category": "平遥县",
+        "father": "1783"
+    },
+    {
+        "id": "1843",
+        "category": "太谷县",
+        "father": "1783"
+    },
+    {
+        "id": "1844",
+        "category": "寿阳县",
+        "father": "1783"
+    },
+    {
+        "id": "1845",
+        "category": "昔阳县",
+        "father": "1783"
+    },
+    {
+        "id": "1846",
+        "category": "和顺县",
+        "father": "1783"
+    },
+    {
+        "id": "1847",
+        "category": "左权县",
+        "father": "1783"
+    },
+    {
+        "id": "1848",
+        "category": "榆社县",
+        "father": "1783"
+    },
+    {
+        "id": "1849",
+        "category": "介休市",
+        "father": "1783"
+    },
+    {
+        "id": "1850",
+        "category": "祁县",
+        "father": "1783"
+    },
+    {
+        "id": "1851",
+        "category": "怀仁县",
+        "father": "1782"
+    },
+    {
+        "id": "1852",
+        "category": "右玉县",
+        "father": "1782"
+    },
+    {
+        "id": "1853",
+        "category": "山阴县",
+        "father": "1782"
+    },
+    {
+        "id": "1854",
+        "category": "应县",
+        "father": "1782"
+    },
+    {
+        "id": "1855",
+        "category": "高平市",
+        "father": "1781"
+    },
+    {
+        "id": "1856",
+        "category": "泽州县",
+        "father": "1781"
+    },
+    {
+        "id": "1857",
+        "category": "陵川县",
+        "father": "1781"
+    },
+    {
+        "id": "1858",
+        "category": "阳城县",
+        "father": "1781"
+    },
+    {
+        "id": "1859",
+        "category": "沁水县",
+        "father": "1781"
+    },
+    {
+        "id": "1860",
+        "category": "潞城市",
+        "father": "1780"
+    },
+    {
+        "id": "1861",
+        "category": "沁源县",
+        "father": "1780"
+    },
+    {
+        "id": "1862",
+        "category": "武乡县",
+        "father": "1780"
+    },
+    {
+        "id": "1863",
+        "category": "长子县",
+        "father": "1780"
+    },
+    {
+        "id": "1864",
+        "category": "壶关县",
+        "father": "1780"
+    },
+    {
+        "id": "1865",
+        "category": "黎城县",
+        "father": "1780"
+    },
+    {
+        "id": "1866",
+        "category": "平顺县",
+        "father": "1780"
+    },
+    {
+        "id": "1867",
+        "category": "屯留县",
+        "father": "1780"
+    },
+    {
+        "id": "1868",
+        "category": "襄垣县",
+        "father": "1780"
+    },
+    {
+        "id": "1869",
+        "category": "长治县",
+        "father": "1780"
+    },
+    {
+        "id": "1870",
+        "category": "沁县",
+        "father": "1780"
+    },
+    {
+        "id": "1871",
+        "category": "盂县",
+        "father": "1779"
+    },
+    {
+        "id": "1872",
+        "category": "平定县",
+        "father": "1779"
+    },
+    {
+        "id": "1873",
+        "category": "大同县",
+        "father": "1778"
+    },
+    {
+        "id": "1874",
+        "category": "左云县",
+        "father": "1778"
+    },
+    {
+        "id": "1875",
+        "category": "浑源县",
+        "father": "1778"
+    },
+    {
+        "id": "1876",
+        "category": "灵丘县",
+        "father": "1778"
+    },
+    {
+        "id": "1877",
+        "category": "广灵县",
+        "father": "1778"
+    },
+    {
+        "id": "1878",
+        "category": "天镇县",
+        "father": "1778"
+    },
+    {
+        "id": "1879",
+        "category": "阳高县",
+        "father": "1778"
+    },
+    {
+        "id": "1880",
+        "category": "古交市",
+        "father": "1777"
+    },
+    {
+        "id": "1881",
+        "category": "娄烦县",
+        "father": "1777"
+    },
+    {
+        "id": "1882",
+        "category": "阳曲县",
+        "father": "1777"
+    },
+    {
+        "id": "1883",
+        "category": "清徐县",
+        "father": "1777"
+    },
+    {
+        "id": "1891",
+        "category": "濮阳市",
+        "father": "18"
+    },
+    {
+        "id": "1892",
+        "category": "许昌市",
+        "father": "18"
+    },
+    {
+        "id": "1893",
+        "category": "漯河市",
+        "father": "18"
+    },
+    {
+        "id": "1894",
+        "category": "南阳市",
+        "father": "18"
+    },
+    {
+        "id": "1895",
+        "category": "商丘市",
+        "father": "18"
+    },
+    {
+        "id": "1896",
+        "category": "周口市",
+        "father": "18"
+    },
+    {
+        "id": "1897",
+        "category": "信阳市",
+        "father": "18"
+    },
+    {
+        "id": "1898",
+        "category": "济源市",
+        "father": "18"
+    },
+    {
+        "id": "1899",
+        "category": "驻马店市",
+        "father": "18"
+    },
+    {
+        "id": "1900",
+        "category": "三门峡市",
+        "father": "18"
+    },
+    {
+        "id": "1901",
+        "category": "平顶山市",
+        "father": "18"
+    },
+    {
+        "id": "1902",
+        "category": "汝州市",
+        "father": "1901"
+    },
+    {
+        "id": "1903",
+        "category": "舞钢市",
+        "father": "1901"
+    },
+    {
+        "id": "1904",
+        "category": "鲁山县",
+        "father": "1901"
+    },
+    {
+        "id": "1905",
+        "category": "宝丰县",
+        "father": "1901"
+    },
+    {
+        "id": "1906",
+        "category": "郏县",
+        "father": "1901"
+    },
+    {
+        "id": "1907",
+        "category": "叶县",
+        "father": "1901"
+    },
+    {
+        "id": "1908",
+        "category": "灵宝市",
+        "father": "1900"
+    },
+    {
+        "id": "1909",
+        "category": "义马市",
+        "father": "1900"
+    },
+    {
+        "id": "1910",
+        "category": "卢氏县",
+        "father": "1900"
+    },
+    {
+        "id": "1911",
+        "category": "渑池县",
+        "father": "1900"
+    },
+    {
+        "id": "1912",
+        "category": "新蔡县",
+        "father": "1899"
+    },
+    {
+        "id": "1913",
+        "category": "遂平县",
+        "father": "1899"
+    },
+    {
+        "id": "1914",
+        "category": "汝南县",
+        "father": "1899"
+    },
+    {
+        "id": "1915",
+        "category": "泌阳县",
+        "father": "1899"
+    },
+    {
+        "id": "1916",
+        "category": "确山县",
+        "father": "1899"
+    },
+    {
+        "id": "1917",
+        "category": "正阳县",
+        "father": "1899"
+    },
+    {
+        "id": "1918",
+        "category": "平舆县",
+        "father": "1899"
+    },
+    {
+        "id": "1919",
+        "category": "上蔡县",
+        "father": "1899"
+    },
+    {
+        "id": "1920",
+        "category": "西平县",
+        "father": "1899"
+    },
+    {
+        "id": "1921",
+        "category": "息县",
+        "father": "1897"
+    },
+    {
+        "id": "1922",
+        "category": "新县",
+        "father": "1897"
+    },
+    {
+        "id": "1923",
+        "category": "潢川县",
+        "father": "1897"
+    },
+    {
+        "id": "1924",
+        "category": "固始县",
+        "father": "1897"
+    },
+    {
+        "id": "1925",
+        "category": "商城县",
+        "father": "1897"
+    },
+    {
+        "id": "1926",
+        "category": "淮滨县",
+        "father": "1897"
+    },
+    {
+        "id": "1927",
+        "category": "光山县",
+        "father": "1897"
+    },
+    {
+        "id": "1928",
+        "category": "罗山县",
+        "father": "1897"
+    },
+    {
+        "id": "1929",
+        "category": "项城市",
+        "father": "1896"
+    },
+    {
+        "id": "1930",
+        "category": "鹿邑县",
+        "father": "1896"
+    },
+    {
+        "id": "1931",
+        "category": "太康县",
+        "father": "1896"
+    },
+    {
+        "id": "1932",
+        "category": "淮阳县",
+        "father": "1896"
+    },
+    {
+        "id": "1933",
+        "category": "郸城县",
+        "father": "1896"
+    },
+    {
+        "id": "1934",
+        "category": "沈丘县",
+        "father": "1896"
+    },
+    {
+        "id": "1935",
+        "category": "商水县",
+        "father": "1896"
+    },
+    {
+        "id": "1936",
+        "category": "西华县",
+        "father": "1896"
+    },
+    {
+        "id": "1937",
+        "category": "扶沟县",
+        "father": "1896"
+    },
+    {
+        "id": "1938",
+        "category": "永城市",
+        "father": "1895"
+    },
+    {
+        "id": "1939",
+        "category": "夏邑县",
+        "father": "1895"
+    },
+    {
+        "id": "1940",
+        "category": "虞城县",
+        "father": "1895"
+    },
+    {
+        "id": "1941",
+        "category": "柘城县",
+        "father": "1895"
+    },
+    {
+        "id": "1942",
+        "category": "宁陵县",
+        "father": "1895"
+    },
+    {
+        "id": "1943",
+        "category": "民权县",
+        "father": "1895"
+    },
+    {
+        "id": "1944",
+        "category": "睢县",
+        "father": "1895"
+    },
+    {
+        "id": "1945",
+        "category": "邓州市",
+        "father": "1894"
+    },
+    {
+        "id": "1946",
+        "category": "桐柏县",
+        "father": "1894"
+    },
+    {
+        "id": "1947",
+        "category": "新野县",
+        "father": "1894"
+    },
+    {
+        "id": "1948",
+        "category": "唐河县",
+        "father": "1894"
+    },
+    {
+        "id": "1949",
+        "category": "社旗县",
+        "father": "1894"
+    },
+    {
+        "id": "1950",
+        "category": "淅川县",
+        "father": "1894"
+    },
+    {
+        "id": "1951",
+        "category": "内乡县",
+        "father": "1894"
+    },
+    {
+        "id": "1952",
+        "category": "镇平县",
+        "father": "1894"
+    },
+    {
+        "id": "1953",
+        "category": "西峡县",
+        "father": "1894"
+    },
+    {
+        "id": "1954",
+        "category": "方城县",
+        "father": "1894"
+    },
+    {
+        "id": "1955",
+        "category": "南召县",
+        "father": "1894"
+    },
+    {
+        "id": "1956",
+        "category": "临颍县",
+        "father": "1893"
+    },
+    {
+        "id": "1957",
+        "category": "舞阳县",
+        "father": "1893"
+    },
+    {
+        "id": "1958",
+        "category": "长葛市",
+        "father": "1892"
+    },
+    {
+        "id": "1959",
+        "category": "禹州市",
+        "father": "1892"
+    },
+    {
+        "id": "1960",
+        "category": "襄城县",
+        "father": "1892"
+    },
+    {
+        "id": "1961",
+        "category": "鄢陵县",
+        "father": "1892"
+    },
+    {
+        "id": "1962",
+        "category": "濮阳县",
+        "father": "1891"
+    },
+    {
+        "id": "1963",
+        "category": "台前县",
+        "father": "1891"
+    },
+    {
+        "id": "1964",
+        "category": "南乐县",
+        "father": "1891"
+    },
+    {
+        "id": "1965",
+        "category": "清丰县",
+        "father": "1891"
+    },
+    {
+        "id": "1966",
+        "category": "范县",
+        "father": "1891"
+    }
+]

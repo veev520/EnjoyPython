@@ -42,10 +42,14 @@ def get_show_by_id(id):
             p_list = content.find_all('p')
             content_list = list()
             for p in p_list:
-                if p.has_attr('style'):
-                    content_list.append({'type': 'img',
-                                         'url': p.img['src'],
-                                         'desc': p.span.text})
+                if p.img:
+                    d = {
+                        'type': 'img',
+                        'url': p.img['src']
+                    }
+                    if p.span:
+                        d['desc'] = p.span.text
+                    content_list.append(d)
                     pass
                 else:
                     content_list.append({'type': 'text',
@@ -67,7 +71,4 @@ def parse_show(content):
 
 
 if __name__ == '__main__':
-    for i in range(1314, 2919):
-        get_show_by_id(i)
-        time.sleep(0.5)
     pass
