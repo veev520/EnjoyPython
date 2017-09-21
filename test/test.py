@@ -1,19 +1,45 @@
-import requests
-import re
-import random
+from functools import wraps
+
+
+class LogIt(object):
+    def __init__(self, print_time=False):
+        self.p = print_time
+    pass
+
+    def __call__(self, f):
+        @wraps(f)
+        def wrap(*args, **kwargs):
+            import time
+            if self.p:
+                print(time.ctime(), f.__name__ + '() was called')
+            else:
+                print(f.__name__ + '() was called')
+            return f(*args, **kwargs)
+        return wrap
+
+
+def hi(print_time=False):
+    def hi_decorator(f):
+        @wraps(f)
+        def wrap(*args, **kwargs):
+            import time
+            if print_time:
+                print(time.ctime(), f.__name__ + '() was called')
+            else:
+                print(f.__name__ + '() was called')
+            return f(*args, **kwargs)
+        return wrap
+    return hi_decorator
+
+
+@LogIt(print_time=0)
+def foo():
+    print('我是一个方法')
 
 
 def main():
-    is_archives = 'http://aladd.net/archives/\d+.html'
-    url = 'http://aladd.net/archives/32.635.html'
-    if re.match('http://aladd.net/archives/\d+.html', url):
-        print(True)
-    else:
-        print(False)
-
-    print(re.findall('fast_color', 'haha 90dsaflkj > fast_color safsadlfjlk'))
-    fmt = '{:2}\t{:3}'
-    print(fmt.format(1,2))
+    foo()
+    pass
 
 
 if __name__ == '__main__':

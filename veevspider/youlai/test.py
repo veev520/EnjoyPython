@@ -35,6 +35,10 @@ def get_category():
     pass
 
 
+def get_content():
+    pass
+
+
 if __name__ == '__main__':
     # 读取数据
     with open('category.json', 'r', encoding='utf-8') as f:
