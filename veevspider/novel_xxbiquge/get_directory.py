@@ -115,7 +115,9 @@ def get_sections(novel_id):
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1"
     }
+    index = 0
     for section in sections:
+        index += 1
         url = BASE_URL + section['url']
         try:
             r = requests.get(url, headers=header)
@@ -125,7 +127,8 @@ def get_sections(novel_id):
                 content = soup.find('div', id='content')
                 bookname = soup.find_all('div', {'class': 'bookname'})[0].h1.text
                 print(bookname)
-                with open(BASE_PATH + title + '/' + bookname + '.txt', 'w+', encoding='utf-8') as f:
+                with open(BASE_PATH + title + '/' + '{:0>4}'.format(index) + '_' + bookname + '.txt', 'w+', encoding='utf-8') as f:
+                    # 便于排序, 开头用 0001表示第一个文件
                     f.write(bookname)
                     f.write('\n\n')
                     f.write(str(content).replace('<br/><br/>', '\r\n').replace('<div id="content">', '').replace('</div>', ''))
@@ -138,6 +141,6 @@ def get_sections(novel_id):
 
 if __name__ == '__main__':
     # get_list('10_10929')
-    # get_list('74_74821
-    get_sections('10_10929')
+    # get_list('74_74821')
+    get_sections('74_74821')
     pass

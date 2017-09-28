@@ -50,6 +50,8 @@ def main():
 
     s = 'qwe001qwe'
     print(re.search('\d{2,}', s))
+    i = 1
+    print('{:0>4}'.format(i))
     pass
 
 
