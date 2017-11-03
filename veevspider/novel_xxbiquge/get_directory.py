@@ -55,10 +55,15 @@ def get_novel_form_index(_id):
     else:
         return None
     title = d.get(_id)
+    print(title)
     return title if title else None
 
 
 def get_list(novel_id):
+    """
+    获取章节列表
+    :param novel_id:
+    """
     url = BASE_URL + '/' + str(novel_id) + '/'
     header = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36",
@@ -94,6 +99,11 @@ def get_list(novel_id):
 
 
 def get_sections(novel_id):
+    """
+    爬取小说章节
+    :param novel_id:
+    :return:
+    """
     title = get_novel_form_index(novel_id)
     if not title:
         print("Don 's has novel " + novel_id)
@@ -139,8 +149,30 @@ def get_sections(novel_id):
     pass
 
 
+def create_novel(novel_id):
+    """
+    生成小说
+    :param novel_id:
+    """
+    name = get_novel_form_index(novel_id)
+    path = BASE_PATH + name
+    novel_path = path + '/' + name + '.txt'
+    print(novel_path)
+    novel_list = []
+    for f in os.listdir(path):
+        if re.match('\d{4}', str(f)):
+            novel_list.append(f)
+    n1 = sorted(novel_list, key=lambda d: d[0:4], reverse=False)
+    for n in n1:
+        with open(path + '/' + n, 'r', encoding='utf-8') as novel_content:
+            with open(novel_path, 'a', encoding='utf-8') as novel_file:
+                novel_file.write(novel_content.read() + '\n\n')
+    pass
+
+
 if __name__ == '__main__':
     # get_list('10_10929')
     # get_list('74_74821')
-    get_sections('74_74821')
+    get_sections('10_10929')
+    # create_novel('10_10929')
     pass
