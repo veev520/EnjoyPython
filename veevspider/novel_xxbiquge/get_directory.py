@@ -136,13 +136,15 @@ def get_sections(novel_id):
                 soup = BeautifulSoup(r.text, 'lxml')
                 content = soup.find('div', id='content')
                 bookname = soup.find_all('div', {'class': 'bookname'})[0].h1.text
+                # Windows 文件名 不能包含字符 ? " * | < > 、/ \ :
+                bookname = bookname.replace('?', '').replace('"', '').replace('、', ' ').replace('*', 'x')
                 print(bookname)
                 with open(BASE_PATH + title + '/' + '{:0>4}'.format(index) + '_' + bookname + '.txt', 'w+', encoding='utf-8') as f:
                     # 便于排序, 开头用 0001表示第一个文件
                     f.write(bookname)
                     f.write('\n\n')
                     f.write(str(content).replace('<br/><br/>', '\r\n').replace('<div id="content">', '').replace('</div>', ''))
-                time.sleep(1)
+                time.sleep(0.3)
         except Exception as e:
             print(e)
             continue
@@ -166,13 +168,18 @@ def create_novel(novel_id):
     for n in n1:
         with open(path + '/' + n, 'r', encoding='utf-8') as novel_content:
             with open(novel_path, 'a', encoding='utf-8') as novel_file:
-                novel_file.write(novel_content.read() + '\n\n')
+                novel_file.write(novel_content.read().replace('\n\n', '\n').replace('    ', '  ') + '\n\n')
     pass
 
 
 if __name__ == '__main__':
     # get_list('10_10929')
     # get_list('74_74821')
-    get_sections('10_10929')
+    # get_list('0_347') # 武炼巅峰
+    # get_sections('0_347')
+    # get_sections('10_10929')
     # create_novel('10_10929')
+    # get_list('74_74821')
+    # get_sections('74_74821')
+    create_novel('74_74821')
     pass
