@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+一摞Python风格的纸牌
+"""
+
+
 import collections
 from random import choice
 
@@ -42,10 +48,30 @@ if __name__ == '__main__':
         print('迭代', end=': ')
         print(c, end=', ')
     print()
+    for c in reversed(deck):
+        print('反向迭代', end=': ')
+        print(c, end=', ')
+    print()
 
     # 由于没有实现 __contains__ in 实际上是迭代搜索
     print(card in deck)
     print(Card('666', 'club') in deck)
+
+    # 排序
+    suit_values = dict(spades=3, hearts=2, diamonds=1, clubs=0)
+
+
+    def spades_high(card):
+        rank_value = FrenchDeck.ranks.index(card.rank)
+        return rank_value * len(suit_values) + suit_values[card.suit]
+
+    print('排序', end=': ')
+    for card in sorted(deck, key=spades_high):
+        print(card, end=', ')
+    print()
+
+
+
 
 
 
